@@ -1,0 +1,2533 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "entries": [
+    {
+      "id": "107491076",
+      "name": "蒜蓉蚝油生菜",
+      "url": "https://www.xiachufang.com/recipe/107491076/",
+      "author": "随便做做xx",
+      "score": 7.6,
+      "made": 190,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "生菜",
+          "amount": "一个"
+        },
+        {
+          "name": "蒜",
+          "amount": "5瓣"
+        },
+        {
+          "name": "生抽",
+          "amount": "两勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "一勺"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "糖",
+          "amount": "适量"
+        },
+        {
+          "name": "香油",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 1
+      },
+      "image": {
+        "local": "images/2026-11-09/107491076.jpg",
+        "source": "https://i2.chuimg.com/08a60c0a095448508b1071e0079f2467_1280w_1706h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107084457",
+      "name": "香菜炒牛肉，香辣下饭，爱吃香菜的朋友看过来，拌饭绝了",
+      "url": "https://www.xiachufang.com/recipe/107084457/",
+      "author": "菠萝精呀",
+      "score": 8.1,
+      "made": 685,
+      "desc": "爱吃香菜的朋友请举手，一定要试下这道香菜牛肉，特别下饭，这样做牛肉完全不会咬不动，开大火爆炒，锅气满满~一点都不输饭店的味道😍",
+      "ingredients": [
+        {
+          "name": "牛肉",
+          "amount": "1斤"
+        },
+        {
+          "name": "香菜",
+          "amount": "适量"
+        },
+        {
+          "name": "姜蒜",
+          "amount": "适量"
+        },
+        {
+          "name": "小米辣",
+          "amount": "8个"
+        },
+        {
+          "name": "泡椒",
+          "amount": "5个"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 2
+      },
+      "image": {
+        "local": "images/2026-11-09/107084457.jpg",
+        "source": "https://i2.chuimg.com/97c0cf411d9f4b24b1c38648162b2cef_1920w_2560h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "105823550",
+      "name": "酸辣脆爽的萝卜，当零食都非常好",
+      "url": "https://www.xiachufang.com/recipe/105823550/",
+      "author": "果桃的妈妈",
+      "score": 7.9,
+      "made": 435,
+      "desc": "我个人喜欢吃酸辣口味的，这个萝卜放了一点醋，并不酸，但非常好吃，我四岁的女儿拌面条吃了一小碟，还要再吃，确实口感好，酸辣脆爽，吃一口还想再吃一口。",
+      "ingredients": [
+        {
+          "name": "白萝卜",
+          "amount": "1个"
+        },
+        {
+          "name": "糖",
+          "amount": "125克"
+        },
+        {
+          "name": "醋",
+          "amount": "2勺"
+        },
+        {
+          "name": "味极鲜",
+          "amount": "3勺"
+        },
+        {
+          "name": "鸡精",
+          "amount": "2克"
+        },
+        {
+          "name": "小米辣",
+          "amount": "5个"
+        }
+      ],
+      "stepCount": 3,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 3
+      },
+      "image": {
+        "local": "images/2026-11-09/105823550.jpg",
+        "source": "https://i2.chuimg.com/ee4ba0c6a8dd4dfb8a4980b7bd91c4c3_780w_1040h.jpg"
+      },
+      "category": "凉菜小吃"
+    },
+    {
+      "id": "105910837",
+      "name": "超开胃的番茄土豆肥牛汤‼️下米饭无敌了",
+      "url": "https://www.xiachufang.com/recipe/105910837/",
+      "author": "陈可可的味道",
+      "score": 7.6,
+      "made": 1992,
+      "desc": "🌈大家周末快乐呀～\n今天分享一道超超超开胃又好喝的番茄土豆肥牛汤，汤汁拌米饭太下饭太好吃了👏食材简单，做法也简单，零难度快来试试看～",
+      "ingredients": [
+        {
+          "name": "土豆",
+          "amount": "1个"
+        },
+        {
+          "name": "番茄",
+          "amount": "1个"
+        },
+        {
+          "name": "肥牛",
+          "amount": "200克"
+        },
+        {
+          "name": "大蒜",
+          "amount": "1瓣"
+        },
+        {
+          "name": "小葱",
+          "amount": "1根"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 4
+      },
+      "image": {
+        "local": "images/2026-11-09/105910837.jpg",
+        "source": "https://i2.chuimg.com/9e40635f20914169ae2dd5a957177953_1534w_2046h.jpg"
+      },
+      "category": "汤羹"
+    },
+    {
+      "id": "106409940",
+      "name": "芝士烤牛奶",
+      "url": "https://www.xiachufang.com/recipe/106409940/",
+      "author": "-薄荷糖的味道-",
+      "score": 7.2,
+      "made": 506,
+      "desc": "今天来分享一款超简单的牛奶吃法，零失败，新手小白也能一次成功！",
+      "ingredients": [
+        {
+          "name": "牛奶",
+          "amount": "500克"
+        },
+        {
+          "name": "蛋黄",
+          "amount": "2个"
+        },
+        {
+          "name": "玉米淀粉",
+          "amount": "50克"
+        },
+        {
+          "name": "白砂糖",
+          "amount": "30克"
+        },
+        {
+          "name": "芝士",
+          "amount": "1片"
+        },
+        {
+          "name": "表面：蛋黄液",
+          "amount": "少许"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 5
+      },
+      "image": {
+        "local": "images/2026-11-09/106409940.jpg",
+        "source": "https://i2.chuimg.com/1b93ec8322024abe86c444041f01dedf_2880w_3840h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "107825574",
+      "name": "萝卜丝素包子",
+      "url": "https://www.xiachufang.com/recipe/107825574/",
+      "author": "莱沫",
+      "score": null,
+      "made": 0,
+      "desc": "新鲜的萝卜下来了，今天用它做个素馅包子",
+      "ingredients": [
+        {
+          "name": "面粉",
+          "amount": "适量"
+        },
+        {
+          "name": "酵母",
+          "amount": "适量"
+        },
+        {
+          "name": "萝卜",
+          "amount": "3个"
+        },
+        {
+          "name": "木耳",
+          "amount": "适量"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "4颗"
+        },
+        {
+          "name": "粉条",
+          "amount": "适量"
+        },
+        {
+          "name": "胡萝卜",
+          "amount": "2根"
+        },
+        {
+          "name": "葱、姜",
+          "amount": "适量"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "老抽",
+          "amount": "适量"
+        },
+        {
+          "name": "蚝油",
+          "amount": "适量"
+        },
+        {
+          "name": "十三香",
+          "amount": "少许"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 6
+      },
+      "image": {
+        "local": "images/2026-11-09/107825574.jpg",
+        "source": "https://i2.chuimg.com/f3c3a0dd826e4a07aa036c4c5beff4ec_1224w_1764h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "106499878",
+      "name": "想吃一辈子❗️番茄肥牛烩饭",
+      "url": "https://www.xiachufang.com/recipe/106499878/",
+      "author": "樱菡食记",
+      "score": 7.9,
+      "made": 723,
+      "desc": "烈日炎炎是不是没有食欲了？我用冰箱里剩余的一些食材做了今天这道番茄肥牛烩饭，那个浓郁的酸甜又鲜美的酱汁完全一扫之前没有食欲的感觉，吃完惊呼一句：想吃一辈子❗️",
+      "ingredients": [
+        {
+          "name": "西红柿",
+          "amount": "2个"
+        },
+        {
+          "name": "肥牛",
+          "amount": "500克"
+        },
+        {
+          "name": "土豆",
+          "amount": "1个"
+        },
+        {
+          "name": "洋葱",
+          "amount": "半个"
+        }
+      ],
+      "stepCount": 9,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 7
+      },
+      "image": {
+        "local": "images/2026-11-09/106499878.jpg",
+        "source": "https://i2.chuimg.com/0d05cf16b4d746c1816e6a6228e55a82_862w_1150h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "106555446",
+      "name": "外焦里嫩！好吃到舔手指的蒜香烤排骨",
+      "url": "https://www.xiachufang.com/recipe/106555446/",
+      "author": "厨房笔记-fang",
+      "score": 7.7,
+      "made": 845,
+      "desc": "今天做了一份无需油炸的蒜香烤排骨！外焦里嫩，爆汁鲜嫩的排骨，非常入味，吃起来不油腻，连骨头都不想放过～喜欢吃排骨的姐妹赶紧安排上……\n！",
+      "ingredients": [
+        {
+          "name": "排骨",
+          "amount": "800克"
+        },
+        {
+          "name": "盐",
+          "amount": "5克"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "2勺"
+        },
+        {
+          "name": "料酒",
+          "amount": "1勺"
+        },
+        {
+          "name": "大蒜",
+          "amount": "3瓣"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "黑胡椒粉",
+          "amount": "一小勺"
+        },
+        {
+          "name": "糖",
+          "amount": "5克"
+        }
+      ],
+      "stepCount": 11,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 8
+      },
+      "image": {
+        "local": "images/2026-11-09/106555446.jpg",
+        "source": "https://i2.chuimg.com/c8f0b76426154dc2b7f45d61dcd42cdf_960w_1280h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107805600",
+      "name": "🥞半烫面葱香肉饼（不发酵｜可生胚冷冻备餐·小美版）",
+      "url": "https://www.xiachufang.com/recipe/107805600/",
+      "author": "尚雯Sunny",
+      "score": 7.2,
+      "made": 2,
+      "desc": "一层肉一层饼",
+      "ingredients": [
+        {
+          "name": "中筋面粉",
+          "amount": "300克"
+        }
+      ],
+      "stepCount": 2,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 9
+      },
+      "image": {
+        "local": "images/2026-11-09/107805600.jpg",
+        "source": "https://i2.chuimg.com/6fc1c95a8ba24b3eade8ec32052a0f48_1080w_1920h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "107339380",
+      "name": "下饭菜“青椒酿肉”，香糯多汁鲜嫩下饭",
+      "url": "https://www.xiachufang.com/recipe/107339380/",
+      "author": "胖姐厨房日记",
+      "score": 7.8,
+      "made": 397,
+      "desc": "最新get的“下饭神菜”虎皮青椒酿肉\n\n肉嫩多汁、青椒入味、酱汁浓郁，拌米饭真的绝了～",
+      "ingredients": [
+        {
+          "name": "青椒",
+          "amount": "4根"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "胡椒粉",
+          "amount": "3克"
+        },
+        {
+          "name": "淀粉",
+          "amount": "5克"
+        },
+        {
+          "name": "老抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "肉沫",
+          "amount": "200克"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 10
+      },
+      "image": {
+        "local": "images/2026-11-09/107339380.jpg",
+        "source": "https://i2.chuimg.com/74b2c8cd4c01467c944f4224afa44b4a_960w_1280h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107407712",
+      "name": "鲜香味美！巨好喝的山药排骨汤！！",
+      "url": "https://www.xiachufang.com/recipe/107407712/",
+      "author": "婧妞美食",
+      "score": 7.6,
+      "made": 60,
+      "desc": "排骨汤这么做汤汁鲜美、好喝又营养\n大人小孩都爱喝，喝完全身暖暖哒‼️\n中秋团圆菜可以安排上喽！不好喝算我输～",
+      "ingredients": [
+        {
+          "name": "排骨",
+          "amount": "1斤"
+        },
+        {
+          "name": "山药",
+          "amount": "1根"
+        },
+        {
+          "name": "胡萝卜",
+          "amount": "1根"
+        },
+        {
+          "name": "玉米",
+          "amount": "1根"
+        },
+        {
+          "name": "盐",
+          "amount": "少许"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 11
+      },
+      "image": {
+        "local": "images/2026-11-09/107407712.jpg",
+        "source": "https://i2.chuimg.com/7a3b705b2aeb4b3f9f6377affcfe8890_1280w_1706h.jpg"
+      },
+      "category": "汤羹"
+    },
+    {
+      "id": "106871621",
+      "name": "白玉菇炒火腿",
+      "url": "https://www.xiachufang.com/recipe/106871621/",
+      "author": "薇薇的私藏厨房i",
+      "score": 7.5,
+      "made": 969,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "白玉菇",
+          "amount": "克"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "个"
+        },
+        {
+          "name": "青红椒，火腿肠",
+          "amount": ""
+        },
+        {
+          "name": "葱，蒜",
+          "amount": "瓣"
+        },
+        {
+          "name": "生抽，蚝油，盐，鸡精",
+          "amount": ""
+        }
+      ],
+      "stepCount": 6,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 12
+      },
+      "image": {
+        "local": "images/2026-11-09/106871621.jpg",
+        "source": "https://i2.chuimg.com/88d89bc013374c4aaeb87301dc20a64e_999w_1526h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107762519",
+      "name": "虾仁豆腐蒸蛋",
+      "url": "https://www.xiachufang.com/recipe/107762519/",
+      "author": "啊啊啊啊1234000",
+      "score": null,
+      "made": 4,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "嫩豆腐",
+          "amount": ""
+        },
+        {
+          "name": "三个鸡蛋",
+          "amount": ""
+        },
+        {
+          "name": "西兰花",
+          "amount": ""
+        },
+        {
+          "name": "虾仁",
+          "amount": ""
+        },
+        {
+          "name": "生抽",
+          "amount": ""
+        },
+        {
+          "name": "香油",
+          "amount": ""
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 14
+      },
+      "image": {
+        "local": "images/2026-11-09/107762519.jpg",
+        "source": "https://i2.chuimg.com/2ad75d75a1a64e12a1830c9e5467b4c1_1080w_1920h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "106403214",
+      "name": "可乐鸡翅",
+      "url": "https://www.xiachufang.com/recipe/106403214/",
+      "author": "阿白和猫",
+      "score": 7.8,
+      "made": 1071,
+      "desc": "万年不出错的一道美食，可乐鸡翅你值得拥有🍗",
+      "ingredients": [
+        {
+          "name": "鸡翅",
+          "amount": "8个"
+        },
+        {
+          "name": "老抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "可乐",
+          "amount": "适量"
+        },
+        {
+          "name": "葱姜蒜",
+          "amount": "适量"
+        },
+        {
+          "name": "料酒",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 17,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 15
+      },
+      "image": {
+        "local": "images/2026-11-09/106403214.jpg",
+        "source": "https://i2.chuimg.com/09a629c7a3ef4ae0affb2a20e26c4c63_1050w_787h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "106806926",
+      "name": "超级下饭的家常菜～清炒四季豆",
+      "url": "https://www.xiachufang.com/recipe/106806926/",
+      "author": "厨房笔记-fang",
+      "score": 7.4,
+      "made": 457,
+      "desc": "哈喽～大家好吖！今天分享下饭的家常菜～清菜四季豆！这样做比肉还香，不仅入味还下饭！！百吃不腻，每次都被店名的一道菜～看着很简单对不对，但是真的好好吃～不信你试试",
+      "ingredients": [
+        {
+          "name": "四季豆",
+          "amount": "500克"
+        },
+        {
+          "name": "小米辣",
+          "amount": "3个"
+        },
+        {
+          "name": "蒜",
+          "amount": "3瓣"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "盐和糖",
+          "amount": "5克"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "淀粉",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 16
+      },
+      "image": {
+        "local": "images/2026-11-09/106806926.jpg",
+        "source": "https://i2.chuimg.com/6ac6cc19c1d24db886f693322ad1b2c4_1921w_2560h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107374505",
+      "name": "巨巨巨掉称的凉拌菜🥦",
+      "url": "https://www.xiachufang.com/recipe/107374505/",
+      "author": "云淡风轻sl",
+      "score": 7.4,
+      "made": 26,
+      "desc": "今天分享个减脂餐~西蓝花拌木耳低卡好吃，解馋解腻的一道凉拌菜西蓝花清脆，木耳爽口，搭配酸辣的酱汁。整一个被惊艳到了~做法简单，拌一拌就好了，喜欢的朋友快去试试😘",
+      "ingredients": [
+        {
+          "name": "西兰花",
+          "amount": "1整颗"
+        },
+        {
+          "name": "木耳",
+          "amount": "1把"
+        },
+        {
+          "name": "蒜末",
+          "amount": "2勺"
+        },
+        {
+          "name": "小米辣",
+          "amount": "2个"
+        },
+        {
+          "name": "芝麻",
+          "amount": "1勺"
+        },
+        {
+          "name": "辣椒粉",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "2勺"
+        },
+        {
+          "name": "陈醋",
+          "amount": "1勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "盐",
+          "amount": "少许"
+        },
+        {
+          "name": "鸡精",
+          "amount": "少许"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 17
+      },
+      "image": {
+        "local": "images/2026-11-09/107374505.jpg",
+        "source": "https://i2.chuimg.com/506c11fcd671440fba803a427253f3a7_720w_960h.jpg"
+      },
+      "category": "凉菜小吃"
+    },
+    {
+      "id": "107804776",
+      "name": "16款糖水甜品",
+      "url": "https://www.xiachufang.com/recipe/107804776/",
+      "author": "Jing丫",
+      "score": 7,
+      "made": 3,
+      "desc": "来源于视频号",
+      "ingredients": [
+        {
+          "name": "水",
+          "amount": ""
+        }
+      ],
+      "stepCount": 16,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 18
+      },
+      "image": {
+        "local": "images/2026-11-09/107804776.jpg",
+        "source": "https://i2.chuimg.com/e4e47fd63ce54dd69abb4696c2eca30c_1280w_1698h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "107220054",
+      "name": "酸辣土豆丝",
+      "url": "https://www.xiachufang.com/recipe/107220054/",
+      "author": "今天好好吃饭了咩",
+      "score": 7.1,
+      "made": 246,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "土豆",
+          "amount": "3个"
+        },
+        {
+          "name": "干辣椒",
+          "amount": "2根"
+        },
+        {
+          "name": "蒜",
+          "amount": "2瓣"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "醋",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "葱段",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 19
+      },
+      "image": {
+        "local": "images/2026-11-09/107220054.jpg",
+        "source": "https://i2.chuimg.com/07b53e6f17b34baab52947905e531343_1280w_1706h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107349422",
+      "name": "口蘑炒鸡蛋",
+      "url": "https://www.xiachufang.com/recipe/107349422/",
+      "author": "木瓜小厨房",
+      "score": 7.2,
+      "made": 274,
+      "desc": "简简单单的一道菜\n营养丰富，口感嫩滑",
+      "ingredients": [
+        {
+          "name": "口蘑",
+          "amount": "200克"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "2个"
+        },
+        {
+          "name": "蒜",
+          "amount": "半个"
+        },
+        {
+          "name": "姜",
+          "amount": "1块"
+        },
+        {
+          "name": "青椒",
+          "amount": "1个"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "生粉",
+          "amount": "半勺"
+        },
+        {
+          "name": "盐",
+          "amount": "四分之一勺"
+        },
+        {
+          "name": "油",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 9,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 20
+      },
+      "image": {
+        "local": "images/2026-11-09/107349422.jpg",
+        "source": "https://i2.chuimg.com/91030ba7abe74712b0542804eefaec23_1280w_876h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107078425",
+      "name": "家常糖醋里脊",
+      "url": "https://www.xiachufang.com/recipe/107078425/",
+      "author": "Annie煮妇手记",
+      "score": 8,
+      "made": 318,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "猪里脊",
+          "amount": "300克"
+        },
+        {
+          "name": "料酒",
+          "amount": "少许"
+        },
+        {
+          "name": "盐",
+          "amount": "2克"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "1个"
+        },
+        {
+          "name": "番茄酱",
+          "amount": "4勺"
+        },
+        {
+          "name": "水",
+          "amount": "4勺"
+        },
+        {
+          "name": "糖",
+          "amount": "2少"
+        },
+        {
+          "name": "白醋",
+          "amount": "2勺"
+        },
+        {
+          "name": "玉米淀粉",
+          "amount": "40克"
+        },
+        {
+          "name": "面粉",
+          "amount": "40克"
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 21
+      },
+      "image": {
+        "local": "images/2026-11-09/107078425.jpg",
+        "source": "https://i2.chuimg.com/584617789d7d4ed3928ed00ca2f50008_3343w_2560h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107312845",
+      "name": "万能的“拌面，水饺🥟”调料",
+      "url": "https://www.xiachufang.com/recipe/107312845/",
+      "author": "胖姐厨房日记",
+      "score": 8.8,
+      "made": 29,
+      "desc": "有了这份详细的调料比例，谁还去外面吃面呀",
+      "ingredients": [
+        {
+          "name": "蒜末",
+          "amount": "一头"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "香油",
+          "amount": "适量"
+        },
+        {
+          "name": "葱",
+          "amount": "2根"
+        },
+        {
+          "name": "鸡精",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "糖",
+          "amount": "3克"
+        }
+      ],
+      "stepCount": 6,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 22
+      },
+      "image": {
+        "local": "images/2026-11-09/107312845.jpg",
+        "source": "https://i2.chuimg.com/a8989d12e6db41d6811d6fa75e6d89c5_690w_880h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "107651887",
+      "name": "杂酱",
+      "url": "https://www.xiachufang.com/recipe/107651887/",
+      "author": "无核-桃",
+      "score": 7.3,
+      "made": 7,
+      "desc": "上次家里没有黄豆酱和甜面酱炒了炸酱，这次为了包包子，重新炒了炸酱，吃杂酱面、肉沫蒸蛋，包包子都很安逸",
+      "ingredients": [
+        {
+          "name": "猪肉末",
+          "amount": "1斤"
+        },
+        {
+          "name": "菜油",
+          "amount": "适量"
+        },
+        {
+          "name": "老姜",
+          "amount": "一小块"
+        },
+        {
+          "name": "大蒜",
+          "amount": "5瓣"
+        },
+        {
+          "name": "白酒（料酒也可以）",
+          "amount": "适量"
+        },
+        {
+          "name": "黄豆酱",
+          "amount": "1勺"
+        },
+        {
+          "name": "甜面酱",
+          "amount": "2勺"
+        },
+        {
+          "name": "白糖",
+          "amount": "适量"
+        },
+        {
+          "name": "味精",
+          "amount": "适量"
+        },
+        {
+          "name": "花椒粉",
+          "amount": "1茶匙"
+        }
+      ],
+      "stepCount": 9,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 23
+      },
+      "image": {
+        "local": "images/2026-11-09/107651887.jpg",
+        "source": "https://i2.chuimg.com/d48841855dad440c8e433d7adffb2b2d_1280w_1706h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "107031588",
+      "name": "好吃到舔盘的肥牛金针菇卷",
+      "url": "https://www.xiachufang.com/recipe/107031588/",
+      "author": "今天脸又圆了呢",
+      "score": 7.1,
+      "made": 535,
+      "desc": "超级下饭好吃到舔盘 巨简单好做",
+      "ingredients": [
+        {
+          "name": "肥牛",
+          "amount": ""
+        },
+        {
+          "name": "小米椒",
+          "amount": ""
+        },
+        {
+          "name": "金针菇",
+          "amount": ""
+        },
+        {
+          "name": "蒜末",
+          "amount": ""
+        }
+      ],
+      "stepCount": 6,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 24
+      },
+      "image": {
+        "local": "images/2026-11-09/107031588.jpg",
+        "source": "https://i2.chuimg.com/8a12f235623e41ea95a53a9308e4e685_690w_699h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107354475",
+      "name": "家庭版酸辣汤",
+      "url": "https://www.xiachufang.com/recipe/107354475/",
+      "author": "优优颍川守",
+      "score": 7.8,
+      "made": 127,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "番茄",
+          "amount": "一个"
+        },
+        {
+          "name": "豆腐",
+          "amount": "一块"
+        },
+        {
+          "name": "金针菇",
+          "amount": "一把"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "两个"
+        },
+        {
+          "name": "木耳",
+          "amount": "少许"
+        },
+        {
+          "name": "香菇",
+          "amount": "少许"
+        },
+        {
+          "name": "火腿",
+          "amount": "两根"
+        },
+        {
+          "name": "生抽",
+          "amount": ""
+        },
+        {
+          "name": "醋",
+          "amount": ""
+        },
+        {
+          "name": "胡椒粉",
+          "amount": ""
+        },
+        {
+          "name": "水淀粉",
+          "amount": ""
+        },
+        {
+          "name": "香油",
+          "amount": ""
+        },
+        {
+          "name": "盐",
+          "amount": ""
+        },
+        {
+          "name": "鸡精",
+          "amount": ""
+        },
+        {
+          "name": "香菜",
+          "amount": "少许"
+        },
+        {
+          "name": "小米椒",
+          "amount": "两个"
+        },
+        {
+          "name": "葱",
+          "amount": "少许"
+        },
+        {
+          "name": "蒜",
+          "amount": "两瓣"
+        },
+        {
+          "name": "胡萝卜",
+          "amount": "半根"
+        }
+      ],
+      "stepCount": 10,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 25
+      },
+      "image": {
+        "local": "images/2026-11-09/107354475.jpg",
+        "source": "https://i2.chuimg.com/cd2c46c2d3fa4cc7a7fdab7a8f876d86_1280w_1584h.jpg"
+      },
+      "category": "汤羹"
+    },
+    {
+      "id": "103951231",
+      "name": "吃了还想吃的蒜泥白肉",
+      "url": "https://www.xiachufang.com/recipe/103951231/",
+      "author": "潘多拉的魔莉",
+      "score": 7.6,
+      "made": 10,
+      "desc": "记得有一次在饭店吃过这道菜，刚开始看见这道菜以为是非常腻的，根本不敢下筷子，经朋友劝解最后经不住诱惑吃了第一块，感觉特别奇妙，肥瘦相间的肉夹着黄瓜和蒜泥酱，居然",
+      "ingredients": [
+        {
+          "name": "五花肉",
+          "amount": "200克"
+        },
+        {
+          "name": "青瓜",
+          "amount": "1根"
+        },
+        {
+          "name": "料酒",
+          "amount": "1勺"
+        },
+        {
+          "name": "大蒜",
+          "amount": "两头"
+        },
+        {
+          "name": "姜",
+          "amount": "少许"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "盐",
+          "amount": "3克"
+        },
+        {
+          "name": "鸡精",
+          "amount": "少许"
+        },
+        {
+          "name": "糖",
+          "amount": "少许"
+        },
+        {
+          "name": "葱花",
+          "amount": "少许"
+        },
+        {
+          "name": "辣椒粉",
+          "amount": "1勺"
+        },
+        {
+          "name": "白芝麻",
+          "amount": "少许"
+        },
+        {
+          "name": "香醋",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 5,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 1
+      },
+      "image": {
+        "local": "images/2026-11-09/103951231.jpg",
+        "source": "https://i2.chuimg.com/2bcd2ae4cd7f46db970118510ad1dc21_1242w_1246h.jpg"
+      },
+      "category": "凉菜小吃"
+    },
+    {
+      "id": "102231491",
+      "name": "酒酿白糖发糕",
+      "url": "https://www.xiachufang.com/recipe/102231491/",
+      "author": "露多麦卡",
+      "score": 8.6,
+      "made": 10,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "酒酿",
+          "amount": "100g"
+        },
+        {
+          "name": "水",
+          "amount": "50g"
+        },
+        {
+          "name": "面粉",
+          "amount": "150g"
+        },
+        {
+          "name": "白糖",
+          "amount": "15g"
+        },
+        {
+          "name": "酵母",
+          "amount": "3g"
+        }
+      ],
+      "stepCount": 3,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 2
+      },
+      "image": {
+        "local": "images/2026-11-09/102231491.jpg",
+        "source": "https://i2.chuimg.com/763f2bec0a5811e7947d0242ac110002_1440w_1080h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "102766685",
+      "name": "红烧鲅鱼",
+      "url": "https://www.xiachufang.com/recipe/102766685/",
+      "author": "毛毛__",
+      "score": 8.6,
+      "made": 10,
+      "desc": "鲅鱼，鲜美且鱼刺很少，加点辣椒提点味道，是非常简单的下饭菜",
+      "ingredients": [
+        {
+          "name": "小鲅鱼",
+          "amount": "两条"
+        },
+        {
+          "name": "醋",
+          "amount": "一勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "两勺"
+        },
+        {
+          "name": "料酒",
+          "amount": "一勺"
+        },
+        {
+          "name": "花椒",
+          "amount": "少许"
+        },
+        {
+          "name": "糖",
+          "amount": "一勺"
+        },
+        {
+          "name": "盐",
+          "amount": "半勺"
+        }
+      ],
+      "stepCount": 5,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 3
+      },
+      "image": {
+        "local": "images/2026-11-09/102766685.jpg",
+        "source": "https://i2.chuimg.com/1662745a858a428a909bdd516d2c6789_1800w_1350h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "104155165",
+      "name": "芋头炖牛腩",
+      "url": "https://www.xiachufang.com/recipe/104155165/",
+      "author": "寜小主",
+      "score": null,
+      "made": 10,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "牛腩",
+          "amount": "300克"
+        },
+        {
+          "name": "芋头",
+          "amount": "200克"
+        },
+        {
+          "name": "姜",
+          "amount": "少许"
+        },
+        {
+          "name": "大蒜",
+          "amount": "少许"
+        },
+        {
+          "name": "葱",
+          "amount": "少许"
+        },
+        {
+          "name": "桂皮",
+          "amount": "2块"
+        },
+        {
+          "name": "花椒",
+          "amount": "少许"
+        },
+        {
+          "name": "料酒",
+          "amount": ""
+        },
+        {
+          "name": "生抽",
+          "amount": ""
+        },
+        {
+          "name": "剁辣椒",
+          "amount": ""
+        }
+      ],
+      "stepCount": 10,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 4
+      },
+      "image": {
+        "local": "images/2026-11-09/104155165.jpg",
+        "source": "https://i2.chuimg.com/355d24cdedf84ed8a93d5b7ce68a2605_1242w_1656h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107490162",
+      "name": "炒藕条",
+      "url": "https://www.xiachufang.com/recipe/107490162/",
+      "author": "美食爱好收集者",
+      "score": 8,
+      "made": 11,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "如图",
+          "amount": ""
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 5
+      },
+      "image": {
+        "local": "images/2026-11-09/107490162.jpg",
+        "source": "https://i2.chuimg.com/957d858a65324d6f9eb43e573c9c18f7_1080w_1440h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "104647817",
+      "name": "暴瘦每一天，快手无糖无油咸香豆渣饼干",
+      "url": "https://www.xiachufang.com/recipe/104647817/",
+      "author": "米小芹",
+      "score": 7.8,
+      "made": 11,
+      "desc": "平台一个月，今天突然掉秤一斤，美滋滋，朋友送了个豆浆机，打完豆浆的豆渣我就造了，我觉得好好吃停不下来。为了吃它我连中午的紫薯都省了\n\n划重点：我家没有纱布，我的",
+      "ingredients": [
+        {
+          "name": "玉米粉",
+          "amount": "110"
+        },
+        {
+          "name": "豆渣",
+          "amount": "160克"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "白胡椒",
+          "amount": "适量"
+        },
+        {
+          "name": "五香粉",
+          "amount": "少许"
+        },
+        {
+          "name": "黑芝麻（可不放）",
+          "amount": "10克"
+        },
+        {
+          "name": "燕麦片（可不放）",
+          "amount": "15克"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 6
+      },
+      "image": {
+        "local": "images/2026-11-09/104647817.jpg",
+        "source": "https://i2.chuimg.com/7f97648d1bca489faeebfe4f77750621_2160w_2160h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "104739144",
+      "name": "自制牛肉汉堡的牛肉饼",
+      "url": "https://www.xiachufang.com/recipe/104739144/",
+      "author": "晒太阳的鱼鱼",
+      "score": 8.6,
+      "made": 11,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "精牛肉",
+          "amount": "450克"
+        },
+        {
+          "name": "料酒",
+          "amount": "2勺"
+        },
+        {
+          "name": "洋葱",
+          "amount": "半个"
+        },
+        {
+          "name": "生抽老抽蚝油",
+          "amount": "适量"
+        },
+        {
+          "name": "现磨黑胡椒（当然也可以用现成的）",
+          "amount": "适量"
+        },
+        {
+          "name": "五香粉",
+          "amount": "适量"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "1个"
+        },
+        {
+          "name": "生粉（或面粉）",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 9,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 7
+      },
+      "image": {
+        "local": "images/2026-11-09/104739144.jpg",
+        "source": "https://i2.chuimg.com/793cbafebe2c423898a34c13063feac0_1080w_864h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "100430250",
+      "name": "独家汤种一次发酵法白胖大肉包",
+      "url": "https://www.xiachufang.com/recipe/100430250/",
+      "author": "一畦春韭绿",
+      "score": 7.5,
+      "made": 11,
+      "desc": "之前的一点碎碎念...\n作为一个在发面道路上越挫越勇的小主妇，我做过无数失败的作品。失败到连我妈都会说，你做的包子不好吃，还不如外面几块钱买一个呢。泪奔。。。这",
+      "ingredients": [
+        {
+          "name": "汤种120g（面粉20g+水100g）",
+          "amount": ""
+        },
+        {
+          "name": "面粉300g",
+          "amount": ""
+        },
+        {
+          "name": "水40g",
+          "amount": ""
+        },
+        {
+          "name": "调制好的肉馅若干",
+          "amount": ""
+        },
+        {
+          "name": "酵母3g",
+          "amount": ""
+        }
+      ],
+      "stepCount": 5,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 8
+      },
+      "image": {
+        "local": "images/2026-11-09/100430250.jpg",
+        "source": "https://i2.chuimg.com/acd41b8a88c711e6a9a10242ac110002_684w_691h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "107531300",
+      "name": "超级无敌好吃的复刻三凤桥梅汁鸡翅",
+      "url": "https://www.xiachufang.com/recipe/107531300/",
+      "author": "阿周的宇宙无敌霹雳爆炸好吃料理",
+      "score": 8.3,
+      "made": 9,
+      "desc": "三凤桥的梅汁鸡翅一直很有名，但是近两年买发现不酸也不甜，梅汁味越来越淡，所以干脆自己研究如何做。第一次尝试下来发现味道刚刚好，所以想把菜单分享给大家。",
+      "ingredients": [
+        {
+          "name": "鸡翅",
+          "amount": "800g"
+        },
+        {
+          "name": "酸梅酱",
+          "amount": "150g"
+        },
+        {
+          "name": "生姜",
+          "amount": "两片"
+        },
+        {
+          "name": "葱段",
+          "amount": "一截"
+        },
+        {
+          "name": "香叶",
+          "amount": "两片"
+        },
+        {
+          "name": "甘草",
+          "amount": "两片"
+        },
+        {
+          "name": "花椒",
+          "amount": "一小撮"
+        },
+        {
+          "name": "盐",
+          "amount": "15g"
+        },
+        {
+          "name": "生抽",
+          "amount": "20ml"
+        },
+        {
+          "name": "料酒",
+          "amount": "10ml"
+        },
+        {
+          "name": "红糖",
+          "amount": "10g"
+        }
+      ],
+      "stepCount": 19,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 9
+      },
+      "image": {
+        "local": "images/2026-11-09/107531300.jpg",
+        "source": "https://i2.chuimg.com/c72d72665e0648ea8adb293355c0a298_3414w_2560h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107670230",
+      "name": "炒娃娃菜",
+      "url": "https://www.xiachufang.com/recipe/107670230/",
+      "author": "泡泡芙芙历险记",
+      "score": 7,
+      "made": 11,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "大娃娃菜",
+          "amount": "500克"
+        }
+      ],
+      "stepCount": 1,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 10
+      },
+      "image": {
+        "local": "images/2026-11-09/107670230.jpg",
+        "source": "https://i2.chuimg.com/bcb741594ea841eeab1bccaa7fb31a51_1179w_1381h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "105963668",
+      "name": "🦀️螃蟹中的爱马仕，秋天的专属味道，花雕桂花熟醉蟹，换一种方式吃大闸蟹🦀️",
+      "url": "https://www.xiachufang.com/recipe/105963668/",
+      "author": "吉吉de厨房",
+      "score": 9,
+      "made": 12,
+      "desc": "上海人的秋天绝对不能少了大闸蟹，现在正是大闸蟹很肥美的时候，除了大家最熟知的清蒸做法，醉蟹也是每个上海人都非常喜欢的。\n\n以前我们都是吃的生醉蟹，但是出于安全考",
+      "ingredients": [
+        {
+          "name": "大闸蟹",
+          "amount": "数只"
+        },
+        {
+          "name": "花雕",
+          "amount": "1瓶480ml"
+        },
+        {
+          "name": "生抽",
+          "amount": "300克"
+        },
+        {
+          "name": "香醋",
+          "amount": "100克"
+        },
+        {
+          "name": "冰糖",
+          "amount": "150克"
+        },
+        {
+          "name": "花椒",
+          "amount": "1克"
+        },
+        {
+          "name": "八角",
+          "amount": "2个"
+        },
+        {
+          "name": "桂皮",
+          "amount": "1块"
+        },
+        {
+          "name": "香叶",
+          "amount": "2片"
+        },
+        {
+          "name": "姜",
+          "amount": "40克"
+        },
+        {
+          "name": "桂花",
+          "amount": "2克"
+        }
+      ],
+      "stepCount": 18,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 11
+      },
+      "image": {
+        "local": "images/2026-11-09/105963668.jpg",
+        "source": "https://i2.chuimg.com/deb490b663284086a836294cc89cb8f7_1080w_606h.jpg"
+      },
+      "category": "凉菜小吃"
+    },
+    {
+      "id": "107161648",
+      "name": "妈妈做的鲜虾鲈鱼煲，鲜香嫩滑营养美味，孩子抢着吃",
+      "url": "https://www.xiachufang.com/recipe/107161648/",
+      "author": "小熊馋美食",
+      "score": null,
+      "made": 10,
+      "desc": null,
+      "ingredients": [],
+      "stepCount": 0,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 12
+      },
+      "image": {
+        "local": "images/2026-11-09/107161648.jpg",
+        "source": "https://i2.chuimg.com/3864949f7215490abcb7ff184fcb11b8_1080w_1920h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107668292",
+      "name": "电饭锅🍆茄子焖饭",
+      "url": "https://www.xiachufang.com/recipe/107668292/",
+      "author": "Wenglin厨房笔记",
+      "score": 7.5,
+      "made": 11,
+      "desc": "今天晚餐复刻了贾冰老师的茄子焖饭，\n简单快手的电饭锅焖饭+1\n美味😋\n\n📌几点Tips\n1️⃣不要用肉丝，这类焖饭用偏瘦一点的五花肉更香更好吃。炒五花肉时油不要",
+      "ingredients": [
+        {
+          "name": "茄子",
+          "amount": "2根"
+        },
+        {
+          "name": "五花肉",
+          "amount": "300克"
+        },
+        {
+          "name": "洋葱",
+          "amount": "半个"
+        },
+        {
+          "name": "螺丝椒",
+          "amount": "2根"
+        },
+        {
+          "name": "大米",
+          "amount": "3杯（3-5人份）"
+        }
+      ],
+      "stepCount": 10,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 13
+      },
+      "image": {
+        "local": "images/2026-11-09/107668292.jpg",
+        "source": "https://i2.chuimg.com/a0d21117bacc491fa6f8457a984ca282_1280w_1706h.jpg"
+      },
+      "category": "主食面点"
+    },
+    {
+      "id": "107552513",
+      "name": "清炒胡萝卜",
+      "url": "https://www.xiachufang.com/recipe/107552513/",
+      "author": "寶寶Princess601",
+      "score": null,
+      "made": 9,
+      "desc": "非常普通、简单、易做，但是孩子喜欢的不行🙂‍↔️",
+      "ingredients": [
+        {
+          "name": "胡萝卜",
+          "amount": "337克"
+        },
+        {
+          "name": "葱",
+          "amount": "2根"
+        },
+        {
+          "name": "热水",
+          "amount": "20ml"
+        },
+        {
+          "name": "盐",
+          "amount": "1/3茶匙"
+        },
+        {
+          "name": "清油",
+          "amount": "40ml"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 14
+      },
+      "image": {
+        "local": "images/2026-11-09/107552513.jpg",
+        "source": "https://i2.chuimg.com/7dfc66b8333140208edfc3863e248fa0_1080w_1440h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "100419736",
+      "name": "蓝带牛轧糖Nougat blanc",
+      "url": "https://www.xiachufang.com/recipe/100419736/",
+      "author": "lulututu",
+      "score": 8.9,
+      "made": 10,
+      "desc": "方子改自《法国蓝带糕点制作基础》。牛轧糖加入了大量的坚果，爽脆的口感能让人口中充满浓香。\n配料略有改动，步骤请遵照方子来，蓝翔不是梦！\n做前请看小贴士！",
+      "ingredients": [
+        {
+          "name": "材料A",
+          "amount": ""
+        },
+        {
+          "name": "蜂蜜",
+          "amount": "125克"
+        },
+        {
+          "name": "葡萄糖",
+          "amount": "20克"
+        },
+        {
+          "name": "材料B",
+          "amount": ""
+        },
+        {
+          "name": "细砂糖",
+          "amount": "250克"
+        },
+        {
+          "name": "葡萄糖",
+          "amount": "30克"
+        },
+        {
+          "name": "",
+          "amount": ""
+        },
+        {
+          "name": "蛋清",
+          "amount": "55克"
+        },
+        {
+          "name": "细砂糖",
+          "amount": "15克"
+        },
+        {
+          "name": "杏仁",
+          "amount": "70克"
+        },
+        {
+          "name": "夏威夷果仁",
+          "amount": "55克"
+        },
+        {
+          "name": "开心果仁",
+          "amount": "30克"
+        },
+        {
+          "name": "蔓越莓干",
+          "amount": "30克"
+        }
+      ],
+      "stepCount": 10,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 15
+      },
+      "image": {
+        "local": "images/2026-11-09/100419736.jpg",
+        "source": "https://i2.chuimg.com/e13292dc88bb11e6a9a10242ac110002_4752w_3168h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "105817574",
+      "name": "不加糖的好吃的枣泥蛋糕",
+      "url": "https://www.xiachufang.com/recipe/105817574/",
+      "author": "阿离_jh2z",
+      "score": 7.7,
+      "made": 11,
+      "desc": "之前上传了一个做枣泥的菜谱，就拿来做了个枣泥蛋糕呗！其实我之前试了个戚风蛋糕的方子，但是觉得枣泥这种这么浓郁的材料应该配一个马芬蛋糕的方子，这种厚实绵密的口感才",
+      "ingredients": [
+        {
+          "name": "枣泥",
+          "amount": "220克"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "2个"
+        },
+        {
+          "name": "牛奶",
+          "amount": "60克"
+        },
+        {
+          "name": "玉米油",
+          "amount": "80克"
+        },
+        {
+          "name": "泡打粉",
+          "amount": "10克"
+        },
+        {
+          "name": "低筋粉",
+          "amount": "180克"
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 16
+      },
+      "image": {
+        "local": "images/2026-11-09/105817574.jpg",
+        "source": "https://i2.chuimg.com/0b241cbb7d324bbd84de306afccbd16e_2048w_1152h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "103893909",
+      "name": "全麦燕麦胚芽低卡吐司",
+      "url": "https://www.xiachufang.com/recipe/103893909/",
+      "author": "昊宝妈",
+      "score": 8.8,
+      "made": 11,
+      "desc": "最近在减肥…\n玩烘焙本来是件很开心的事情，可是我感觉自己为此付出的代价也是挺大滴，眼见着自己一天天被自己喂养滴茁壮起来…😭😭\n      每天做那么多好吃的，做",
+      "ingredients": [
+        {
+          "name": "水合面团",
+          "amount": ""
+        },
+        {
+          "name": "金像全麦面粉",
+          "amount": "200克"
+        },
+        {
+          "name": "即食燕麦片",
+          "amount": "20克"
+        },
+        {
+          "name": "烘焙胚芽",
+          "amount": "10克"
+        },
+        {
+          "name": "水",
+          "amount": "230克"
+        },
+        {
+          "name": "主面团",
+          "amount": ""
+        },
+        {
+          "name": "金像高筋面粉",
+          "amount": "340克"
+        },
+        {
+          "name": "燕子即发酵母",
+          "amount": "5克"
+        },
+        {
+          "name": "蜂蜜",
+          "amount": "60克"
+        },
+        {
+          "name": "盐",
+          "amount": "8克"
+        },
+        {
+          "name": "冰水",
+          "amount": "150克"
+        },
+        {
+          "name": "黄油",
+          "amount": "30克"
+        }
+      ],
+      "stepCount": 35,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 17
+      },
+      "image": {
+        "local": "images/2026-11-09/103893909.jpg",
+        "source": "https://i2.chuimg.com/1e1113f1d2364bd1ac02c603581d116f_864w_864h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "107293225",
+      "name": "喜茶金凤茶酥复刻版",
+      "url": "https://www.xiachufang.com/recipe/107293225/",
+      "author": "兔小白Bunny",
+      "score": null,
+      "made": 10,
+      "desc": "吃过一次金凤茶酥之后被它的味道惊艳了，对照着配料表尝试了一下，复刻出来的味道有80%的相似吧，已经很满足了~",
+      "ingredients": [
+        {
+          "name": "低筋面粉",
+          "amount": "195克"
+        },
+        {
+          "name": "玉米淀粉",
+          "amount": "20克"
+        },
+        {
+          "name": "黄油",
+          "amount": "100克"
+        },
+        {
+          "name": "糖粉",
+          "amount": "95克"
+        },
+        {
+          "name": "茶汤",
+          "amount": "40克"
+        },
+        {
+          "name": "奶粉",
+          "amount": "10克"
+        },
+        {
+          "name": "茶粉",
+          "amount": "5克"
+        },
+        {
+          "name": "泡打粉",
+          "amount": "2克"
+        },
+        {
+          "name": "盐",
+          "amount": "1克"
+        },
+        {
+          "name": "小苏打",
+          "amount": "1克"
+        },
+        {
+          "name": "碧根果碎",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 6,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 18
+      },
+      "image": {
+        "local": "images/2026-11-09/107293225.jpg",
+        "source": "https://i2.chuimg.com/1239ffa70bfb45a5b67e626932ad1326_3414w_2560h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "104532672",
+      "name": "无黄油奶油杏仁粉的“三无”香酥曲奇（原味与抹茶）",
+      "url": "https://www.xiachufang.com/recipe/104532672/",
+      "author": "一号床万年轻灵雪",
+      "score": 8,
+      "made": 11,
+      "desc": "听说黄油曲奇冬天超难挤，所以干脆参考众家之长自己调试记录下不需要黄油、又相对好挤花的香酥曲奇，挤出来花纹很漂亮哦，讲真比烤出来好看！\n\nP.S.配方的糖量可以根",
+      "ingredients": [
+        {
+          "name": "低筋面粉（玉米淀粉、奶粉、抹茶等粉类可等量替换其中的10-15g）",
+          "amount": "100克（全部粉类总量！）"
+        },
+        {
+          "name": "玉米淀粉（更酥脆可不加）",
+          "amount": "10克"
+        },
+        {
+          "name": "鸡蛋（纯蛋黄更酥）",
+          "amount": "1个"
+        },
+        {
+          "name": "绵白糖（可替换细砂糖）",
+          "amount": "45克"
+        },
+        {
+          "name": "玉米油（其他无味油均可，黄油则更酥）",
+          "amount": "70克"
+        },
+        {
+          "name": "奶粉（更奶香可不加）",
+          "amount": "15克"
+        },
+        {
+          "name": "柠檬汁或白醋",
+          "amount": "3-4滴"
+        },
+        {
+          "name": "抹茶版：",
+          "amount": ""
+        },
+        {
+          "name": "加抹茶包一条（低粉减10g，可可等同理）",
+          "amount": "15克"
+        }
+      ],
+      "stepCount": 12,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 19
+      },
+      "image": {
+        "local": "images/2026-11-09/104532672.jpg",
+        "source": "https://i2.chuimg.com/6c9ee2c7f1c44d29a4df727898c36b68_2048w_1536h.jpg"
+      },
+      "category": "烘焙甜点"
+    },
+    {
+      "id": "106918123",
+      "name": "家常菜‼️做法简单 ‼️干锅腊肠花菜‼️巨下饭‼️",
+      "url": "https://www.xiachufang.com/recipe/106918123/",
+      "author": "Linda食记",
+      "score": null,
+      "made": 10,
+      "desc": "今天跟大家分享的一道巨下饭的家常菜，咸\n香的腊肠搭配爽口脆嫩的花菜，好吃到停不下来，喜欢的小伙伴快来试试吧",
+      "ingredients": [
+        {
+          "name": "花菜",
+          "amount": "1个"
+        },
+        {
+          "name": "腊肠",
+          "amount": "1根"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 20
+      },
+      "image": {
+        "local": "images/2026-11-09/106918123.jpg",
+        "source": "https://i2.chuimg.com/e323d2b809264338b35576f76f8817ac_1923w_2560h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107643791",
+      "name": "沙县拌蔬菜",
+      "url": "https://www.xiachufang.com/recipe/107643791/",
+      "author": "我爱做饭嘿嘿",
+      "score": 9.1,
+      "made": 11,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "包菜",
+          "amount": "一个人吃只需要150克"
+        },
+        {
+          "name": "盐",
+          "amount": ""
+        },
+        {
+          "name": "鸡精",
+          "amount": ""
+        },
+        {
+          "name": "油，花椒",
+          "amount": ""
+        }
+      ],
+      "stepCount": 1,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 21
+      },
+      "image": {
+        "local": "images/2026-11-09/107643791.jpg",
+        "source": "https://i2.chuimg.com/08891162d4e643c78831fed9ecc0f1f3_1080w_1920h.jpg"
+      },
+      "category": "凉菜小吃"
+    },
+    {
+      "id": "104397941",
+      "name": "清肠减肥·西芹黄瓜香蕉汁",
+      "url": "https://www.xiachufang.com/recipe/104397941/",
+      "author": "陶子说",
+      "score": 6.3,
+      "made": 10,
+      "desc": "西芹富含丰富粗纤维，降血压血脂，加了香蕉芹菜味道不会很重，清甜可口，这款果蔬汁可以清肠降压，护肤减肥哦！",
+      "ingredients": [
+        {
+          "name": "西芹",
+          "amount": "1小段"
+        },
+        {
+          "name": "黄瓜",
+          "amount": "1小根"
+        },
+        {
+          "name": "香蕉",
+          "amount": "1根"
+        }
+      ],
+      "stepCount": 3,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 22
+      },
+      "image": {
+        "local": "images/2026-11-09/104397941.jpg",
+        "source": "https://i2.chuimg.com/ffbfb57f1d1841a88b160c620134d443_1536w_1534h.jpg"
+      },
+      "category": "饮品"
+    },
+    {
+      "id": "104648102",
+      "name": "超级简单咖喱蟹",
+      "url": "https://www.xiachufang.com/recipe/104648102/",
+      "author": "里里周",
+      "score": null,
+      "made": 11,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "螃蟹",
+          "amount": "1只"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "2个"
+        },
+        {
+          "name": "葱姜蒜",
+          "amount": "适量"
+        },
+        {
+          "name": "咖喱块",
+          "amount": "2块"
+        },
+        {
+          "name": "淀粉",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 23
+      },
+      "image": {
+        "local": "images/2026-11-09/104648102.jpg",
+        "source": "https://i2.chuimg.com/88792bb119304d2d9f4c7e8cf80c6297_1500w_1124h.jpg"
+      },
+      "category": "家常菜"
+    },
+    {
+      "id": "107706887",
+      "name": "零失败快手菜：蒜香蒸排骨",
+      "url": "https://www.xiachufang.com/recipe/107706887/",
+      "author": "青柠小厨房呀",
+      "score": 8.1,
+      "made": 11,
+      "desc": "完全不需要厨艺的蒜香蒸排骨，软烂入味，超下饭，香味浓郁，百吃不腻。厨房小白也能轻松出大餐，一起试试吧～",
+      "ingredients": [
+        {
+          "name": "排骨",
+          "amount": "2根"
+        },
+        {
+          "name": "蒜",
+          "amount": "1颗"
+        },
+        {
+          "name": "姜末",
+          "amount": "适量"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "黄豆酱",
+          "amount": "1勺"
+        },
+        {
+          "name": "胡椒粉",
+          "amount": "适量"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "地瓜粉",
+          "amount": "1勺"
+        },
+        {
+          "name": "油",
+          "amount": "半勺"
+        }
+      ],
+      "stepCount": 9,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 24
+      },
+      "image": {
+        "local": "images/2026-11-09/107706887.jpg",
+        "source": "https://i2.chuimg.com/c1709a132e38471b86da162089eea7d5_1920w_2560h.jpg"
+      },
+      "category": "快手菜"
+    },
+    {
+      "id": "107311297",
+      "name": "厨师长教你：“脑花烧豆腐”的家常做法，软糯入味，入口即化",
+      "url": "https://www.xiachufang.com/recipe/107311297/",
+      "author": "美食作家王刚",
+      "score": 9.2,
+      "made": 10,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "脑花",
+          "amount": "4个"
+        },
+        {
+          "name": "豆腐",
+          "amount": "150克"
+        },
+        {
+          "name": "麻辣火锅底料",
+          "amount": "约40克"
+        },
+        {
+          "name": "大蒜",
+          "amount": "适量"
+        },
+        {
+          "name": "小葱头",
+          "amount": "适量"
+        },
+        {
+          "name": "红泡椒",
+          "amount": "适量"
+        },
+        {
+          "name": "植物油",
+          "amount": "适量"
+        },
+        {
+          "name": "料酒",
+          "amount": "约10克"
+        },
+        {
+          "name": "啤酒",
+          "amount": "约100克"
+        },
+        {
+          "name": "水淀粉",
+          "amount": "适量"
+        },
+        {
+          "name": "葱花",
+          "amount": "适量"
+        },
+        {
+          "name": "食用盐",
+          "amount": "约7克"
+        },
+        {
+          "name": "胡椒粉",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 18,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 25
+      },
+      "image": {
+        "local": "images/2026-11-09/107311297.jpg",
+        "source": "https://i2.chuimg.com/59b3b059a7164468aef1454af846ccff_3840w_2160h.jpg"
+      },
+      "category": "家常菜"
+    }
+  ]
+}
