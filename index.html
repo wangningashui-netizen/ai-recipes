@@ -4,6 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <meta name="color-scheme" content="light dark">
+  <meta name="referrer" content="no-referrer">
   <meta name="theme-color" content="#f6f1e8" media="(prefers-color-scheme: light)">
   <meta name="theme-color" content="#141210" media="(prefers-color-scheme: dark)">
   <meta name="description" content="如水食单：每天整理下厨房的热门菜谱，用来找选题。打开就是最新一天，往下是更早的日子。">
@@ -93,8 +94,11 @@
         <div class="detail-main">
           <div class="detail-scroll" id="detail-body"></div>
           <div class="detail-actions">
-            <a class="btn btn-primary" id="detail-link" target="_blank" rel="noopener noreferrer">去下厨房看完整做法<span class="sr-only">（新窗口）</span></a>
-            <button type="button" class="btn btn-secondary" id="detail-copy">复制菜名+用料</button>
+            <a class="btn btn-primary" id="detail-link" target="_blank" rel="noopener noreferrer">查看下厨房原文<span class="sr-only">（新窗口）</span></a>
+            <div class="detail-copies">
+              <button type="button" class="btn btn-secondary" id="detail-copy">复制菜名+用料</button>
+              <button type="button" class="btn btn-secondary" id="detail-copy-steps" hidden>复制做法</button>
+            </div>
           </div>
         </div>
       </div>

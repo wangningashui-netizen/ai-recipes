@@ -32,6 +32,7 @@
     body: document.querySelector("#detail-body"),
     link: document.querySelector("#detail-link"),
     copy: document.querySelector("#detail-copy"),
+    copySteps: document.querySelector("#detail-copy-steps"),
   };
 
   const state = {
@@ -126,6 +127,14 @@
     return lines.join("\n");
   }
 
+  function stepsNote(entry) {
+    const lines = [entry.name];
+    entry.steps.forEach((step) => {
+      lines.push(step.text ? `${step.n}. ${step.text}` : `${step.n}.`);
+    });
+    return lines.join("\n");
+  }
+
   function listBadges(entry) {
     return entry.lists.map((key) => {
       const label = LIST_LABEL[key] || key;
@@ -134,6 +143,22 @@
       const kind = key === "popular" || key === "rising" ? key : "other";
       return { kind, text };
     });
+  }
+
+  function normalizeSteps(raw) {
+    return (Array.isArray(raw) ? raw : []).map((step, index) => {
+      if (!step || typeof step !== "object") return null;
+      const text = typeof step.text === "string" ? step.text.trim() : "";
+      const n = Number(step.n);
+      const image = step.image && typeof step.image === "object" ? step.image : null;
+      const imageUrl = image && typeof image.url === "string" ? image.url.trim() : "";
+      if (!text && !imageUrl) return null;
+      return {
+        n: Number.isFinite(n) && n > 0 ? Math.round(n) : index + 1,
+        text,
+        imageUrl,
+      };
+    }).filter(Boolean);
   }
 
   function normalizeEntry(raw, date, index) {
@@ -168,6 +193,7 @@
       made: raw.made,
       desc: typeof raw.desc === "string" ? raw.desc.trim() : "",
       ingredients,
+      steps: normalizeSteps(raw.steps),
       stepCount: Number(raw.stepCount) > 0 ? Math.round(Number(raw.stepCount)) : 0,
       lists,
       rank,
@@ -664,13 +690,13 @@
     state.toastTimer = window.setTimeout(() => els.toast.classList.remove("on"), 1800);
   }
 
-  async function copyEntry(entry, button) {
-    const ok = await writeClipboard(topicNote(entry));
+  async function copyText(text, button, message) {
+    const ok = await writeClipboard(text);
     if (!ok) {
       toast("没有复制成功，请长按文字再试一次");
       return;
     }
-    toast(entry.ingredients.length ? "已复制菜名和用料" : "已复制菜名");
+    toast(message);
     if (!button) return;
     const previous = button.textContent;
     button.classList.add("done");
@@ -679,6 +705,11 @@
       button.classList.remove("done");
       button.textContent = previous;
     }, 1400);
+  }
+
+  function copyEntry(entry, button) {
+    const message = entry.ingredients.length ? "已复制菜名和用料" : "已复制菜名";
+    return copyText(topicNote(entry), button, message);
   }
 
   function renderDetail(entry) {
@@ -734,12 +765,6 @@
       desc.textContent = entry.desc;
       body.append(desc);
     }
-    if (entry.stepCount > 0) {
-      const steps = document.createElement("p");
-      steps.className = "detail-steps";
-      steps.textContent = `共 ${entry.stepCount} 步`;
-      body.append(steps);
-    }
 
     const heading = document.createElement("h3");
     heading.className = "ing-title";
@@ -770,6 +795,7 @@
       });
       body.append(list);
     }
+    body.append(renderMethod(entry));
     els.body.replaceChildren(body);
 
     const href = safeRemote(entry.url);
@@ -782,6 +808,66 @@
     }
     els.copy.classList.remove("done");
     els.copy.textContent = "复制菜名+用料";
+    els.copySteps.classList.remove("done");
+    els.copySteps.textContent = "复制做法";
+    els.copySteps.hidden = entry.steps.length === 0;
+  }
+
+  function renderMethod(entry) {
+    const section = document.createElement("section");
+    section.className = "method";
+    const heading = document.createElement("h3");
+    heading.className = "ing-title";
+    heading.textContent = "做法";
+    section.append(heading);
+    const count = entry.steps.length || entry.stepCount;
+    if (count > 0 && entry.steps.length) {
+      const summary = document.createElement("p");
+      summary.className = "detail-steps";
+      summary.textContent = `共 ${entry.steps.length} 步`;
+      section.append(summary);
+    }
+    if (!entry.steps.length) {
+      const empty = document.createElement("p");
+      empty.className = "ing-empty";
+      empty.textContent = "这份菜谱没有写下做法，可以点下面的按钮看原文。";
+      section.append(empty);
+      return section;
+    }
+    const list = document.createElement("ol");
+    list.className = "step-list";
+    entry.steps.forEach((step) => {
+      const item = document.createElement("li");
+      item.className = "step";
+      const imageUrl = safeRemote(step.imageUrl);
+      if (imageUrl) {
+        const figure = document.createElement("figure");
+        figure.className = "step-photo";
+        const img = document.createElement("img");
+        img.alt = `第${step.n}步`;
+        img.decoding = "async";
+        img.loading = "lazy";
+        img.referrerPolicy = "no-referrer";
+        img.setAttribute("referrerpolicy", "no-referrer");
+        img.addEventListener("error", () => {
+          figure.hidden = true;
+        });
+        img.src = imageUrl;
+        figure.append(img);
+        item.append(figure);
+      }
+      const line = document.createElement("p");
+      line.className = "step-line";
+      const num = document.createElement("span");
+      num.className = "step-n";
+      num.textContent = `${step.n}.`;
+      line.append(num);
+      if (step.text) line.append(document.createTextNode(step.text));
+      item.append(line);
+      list.append(item);
+    });
+    section.append(list);
+    return section;
   }
 
   function setBackgroundInert(on) {
@@ -866,6 +952,11 @@
   els.copy.addEventListener("click", () => {
     const entry = state.byKey.get(state.openKey);
     if (entry) copyEntry(entry, els.copy);
+  });
+  els.copySteps.addEventListener("click", () => {
+    const entry = state.byKey.get(state.openKey);
+    if (!entry || !entry.steps.length) return;
+    copyText(stepsNote(entry), els.copySteps, "已复制做法");
   });
   document.addEventListener("keydown", (event) => {
     if (!state.openKey) return;

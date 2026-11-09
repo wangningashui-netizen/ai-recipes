@@ -75,6 +75,14 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
         { "name": "蒜", "amount": "5瓣" }
       ],
       "stepCount": 8,
+      "steps": [
+        {
+          "n": 1,
+          "text": "准备料汁。",
+          "image": { "url": "https://i2.chuimg.com/example.jpg?imageView2/2/w/640/interlace/1/q/80" }
+        },
+        { "n": 2, "text": "大蒜切成蒜末。", "image": null }
+      ],
       "lists": ["popular"],
       "rank": { "popular": 1 },
       "image": {
@@ -95,17 +103,22 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
 | `entries` | array | 这一天的菜谱，页面保持文件里的顺序。可以是空数组。 |
 | `entries[].id` | string | 下厨房菜谱 id。写成字符串。图片文件名用同一个 id。 |
 | `entries[].name` | string | 菜名。没有菜名的条目会被跳过。 |
-| `entries[].url` | string | 原文地址，须是 `https://`。详情里的「去下厨房看完整做法」打开这个链接（新标签页）。 |
+| `entries[].url` | string | 原文地址，须是 `https://`。详情里的「查看下厨房原文」打开这个链接（新标签页）。 |
 | `entries[].author` | string | 作者。搜索会查这里。 |
 | `entries[].score` | number 或 null | 评分。没有或是 `0` 就不显示。 |
 | `entries[].made` | number 或 null | 做过人数。没有或是 `0` 就不显示。 |
 | `entries[].desc` | string 或 null | 短介绍。没有就写 `null` 或 `""`，详情里不显示这一段。 |
 | `entries[].ingredients` | array | 用料。每一项是 `{ "name", "amount" }`。用量可以是空字符串。两项都空的会被忽略。 |
-| `entries[].stepCount` | number | 步骤数。大于 0 才在详情里写「共 N 步」。 |
+| `entries[].stepCount` | number | 步骤数，给人核对用。页面按 `steps` 显示做法。 |
 | `entries[].lists` | array | 榜单。`popular` 显示为「本周最受欢迎」，`rising` 显示为「新秀菜谱」。可以写多个。 |
 | `entries[].rank` | object | 名次。`popular`、`rising` 用数字，例如 `{ "popular": 1 }`。徽章会写成「本周最受欢迎 · 1」。 |
 | `entries[].image.local` | string | 站内成品图，相对路径，例如 `images/2026-11-09/107491076.jpg`。 |
 | `entries[].image.source` | string | 原图 `https://` 地址。只在本地图打不开时用作备用。 |
+| `entries[].steps` | array | 做法。可为空数组。空的时候详情只写一句说明，并保留去原文的按钮。 |
+| `entries[].steps[].n` | number | 步骤序号，从 1 开始。 |
+| `entries[].steps[].text` | string | 这一步的文字。可以是空字符串（只有图）。 |
+| `entries[].steps[].image` | object 或 null | 步骤图。没有就写 `null`。不要把步骤图放进仓库。 |
+| `entries[].steps[].image.url` | string | 下厨房图床的 `https://` 地址。页面热链这张图，并加上 `referrerpolicy="no-referrer"`，否则图床会返回 403。加载失败就藏起图片，文字还在。 |
 | `entries[].category` | string | 分类。已知的是：家常菜、快手菜、汤羹、烘焙甜点、凉菜小吃、主食面点、饮品。卡片上会显示。多出来的分类会自动出现在筛选里，不用改页面。 |
 
 搜索只查菜名、用料（名称和用量）和作者。分类、榜单和搜索可以一起用。
