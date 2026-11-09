@@ -1,0 +1,100 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-10",
+ "timezone": "Asia/Shanghai",
+ "entries": [
+  {
+   "id": "107562259",
+   "name": "今天这个鹌鹑蛋红烧肉 简直不要太下饭了",
+   "url": "https://www.xiachufang.com/recipe/107562259/",
+   "author": "晓晓爱美食",
+   "score": 7.6,
+   "made": 261,
+   "desc": "因为这个红烧肉 ，老公夸我了一晚上！太好吃 太下饭了！赶快给你对象做个吧 把他得胃抓的牢牢的🎉🎉",
+   "ingredients": [
+    {
+     "name": "五花肉",
+     "amount": ""
+    },
+    {
+     "name": "鹌鹑蛋",
+     "amount": ""
+    },
+    {
+     "name": "姜",
+     "amount": ""
+    },
+    {
+     "name": "八角",
+     "amount": ""
+    },
+    {
+     "name": "老抽",
+     "amount": ""
+    },
+    {
+     "name": "料酒",
+     "amount": ""
+    },
+    {
+     "name": "盐",
+     "amount": ""
+    },
+    {
+     "name": "冰糖",
+     "amount": ""
+    },
+    {
+     "name": "香叶",
+     "amount": ""
+    }
+   ],
+   "stepCount": 4,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 13
+   },
+   "image": {
+    "local": "images/2026-11-10/107562259.jpg",
+    "source": "https://i2.chuimg.com/319b6e8d37d94873861c14666ece5428_1080w_1422h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "1️⃣五花肉冷水下锅加葱姜片和料酒 2️⃣五花肉煮至变色捞出清洗 切大块 3️⃣鹌鹑蛋煮熟去壳 油热下锅煎至虎皮状态 4️⃣油热下五花肉煸炒出油脂 炒至两面金黄",
+     "image": {
+      "local": "images/2026-11-10/steps/107562259-1.jpg",
+      "source": "https://i2.chuimg.com/5142e1496463481b89a2b1f1ec60f24d_1080w_1420h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "5️⃣直接在肉里加冰糖炒出糖色 6️⃣加葱姜 八角 桂皮 香叶 翻炒均匀 7️⃣加适量料酒生抽老抽耗油 翻炒均匀 8️⃣加入开水没过食材 中小火焖煮半小时",
+     "image": {
+      "local": "images/2026-11-10/steps/107562259-2.jpg",
+      "source": "https://i2.chuimg.com/d1ca603f8fb74ef98ba34bf6ad1525e8_1080w_1415h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "9️⃣加入鹌鹑蛋继续煮15分钟 🔟大火收汁 调味合适撒葱花即可出锅",
+     "image": {
+      "local": "images/2026-11-10/steps/107562259-3.jpg",
+      "source": "https://i2.chuimg.com/fca880656512433f916ffcd7daac4ab8_1080w_1419h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "",
+     "image": {
+      "local": "images/2026-11-10/steps/107562259-4.jpg",
+      "source": "https://i2.chuimg.com/067c6423cfe445e4b79f9ed8724c70bb_1031w_1378h.jpg"
+     }
+    }
+   ]
+  }
+ ]
+}
