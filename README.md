@@ -18,9 +18,10 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
 
 只改数据，**不要**改 `index.html`、`styles.css`、`app.js`：
 
-1. 新建目录 `images/YYYY-MM-DD/`，放入这一天的成品图，文件名用菜谱 id，例如 `images/2026-11-10/107491076.jpg`。
-2. 新建 `data/YYYY-MM-DD.json`（格式见下）。`date` 与文件名、图片目录名相同。
+1. 新建目录 `images/YYYY-MM-DD/`，放入这一天的成品图，文件名用菜谱 id，例如 `images/2026-11-10/107491076.jpg`。步骤图放在 `images/YYYY-MM-DD/steps/<id>-<n>.jpg`（第 1 步是 `-1.jpg`）。
+2. 新建 `data/YYYY-MM-DD.json`（格式见下）。`date` 与文件名、图片目录名相同。有步骤图时，`steps[].image.local` 写成上面的相对路径，`source` 写成图床上不带缩放参数的原图地址。
 3. 在 `data/index.json` 的 `dates` **最前面**插入这一天（最新在前），`count` 写成当天 `entries` 的条数。
+4. 在仓库根目录运行 `python3 scripts/prune_step_images.py`。它只保留最近 7 天的步骤图：更早的日子把 `image.local` 改成 `null`，并删掉 `images/<日期>/steps/`。成品图不动。同一天可以反复运行。
 
 页面不扫描目录。一张图要显示，就要写进当天 JSON 的 `image.local`。日期列表会再按 `date` 从新到旧排一次，所以即使没插在最前面，最新的一天仍会出现在页面最上。文件本身仍应保持最新在前。
 
@@ -30,7 +31,8 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
 
 1. 先读 `data/index.json`。
 2. 再按里面的 `file` 逐个读取每天的 JSON。
-3. 卡片上的图用 `image.local`（相对网站根目录）。本地文件打不开、并且 `image.source` 是 `https://` 地址时，才改去请求原图。
+3. 卡片上的成品图用 `image.local`（相对网站根目录）。本地文件打不开、并且 `image.source` 是 `https://` 地址时，才改去请求原图。
+4. 步骤图优先用 `steps[].image.local`。`local` 为空（更早的日子被清掉之后）就用 `source`，并自动加上 `?imageView2/2/w/640/interlace/1/q/80`。图床会拒绝带 Referer 的请求，所以步骤图一律 `referrerpolicy="no-referrer"`。本地图打不开时再试一次图床；图床也失败就藏起图片，文字还在。
 
 `image.local` 不要写成网址，也不要以 `/` 开头，不要包含 `..`。
 
@@ -79,7 +81,10 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
         {
           "n": 1,
           "text": "准备料汁。",
-          "image": { "url": "https://i2.chuimg.com/example.jpg?imageView2/2/w/640/interlace/1/q/80" }
+          "image": {
+            "local": "images/2026-11-09/steps/107491076-1.jpg",
+            "source": "https://i2.chuimg.com/example.jpg"
+          }
         },
         { "n": 2, "text": "大蒜切成蒜末。", "image": null }
       ],
@@ -117,10 +122,27 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
 | `entries[].steps` | array | 做法。可为空数组。空的时候详情只写一句说明，并保留去原文的按钮。 |
 | `entries[].steps[].n` | number | 步骤序号，从 1 开始。 |
 | `entries[].steps[].text` | string | 这一步的文字。可以是空字符串（只有图）。 |
-| `entries[].steps[].image` | object 或 null | 步骤图。没有就写 `null`。不要把步骤图放进仓库。 |
-| `entries[].steps[].image.url` | string | 下厨房图床的 `https://` 地址。页面热链这张图，并加上 `referrerpolicy="no-referrer"`，否则图床会返回 403。加载失败就藏起图片，文字还在。 |
+| `entries[].steps[].image` | object 或 null | 步骤图。没有就写 `null`。 |
+| `entries[].steps[].image.local` | string 或 null | 站内步骤图，例如 `images/2026-11-09/steps/107491076-1.jpg`。最近 7 天保留文件；更早的日子由清理脚本写成 `null`。 |
+| `entries[].steps[].image.source` | string | 图床原图 `https://` 地址，不要自己加缩放参数。`local` 为空或本地文件打不开时，页面会加上 `?imageView2/2/w/640/interlace/1/q/80` 再去请求。 |
 | `entries[].category` | string | 分类。已知的是：家常菜、快手菜、汤羹、烘焙甜点、凉菜小吃、主食面点、饮品。卡片上会显示。多出来的分类会自动出现在筛选里，不用改页面。 |
 
 搜索只查菜名、用料（名称和用量）和作者。分类、榜单和搜索可以一起用。
+
+## 清理旧的步骤图
+
+最近 7 天的步骤图留在仓库里。更早的只保留图床地址，页面会自己去请求缩小后的图。
+
+```bash
+python3 scripts/prune_step_images.py
+python3 scripts/prune_step_images.py --keep-days 7 --today 2026-11-09
+```
+
+`--today` 不写就是北京时间的今天。脚本只看 `data/index.json` 里不晚于这一天的日期，留下最新的 `--keep-days` 天，其余每天：
+
+- 把每个 `steps[].image.local` 设成 `null`（`source` 不动；`image` 本身是 `null` 的不动）
+- 删掉 `images/<日期>/steps/`（成品图还在 `images/<日期>/`）
+
+已经清过的日子再跑一次不会改文件，也不会报错。
 
 菜谱正文和图片的版权归下厨房及原作者所有。这个站只作选题参考。

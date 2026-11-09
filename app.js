@@ -145,18 +145,28 @@
     });
   }
 
+  const STEP_CDN_QUERY = "imageView2/2/w/640/interlace/1/q/80";
+
+  function stepCdnUrl(url) {
+    const remote = safeRemote(url);
+    if (!remote || remote.includes("imageView2/")) return remote;
+    return `${remote}${remote.includes("?") ? "&" : "?"}${STEP_CDN_QUERY}`;
+  }
+
   function normalizeSteps(raw) {
     return (Array.isArray(raw) ? raw : []).map((step, index) => {
       if (!step || typeof step !== "object") return null;
       const text = typeof step.text === "string" ? step.text.trim() : "";
       const n = Number(step.n);
       const image = step.image && typeof step.image === "object" ? step.image : null;
-      const imageUrl = image && typeof image.url === "string" ? image.url.trim() : "";
-      if (!text && !imageUrl) return null;
+      const imageLocal = image && typeof image.local === "string" ? image.local.trim() : "";
+      const imageSource = image && typeof image.source === "string" ? image.source.trim() : "";
+      if (!text && !imageLocal && !imageSource) return null;
       return {
         n: Number.isFinite(n) && n > 0 ? Math.round(n) : index + 1,
         text,
-        imageUrl,
+        imageLocal,
+        imageSource,
       };
     }).filter(Boolean);
   }
@@ -839,8 +849,10 @@
     entry.steps.forEach((step) => {
       const item = document.createElement("li");
       item.className = "step";
-      const imageUrl = safeRemote(step.imageUrl);
-      if (imageUrl) {
+      const local = safeLocal(step.imageLocal);
+      const source = stepCdnUrl(step.imageSource);
+      const first = local || source;
+      if (first) {
         const figure = document.createElement("figure");
         figure.className = "step-photo";
         const img = document.createElement("img");
@@ -850,9 +862,14 @@
         img.referrerPolicy = "no-referrer";
         img.setAttribute("referrerpolicy", "no-referrer");
         img.addEventListener("error", () => {
+          const usingSource = img.getAttribute("src") === source;
+          if (source && !usingSource) {
+            img.src = source;
+            return;
+          }
           figure.hidden = true;
         });
-        img.src = imageUrl;
+        img.src = first;
         figure.append(img);
         item.append(figure);
       }
