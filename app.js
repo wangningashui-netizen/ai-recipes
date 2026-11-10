@@ -4,10 +4,12 @@
     { value: "全部", label: "全部" },
     { value: "popular", label: "本周最受欢迎" },
     { value: "rising", label: "新秀菜谱" },
+    { value: "homestyle", label: "家常菜精选" },
   ];
   const LIST_LABEL = {
     popular: "本周最受欢迎",
     rising: "新秀菜谱",
+    homestyle: "家常菜精选",
   };
   const WEEKDAYS = ["星期日", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
 
@@ -140,7 +142,7 @@
       const label = LIST_LABEL[key] || key;
       const rank = entry.rank[key];
       const text = Number.isFinite(rank) ? `${label} · ${rank}` : label;
-      const kind = key === "popular" || key === "rising" ? key : "other";
+      const kind = LIST_LABEL[key] ? key : "other";
       return { kind, text };
     });
   }

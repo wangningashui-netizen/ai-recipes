@@ -115,8 +115,8 @@ GitHub Pages：仓库 Settings → Pages → Build and deployment → Deploy fro
 | `entries[].desc` | string 或 null | 短介绍。没有就写 `null` 或 `""`，详情里不显示这一段。 |
 | `entries[].ingredients` | array | 用料。每一项是 `{ "name", "amount" }`。用量可以是空字符串。两项都空的会被忽略。 |
 | `entries[].stepCount` | number | 步骤数，给人核对用。页面按 `steps` 显示做法。 |
-| `entries[].lists` | array | 榜单。`popular` 显示为「本周最受欢迎」，`rising` 显示为「新秀菜谱」。可以写多个。 |
-| `entries[].rank` | object | 名次。`popular`、`rising` 用数字，例如 `{ "popular": 1 }`。徽章会写成「本周最受欢迎 · 1」。 |
+| `entries[].lists` | array | 榜单。`popular` 显示为「本周最受欢迎」，`rising` 显示为「新秀菜谱」，`homestyle` 显示为「家常菜精选」。可以写多个。 |
+| `entries[].rank` | object | 名次。`popular`、`rising`、`homestyle` 用数字，例如 `{ "popular": 1 }`。徽章会写成「本周最受欢迎 · 1」。 |
 | `entries[].image.local` | string | 站内成品图，相对路径，例如 `images/2026-11-09/107491076.jpg`。 |
 | `entries[].image.source` | string | 原图 `https://` 地址。只在本地图打不开时用作备用。 |
 | `entries[].steps` | array | 做法。可为空数组。空的时候详情只写一句说明，并保留去原文的按钮。 |
