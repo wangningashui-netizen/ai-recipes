@@ -406,6 +406,8 @@ h1 {
 
 .badge-rising { background: #1f6b4a; color: #f3fff8; }
 
+.badge-homestyle { background: #8a5a12; color: #fff8f2; }
+
 .card-body {
   display: flex;
   flex-direction: column;
