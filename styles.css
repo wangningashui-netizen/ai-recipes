@@ -154,6 +154,19 @@ h1 {
   font-size: 14px;
 }
 
+.filter-toggle {
+  display: none;
+}
+
+.menu-spacer {
+  width: 100%;
+  pointer-events: none;
+}
+
+.menu-backdrop {
+  display: none;
+}
+
 .toolbar {
   position: sticky;
   top: 0;
@@ -552,7 +565,7 @@ h1 {
   position: fixed;
   right: 16px;
   bottom: calc(16px + env(safe-area-inset-bottom));
-  z-index: 6;
+  z-index: 8;
   min-height: 44px;
   padding: 0 14px;
   border: 1px solid var(--line);
@@ -841,6 +854,145 @@ body.locked .toast {
   border-color: transparent;
   background: var(--chip);
   color: var(--score);
+}
+
+/* Phone: the tall filter block scrolls away. Only a short title bar stays pinned. */
+@media (max-width: 719px) {
+  html {
+    scroll-padding-top: var(--mast-height, 56px);
+  }
+
+  .mast {
+    position: sticky;
+    top: 0;
+    z-index: 7;
+    padding-top: env(safe-area-inset-top);
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+    background: var(--bg);
+    background: color-mix(in srgb, var(--bg) 94%, transparent);
+    backdrop-filter: blur(16px) saturate(1.2);
+    border-bottom: 1px solid var(--line);
+    cursor: pointer;
+  }
+
+  .mast-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 8px;
+    padding: 6px 0;
+    min-height: 48px;
+  }
+
+  .brand {
+    flex: 1;
+    gap: 8px;
+  }
+
+  .eyebrow,
+  .tagline {
+    display: none;
+  }
+
+  .seal {
+    width: 32px;
+    height: 32px;
+  }
+
+  h1 {
+    margin: 0;
+    font-size: 22px;
+    letter-spacing: 0.12em;
+    white-space: nowrap;
+  }
+
+  .filter-toggle {
+    display: inline-flex;
+    flex: none;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    min-height: 40px;
+    min-width: 68px;
+    padding: 0 12px;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1;
+    touch-action: manipulation;
+  }
+
+  .filter-toggle[aria-expanded="true"] {
+    border-color: var(--ink);
+    background: var(--ink);
+    color: var(--bg);
+  }
+
+  .filter-toggle.has-filters::after {
+    content: "";
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--accent);
+  }
+
+  .toolbar {
+    position: static;
+    z-index: auto;
+    background: transparent;
+    backdrop-filter: none;
+    border-top: 0;
+    padding-left: env(safe-area-inset-left);
+    padding-right: env(safe-area-inset-right);
+  }
+
+  body.menu-ready:not(.filters-open) .filter-panel {
+    display: none;
+  }
+
+  .tools {
+    padding-top: 8px;
+    padding-bottom: 8px;
+  }
+
+  .search input {
+    min-height: 44px;
+  }
+
+  body.menu-open .toolbar {
+    position: fixed;
+    z-index: 6;
+    top: var(--mast-height, 56px);
+    right: 0;
+    left: 0;
+    max-height: calc(100vh - var(--mast-height, 56px) - env(safe-area-inset-bottom) - 12px);
+    max-height: calc(100svh - var(--mast-height, 56px) - env(safe-area-inset-bottom) - 12px);
+    overflow: auto;
+    overscroll-behavior: contain;
+    background: var(--bg);
+    background: color-mix(in srgb, var(--bg) 97%, transparent);
+    backdrop-filter: blur(16px) saturate(1.2);
+    border-bottom: 1px solid var(--line);
+    box-shadow: var(--shadow);
+  }
+
+  body.menu-open .menu-backdrop {
+    display: block;
+    position: fixed;
+    inset: 0;
+    z-index: 5;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    background: rgba(28, 18, 12, 0.32);
+  }
+
+  .skip:focus {
+    top: calc(var(--mast-height, 56px) + 8px);
+  }
 }
 
 @media (hover: hover) {
