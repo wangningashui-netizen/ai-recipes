@@ -17,6 +17,13 @@
     q: document.querySelector("#q"),
     clear: document.querySelector("#clear"),
     tools: document.querySelector("#tools"),
+    toolbar: document.querySelector("#toolbar"),
+    mast: document.querySelector(".mast"),
+    filterToggle: document.querySelector("#filter-toggle"),
+    filterToggleText: document.querySelector(".filter-toggle-text"),
+    filterPanel: document.querySelector("#filter-panel"),
+    menuSpacer: document.querySelector("#menu-spacer"),
+    menuBackdrop: document.querySelector("#menu-backdrop"),
     categories: document.querySelector("#categories"),
     lists: document.querySelector("#lists"),
     status: document.querySelector("#status"),
@@ -302,7 +309,7 @@
         chip.setAttribute("aria-pressed", chip.dataset.value === value ? "true" : "false");
       });
       applyFilters();
-      button.focus();
+      button.focus({ preventScroll: true });
     });
     return button;
   }
@@ -601,6 +608,7 @@
     updateKickers();
     updateChipCounts();
     setStatus(shown);
+    syncMenuButton();
     els.days.setAttribute("aria-busy", state.finished < state.expected ? "true" : "false");
   }
 
@@ -890,12 +898,13 @@
   }
 
   function setBackgroundInert(on) {
-    document.querySelectorAll("header, .toolbar, main, footer").forEach((node) => {
+    document.querySelectorAll("header, .toolbar, main, footer, .menu-backdrop").forEach((node) => {
       node.inert = on;
     });
   }
 
   function openDetail(entry, opener) {
+    closeMenuOverlay("detail");
     state.openKey = entry.key;
     state.lastFocus = opener || document.activeElement;
     renderDetail(entry);
@@ -944,7 +953,12 @@
       chip.setAttribute("aria-pressed", chip.dataset.value === "全部" ? "true" : "false");
     });
     applyFilters();
-    els.q.focus();
+    if (mobileQuery.matches) {
+      document.body.classList.add("filters-open");
+      if (headerOffscreen()) openMenuOverlay();
+    }
+    syncMenuButton();
+    els.q.focus({ preventScroll: true });
   }
 
   els.tools.addEventListener("submit", (event) => event.preventDefault());
@@ -958,7 +972,7 @@
     els.q.value = "";
     els.clear.hidden = true;
     applyFilters();
-    els.q.focus();
+    els.q.focus({ preventScroll: true });
   });
   els.reset.addEventListener("click", () => {
     if (els.reset.dataset.mode === "reload") location.reload();
@@ -966,6 +980,218 @@
   });
   els.toTop.addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
   window.addEventListener("scroll", syncToTop, { passive: true });
+
+  const mobileQuery = window.matchMedia("(max-width: 719px)");
+  let menuLock = false;
+  let menuLastY = window.scrollY;
+  let menuAccum = 0;
+  let suppressMenuUntil = 0;
+  let ignoreMenuScrollUntil = 0;
+  let pointerOnMenu = false;
+  let lastMenuToggle = 0;
+  let menuOffscreen = false;
+
+  function syncMastMetrics() {
+    const height = Math.round(els.mast.getBoundingClientRect().height);
+    if (height > 0) document.documentElement.style.setProperty("--mast-height", `${height}px`);
+  }
+
+  function headerOffscreen() {
+    const mastBottom = els.mast.getBoundingClientRect().bottom;
+    if (document.body.classList.contains("menu-open") && !els.menuSpacer.hidden) {
+      return els.menuSpacer.getBoundingClientRect().bottom <= mastBottom + 4;
+    }
+    return els.toolbar.getBoundingClientRect().bottom <= mastBottom + 4;
+  }
+
+  function filtersVisible() {
+    if (!mobileQuery.matches) return true;
+    if (document.body.classList.contains("menu-open")) return true;
+    if (headerOffscreen()) return false;
+    return document.body.classList.contains("filters-open");
+  }
+
+  function syncMenuButton() {
+    const mobile = mobileQuery.matches;
+    const expanded = mobile && filtersVisible();
+    els.filterToggle.setAttribute("aria-expanded", expanded ? "true" : "false");
+    els.filterToggleText.textContent = expanded ? "收起" : "筛选";
+    const bits = [];
+    if (state.category !== "全部") bits.push(state.category);
+    if (state.list !== "全部") bits.push(LIST_LABEL[state.list] || state.list);
+    if (norm(state.query)) bits.push("有搜索");
+    els.filterToggle.classList.toggle("has-filters", bits.length > 0);
+    if (bits.length) {
+      const detail = bits.join("、");
+      els.filterToggle.setAttribute("aria-label", expanded ? `收起筛选，当前：${detail}` : `筛选，当前：${detail}`);
+    } else {
+      els.filterToggle.setAttribute("aria-label", expanded ? "收起筛选" : "打开筛选");
+    }
+    if (mobile && !document.body.classList.contains("filters-open")) {
+      els.filterPanel.setAttribute("aria-hidden", "true");
+      els.filterPanel.inert = true;
+    } else {
+      els.filterPanel.removeAttribute("aria-hidden");
+      els.filterPanel.inert = false;
+    }
+    syncMastMetrics();
+  }
+
+  function openMenuOverlay() {
+    if (!mobileQuery.matches || document.body.classList.contains("locked")) return;
+    if (Date.now() < suppressMenuUntil) return;
+    if (!headerOffscreen()) {
+      document.body.classList.add("filters-open");
+      syncMenuButton();
+      return;
+    }
+    if (!document.body.classList.contains("menu-open")) {
+      const height = Math.round(els.toolbar.getBoundingClientRect().height);
+      els.menuSpacer.style.height = `${Math.max(height, 1)}px`;
+      els.menuSpacer.hidden = false;
+      document.body.classList.add("menu-open");
+    }
+    document.body.classList.add("filters-open");
+    menuAccum = 0;
+    syncMenuButton();
+  }
+
+  function closeMenuOverlay(reason) {
+    if (!document.body.classList.contains("menu-open")) return;
+    const spacerH = els.menuSpacer.hidden ? 0 : Math.round(els.menuSpacer.getBoundingClientRect().height);
+    const toolbarH = Math.round(els.toolbar.getBoundingClientRect().height);
+    const y = window.scrollY;
+    document.body.classList.remove("menu-open");
+    els.menuSpacer.hidden = true;
+    els.menuSpacer.style.height = "";
+    const delta = toolbarH - spacerH;
+    if (delta && y > 0) {
+      menuLock = true;
+      window.scrollTo(0, Math.max(0, y + delta));
+      menuLastY = window.scrollY;
+      requestAnimationFrame(() => {
+        menuLastY = window.scrollY;
+        menuLock = false;
+      });
+    }
+    menuAccum = 0;
+    if (reason === "user") suppressMenuUntil = Date.now() + 500;
+    else if (reason !== "detail") suppressMenuUntil = Date.now() + 280;
+    syncMenuButton();
+  }
+
+  function toggleMenu() {
+    if (!mobileQuery.matches) return;
+    const now = Date.now();
+    if (now - lastMenuToggle < 40) return;
+    lastMenuToggle = now;
+    suppressMenuUntil = 0;
+    if (document.body.classList.contains("menu-open")) {
+      closeMenuOverlay("user");
+      return;
+    }
+    if (headerOffscreen()) {
+      openMenuOverlay();
+      return;
+    }
+    document.body.classList.toggle("filters-open");
+    syncMenuButton();
+  }
+
+  function menuEngaged() {
+    const active = document.activeElement;
+    if (active && active !== document.body && els.toolbar.contains(active)) return true;
+    return pointerOnMenu;
+  }
+
+  function onMenuScroll() {
+    if (menuLock) {
+      menuLastY = window.scrollY;
+      return;
+    }
+    const y = window.scrollY;
+    const dy = y - menuLastY;
+    menuLastY = y;
+    const off = mobileQuery.matches && headerOffscreen();
+    if (off !== menuOffscreen) {
+      menuOffscreen = off;
+      syncMenuButton();
+    }
+    if (!mobileQuery.matches || document.body.classList.contains("locked")) {
+      menuAccum = 0;
+      return;
+    }
+    if (Date.now() < ignoreMenuScrollUntil) {
+      menuAccum = 0;
+      return;
+    }
+    if (!headerOffscreen()) {
+      if (document.body.classList.contains("menu-open")) closeMenuOverlay("near-top");
+      menuAccum = 0;
+      return;
+    }
+    if (menuEngaged() || Math.abs(dy) < 1) return;
+    if (menuAccum !== 0 && Math.sign(dy) !== Math.sign(menuAccum)) menuAccum = 0;
+    menuAccum += dy;
+    if (menuAccum > 28) {
+      menuAccum = 0;
+      if (document.body.classList.contains("menu-open")) closeMenuOverlay("scroll");
+    } else if (menuAccum < -64) {
+      menuAccum = 0;
+      openMenuOverlay();
+    }
+  }
+
+  function onMenuViewportChange() {
+    if (!mobileQuery.matches && document.body.classList.contains("menu-open")) {
+      document.body.classList.remove("menu-open");
+      els.menuSpacer.hidden = true;
+      els.menuSpacer.style.height = "";
+    }
+    syncMenuButton();
+  }
+
+  function initMobileMenu() {
+    document.body.classList.add("menu-ready");
+    els.mast.addEventListener("click", (event) => {
+      if (event.target.closest("a, input, textarea")) return;
+      toggleMenu();
+    });
+    els.menuBackdrop.addEventListener("click", () => closeMenuOverlay("user"));
+    els.toolbar.addEventListener("pointerdown", () => {
+      pointerOnMenu = true;
+    });
+    window.addEventListener("pointerup", () => {
+      pointerOnMenu = false;
+    });
+    window.addEventListener("pointercancel", () => {
+      pointerOnMenu = false;
+    });
+    window.addEventListener("scroll", onMenuScroll, { passive: true });
+    window.addEventListener("resize", onMenuViewportChange);
+    if (typeof mobileQuery.addEventListener === "function") {
+      mobileQuery.addEventListener("change", onMenuViewportChange);
+    }
+    if (window.visualViewport) {
+      window.visualViewport.addEventListener("resize", () => {
+        ignoreMenuScrollUntil = Date.now() + 280;
+        syncMastMetrics();
+      });
+    }
+    if (document.fonts && document.fonts.ready) {
+      document.fonts.ready.then(() => syncMastMetrics());
+    }
+    window.addEventListener("pageshow", () => {
+      menuLastY = window.scrollY;
+      menuAccum = 0;
+      menuOffscreen = mobileQuery.matches && headerOffscreen();
+      onMenuViewportChange();
+    });
+    menuOffscreen = mobileQuery.matches && headerOffscreen();
+    syncMenuButton();
+  }
+
+  initMobileMenu();
   els.backdrop.addEventListener("click", requestClose);
   els.close.addEventListener("click", requestClose);
   els.copy.addEventListener("click", () => {
@@ -978,6 +1204,19 @@
     copyText(stepsNote(entry), els.copySteps, "已复制做法");
   });
   document.addEventListener("keydown", (event) => {
+    if (event.key === "Escape" && !state.openKey && mobileQuery.matches) {
+      if (document.body.classList.contains("menu-open")) {
+        event.preventDefault();
+        closeMenuOverlay("user");
+        return;
+      }
+      if (document.body.classList.contains("filters-open")) {
+        event.preventDefault();
+        document.body.classList.remove("filters-open");
+        syncMenuButton();
+      }
+      return;
+    }
     if (!state.openKey) return;
     if (event.key === "Escape") {
       event.preventDefault();

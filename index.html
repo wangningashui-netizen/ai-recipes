@@ -36,10 +36,13 @@
           <p class="tagline">打开就是最新一天，往下翻是更早的日子。</p>
         </div>
       </div>
+      <button type="button" class="filter-toggle" id="filter-toggle" aria-expanded="false" aria-controls="filter-panel">
+        <span class="filter-toggle-text">筛选</span>
+      </button>
     </div>
   </header>
 
-  <div class="toolbar">
+  <div class="toolbar" id="toolbar">
     <form class="wrap tools" id="tools" role="search">
       <div class="search">
         <svg class="mag" viewBox="0 0 24 24" aria-hidden="true">
@@ -50,17 +53,21 @@
         <input id="q" type="search" placeholder="搜索菜名、用料或作者" autocomplete="off" enterkeyhint="search">
         <button type="button" class="clear" id="clear" hidden>清除</button>
       </div>
-      <div class="filter-line">
-        <span class="filter-label" id="cat-label">分类</span>
-        <div class="chips" id="categories" role="group" aria-labelledby="cat-label"></div>
-      </div>
-      <div class="filter-line">
-        <span class="filter-label" id="list-label">榜单</span>
-        <div class="chips" id="lists" role="group" aria-labelledby="list-label"></div>
+      <div class="filter-panel" id="filter-panel">
+        <div class="filter-line">
+          <span class="filter-label" id="cat-label">分类</span>
+          <div class="chips" id="categories" role="group" aria-labelledby="cat-label"></div>
+        </div>
+        <div class="filter-line">
+          <span class="filter-label" id="list-label">榜单</span>
+          <div class="chips" id="lists" role="group" aria-labelledby="list-label"></div>
+        </div>
       </div>
       <p class="status" id="status" aria-live="polite">正在加载今天的菜谱…</p>
     </form>
   </div>
+  <div class="menu-spacer" id="menu-spacer" hidden aria-hidden="true"></div>
+  <button type="button" class="menu-backdrop" id="menu-backdrop" tabindex="-1" aria-label="收起菜单"></button>
 
   <main class="wrap" id="feed">
     <div id="days" aria-busy="true">
