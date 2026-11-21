@@ -1,0 +1,1204 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-22",
+ "timezone": "Asia/Shanghai",
+ "entries": [
+  {
+   "id": "106746914",
+   "name": "山东祖传孩子爱吃俘获年轻人口味吸收多次失败经验的传统呛面馒头详细配方",
+   "url": "https://www.xiachufang.com/recipe/106746914/",
+   "author": "没有干货不发菜谱",
+   "score": 9.1,
+   "made": 47,
+   "desc": "本意给和我一样的刚毕业大学生看的，所以有些啰嗦因为有人看，所以再加一些注意点(っ˘зʕ•̫͡•ʔ:1.关火焖的时候不要焖太久，因为焖越久水滴低落的越多，打湿馒头的可能性越大。一般来说敞篷发酵馒头表面形成硬壳就不容易塌陷了，所以焖个两三分钟，锅的温度不是那么烫了就行。总之焖多久看自己家锅温度的变化，散热的性能；往往馒头不成功就是因为关火焖太久的时候水滴低落导致的，所以关火焖的时候不要跟在烤箱里一样自己就去玩手机了，多多关注一下自己的馒头和锅。─=≡Σ((( つ•̀ 3 •́)つ2.馒头不要一次蒸太多，最好在边缘留出较大空隙，因为蒸的过程中馒头会继续膨胀，紧贴边缘的部分如果被滴落的水汽打湿就蒸不起来了3.火焰不一定非要像我那么小，看自己家的火力。",
+   "ingredients": [
+    {
+     "name": "中筋面粉，水，酵母",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 30,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 1
+   },
+   "image": {
+    "local": "images/2026-11-22/106746914.jpg",
+    "source": "https://i2.chuimg.com/c8b0bd7f02984c8198591401d31320fc_1080w_864h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "这个教程是给完全小白看的，所以会有点啰嗦。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-1.jpg",
+      "source": "https://i2.chuimg.com/57db1adac1fc479b806bf8c16e980a82_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "酵母量似乎有点多了？",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-2.jpg",
+      "source": "https://i2.chuimg.com/1abff816e928431fb2b0977c4e70d3fb_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "是为了和后面的出馒头量做对比的。不是固定的。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-3.jpg",
+      "source": "https://i2.chuimg.com/32153fe53bb542a0a16247679ad53ae7_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "Emmm，水的冷热随意，不要太热会烫坏，最高温度也就温开水的程度吧。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-4.jpg",
+      "source": "https://i2.chuimg.com/cdd01fd626344fee9b526535914dc393_1080w_2248h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "高手随意",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-5.jpg",
+      "source": "https://i2.chuimg.com/78002dfc342240e88e00b92bfe38a43c_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "本来就是写给我的小白室友们看的，我怕他们连面絮是什么也不知道。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-6.jpg",
+      "source": "https://i2.chuimg.com/c46cc597e46540069754a6cb144c888e_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "我喜欢硬的。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-7.jpg",
+      "source": "https://i2.chuimg.com/dea6b58cc42242e88422a5fc7ff8b4b6_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "碗边的面要及时扣下来",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-8.jpg",
+      "source": "https://i2.chuimg.com/9d3040c4d9d34eafbda2a294485b9270_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "其实保鲜膜不透气，我不喜欢。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-9.jpg",
+      "source": "https://i2.chuimg.com/4c08afaa6ddc48ccada51549ebad1fa8_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "这还远着呢",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-10.jpg",
+      "source": "https://i2.chuimg.com/1829becba4f5425bb55a224e2765d565_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "最好的发酵是一打开盖子带微酸的。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-11.jpg",
+      "source": "https://i2.chuimg.com/043b9efdd8af4e63a0dd3b6e1d076984_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "话说我也是第一次注意这些。发过头就烙成饼吧，很香。或者当成老面用吧，也很香。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-12.jpg",
+      "source": "https://i2.chuimg.com/b251dda4e5cc4613a49fca977c77ea5b_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "普通的面团",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-13.jpg",
+      "source": "https://i2.chuimg.com/ab27fa2ac6d74cf8bd525f14e504086a_1080w_1427h.jpg"
+     }
+    },
+    {
+     "n": 14,
+     "text": "普通的内部结构，所以还要揉，当然揉到这停下也可以，没太大区别。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-14.jpg",
+      "source": "https://i2.chuimg.com/9ef49c5ea566481a991332fb9965355c_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 15,
+     "text": "呛面馒头开始了",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-15.jpg",
+      "source": "https://i2.chuimg.com/f9761ef0cb924b4e88408a7f507c19bd_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 16,
+     "text": "看来我把我的室友想象的很小白",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-16.jpg",
+      "source": "https://i2.chuimg.com/6408c4ddaaca42f1917f37adee11a7cb_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 17,
+     "text": "很好玩的步骤",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-17.jpg",
+      "source": "https://i2.chuimg.com/8b00e71f128849afbbb5077148d65601_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 18,
+     "text": "揉到最后面团很硬",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-18.jpg",
+      "source": "https://i2.chuimg.com/07f0e885bc424ca7907063b4d60cede0_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 19,
+     "text": "啊，细腻的面团，我不会p图罢了。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-19.jpg",
+      "source": "https://i2.chuimg.com/f0be524a39a048ad97d0cca5ab287de6_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 20,
+     "text": "还有小气孔，我知道。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-20.jpg",
+      "source": "https://i2.chuimg.com/7c791ba351c944f5bc1297ffbda37862_756w_1008h.jpg"
+     }
+    },
+    {
+     "n": 21,
+     "text": "懒得传视频了，有人看再传",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-21.jpg",
+      "source": "https://i2.chuimg.com/3d8279e597e4482eafb8afa367c0b38a_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 22,
+     "text": "憨憨大饼子和小高个的对决",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-22.jpg",
+      "source": "https://i2.chuimg.com/d6c8a05dd5a64268a92342bb7034d072_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 23,
+     "text": "(●'◡'●)",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-23.jpg",
+      "source": "https://i2.chuimg.com/1b3ff80992ea4c7dbee3f5dd6fb96542_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 24,
+     "text": "( ･⊝･∞)",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-24.jpg",
+      "source": "https://i2.chuimg.com/52b1c4750df644e18edc1f054f791954_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 25,
+     "text": "( ･⊝･∞)",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-25.jpg",
+      "source": "https://i2.chuimg.com/31cb7d213dbb46e888e36b3d28f21b9e_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 26,
+     "text": "＼＼\\\\٩( 'ω' )و //／／",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-26.jpg",
+      "source": "https://i2.chuimg.com/406fde6f34c349f58a3656cd9800c701_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 27,
+     "text": "(;´༎ຶθ༎ຶ`)",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-27.jpg",
+      "source": "https://i2.chuimg.com/248f6164b8cb492580b46d7a17868cfa_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 28,
+     "text": "(〃•⊖•〃)",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-28.jpg",
+      "source": "https://i2.chuimg.com/0238142464294359a5d6d0e2c0c7a33a_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 29,
+     "text": "小火25分钟，关火焖5—10分钟。注意全程小火",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-29.jpg",
+      "source": "https://i2.chuimg.com/bd22025875db482a87ccd7e0db871a5f_1008w_756h.jpg"
+     }
+    },
+    {
+     "n": 30,
+     "text": "这个火焰很小吧，就这么小。",
+     "image": {
+      "local": "images/2026-11-22/steps/106746914-30.jpg",
+      "source": "https://i2.chuimg.com/da0af2afd07f46cfbae09ba69f66fe84_1008w_756h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107809614",
+   "name": "家常小酥肉（附保存方法）",
+   "url": "https://www.xiachufang.com/recipe/107809614/",
+   "author": "麦棋丫头",
+   "score": null,
+   "made": 0,
+   "desc": "每次出门吃火锅必点小酥肉，感觉也不麻烦，就试了一下，口感还不错，这一款酥肉的口感是外酥里嫩，不是嘎嘣脆的那款哦。方子留存自己做，我一般是现做现吃，所以每次做一餐的分量。",
+   "ingredients": [
+    {
+     "name": "梅花肉/里脊肉",
+     "amount": "一块"
+    },
+    {
+     "name": "盐",
+     "amount": "少许"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "1颗"
+    },
+    {
+     "name": "红薯淀粉",
+     "amount": "80g"
+    },
+    {
+     "name": "花椒",
+     "amount": "少许"
+    },
+    {
+     "name": "油",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 12,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 10
+   },
+   "image": {
+    "local": "images/2026-11-22/107809614.jpg",
+    "source": "https://i2.chuimg.com/a0ad1e8b4202410d985720c83e244864_1921w_2560h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "新鲜梅花肉/里脊肉洗干净，切成细长条。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-1.jpg",
+      "source": "https://i2.chuimg.com/66f50bd3afc4494b8eb04c97485214e9_3080w_2560h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "准备新鲜花椒，洗干净备用青花椒或者红花椒都可",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-2.jpg",
+      "source": "https://i2.chuimg.com/3a680a1e7a3346d2b85af5dc644db49a_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "将花椒放入锅中干炒，炒出香味即可盛出备用。不要炒太久导致花椒黑了哈，黑了的花椒会有点苦。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-3.jpg",
+      "source": "https://i2.chuimg.com/6c484c81e55245e8a215c1fc457786f8_2082w_2560h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "趁热用工具将花椒捻成粉末。现磨的花椒粉更香，所以更推荐现磨花椒不推荐超市现成的花椒粉。我的用量并不多，所以直接用擀面杖头按压的，我怕放保鲜袋敲的散到四处导致浪费，所以直接用擀面杖按压的。小酥肉的灵魂就是花椒碎，而现磨的更香，口感更好！！",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-4.jpg",
+      "source": "https://i2.chuimg.com/e7a408d03f2b445aab249b69f11e52d6_1921w_2560h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "肉里放入生姜丝、一半花椒末、盐，搅拌均匀，腌制半小时。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-5.jpg",
+      "source": "https://i2.chuimg.com/b87b660e5a8f4b4b8b3b9ceb2cc65055_1921w_2560h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "剩余的花椒末+红薯淀粉+盐",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-6.jpg",
+      "source": "https://i2.chuimg.com/9724b87629404d2ab62921084cfb5d33_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "敲入鸡蛋，搅成糊糊。我的小酥肉不提倡加水，都是加鸡蛋，一颗两颗都可以，不加一滴水，将面糊搅拌至酸奶状。刚开始红薯粉会有些许疙瘩很正常，将面糊静置20分钟，红薯粉疙瘩就自然化开了。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-7.jpg",
+      "source": "https://i2.chuimg.com/155dff7efc5f416a85e9f811e0068343_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "将腌好的肉条中生姜丝挑出来丢掉。将面糊倒入肉条中，抓拌均匀，此处需加一点食用油到肉条中。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-8.jpg",
+      "source": "https://i2.chuimg.com/421f884e8baf4f1686776eb34b3e8e90_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "起锅烧油，等锅热将肉条一条条下入锅中炸制。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-9.jpg",
+      "source": "https://i2.chuimg.com/d8a4f0d2a0924e92bd7d2e08215cb9f8_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "将炸好的酥肉盛入盘中，晾着。注：如果一次性吃不完，在这一步就可以等小酥肉晾凉之后，将晾凉的小酥肉用密封袋装好，冷冻。想吃的时候拿出来油锅复炸或空气炸锅15分钟200度，或者直接下火锅。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-10.jpg",
+      "source": "https://i2.chuimg.com/927a2ecdb227490390bc80fb475739d5_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "油温升高，再次将炸好的酥肉倒入锅中复炸。",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-11.jpg",
+      "source": "https://i2.chuimg.com/539942caf32e433da20ca6e0cd4b3d90_2370w_2560h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "炸好后盛出，准备辣椒粉或者番茄酱沾着吃。小心烫哟！刚出锅的小酥肉最好吃！",
+     "image": {
+      "local": "images/2026-11-22/steps/107809614-12.jpg",
+      "source": "https://i2.chuimg.com/1cf26d79256945988792d371af40bcaa_3414w_2560h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106549495",
+   "name": "【小油条】又名油馍头",
+   "url": "https://www.xiachufang.com/recipe/106549495/",
+   "author": "妞妞梦园",
+   "score": 7.9,
+   "made": 36,
+   "desc": "家有熊孩子特别喜欢吃，外面的油也不放心，在家做干净卫生，搭配一碗豆浆，美味😆",
+   "ingredients": [
+    {
+     "name": "面粉",
+     "amount": "2小碗"
+    },
+    {
+     "name": "水",
+     "amount": "适量"
+    },
+    {
+     "name": "盐",
+     "amount": "1勺"
+    },
+    {
+     "name": "酵母",
+     "amount": "适量"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "1个"
+    }
+   ],
+   "stepCount": 7,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 11
+   },
+   "image": {
+    "local": "images/2026-11-22/106549495.jpg",
+    "source": "https://i2.chuimg.com/b8b095294e384a3f9ce4d4b0283df936_960w_1280h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "准备一个鸡蛋，适量酵母、盐、一碗水【也可准备半包牛奶】",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-1.jpg",
+      "source": "https://i2.chuimg.com/53adcfdcc77e4f4780d1ec5dc46ea8f0_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "加入面粉，用筷子搅拌成这种糊糊状，不能太干，不然炸出来小油条比较硬",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-2.jpg",
+      "source": "https://i2.chuimg.com/6a497917312049d0bb966d81d9c966d9_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "醒发90分钟，完全醒发",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-3.jpg",
+      "source": "https://i2.chuimg.com/1bcaccbeb27d401ca3fcae9a20910fea_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "倒点油，搅拌下，去除多余空气",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-4.jpg",
+      "source": "https://i2.chuimg.com/fbf8d45cfe22464a8450c01fad881e73_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "案板，刀，手上都抹上油，省的沾，面不用和，然后切成小条条状，此时面比较软，可以借助刀弄到手上，下热油锅炸",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-5.jpg",
+      "source": "https://i2.chuimg.com/2a0d63599ba34fb0b9e3479c657d1586_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "这时可以2个人配合，一人做油条下锅，一人翻面炸油条，一个人的话，会有点手忙脚乱",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-6.jpg",
+      "source": "https://i2.chuimg.com/45ba0df0a69f4dd08e20eabec6343eb9_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "外皮酥，里面软，跟早餐店卖的差不多，家里人都喜欢吃",
+     "image": {
+      "local": "images/2026-11-22/steps/106549495-7.jpg",
+      "source": "https://i2.chuimg.com/e6aede0fe2dc4f258f392749c9127547_960w_767h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106927375",
+   "name": "酸辣咸甜的醋溜白菜🥬",
+   "url": "https://www.xiachufang.com/recipe/106927375/",
+   "author": "小罗开饭啦",
+   "score": 7.6,
+   "made": 1118,
+   "desc": "今天来做一道很下饭的素菜！真的做法简单又下饭！酸辣开胃！厨房小白也能轻松get！",
+   "ingredients": [
+    {
+     "name": "白菜",
+     "amount": "1颗"
+    },
+    {
+     "name": "干辣椒",
+     "amount": "3个"
+    },
+    {
+     "name": "小米椒",
+     "amount": "3个"
+    },
+    {
+     "name": "大蒜",
+     "amount": "2瓣"
+    }
+   ],
+   "stepCount": 6,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 18
+   },
+   "image": {
+    "local": "images/2026-11-22/106927375.jpg",
+    "source": "https://i2.chuimg.com/726f123ddd40446b8d70b19da3c66018_1920w_2560h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "白菜洗净切好，调个酱汁：1勺生抽+1勺蚝油+1勺陈醋+半勺糖+半勺淀粉，加小半碗水拌匀备用！",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-1.jpg",
+      "source": "https://i2.chuimg.com/c1428bf5f19b41d3a16deb18067d8aaf_998w_798h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "锅内放油爆香蒜片辣椒",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-2.jpg",
+      "source": "https://i2.chuimg.com/6f46b9b1ec0e429c85d50d481e2ed2ca_600w_480h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "放入白菜，翻炒软",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-3.jpg",
+      "source": "https://i2.chuimg.com/c5a7c9a7bdd146d8a77eea880b21218e_1034w_827h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "倒入调好的酱汁，焖煮几分钟出锅！",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-4.jpg",
+      "source": "https://i2.chuimg.com/cf702ec9e66148c493227cd3ebf0e150_646w_517h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "喜欢吃酸的可多加1勺陈醋！",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-5.jpg",
+      "source": "https://i2.chuimg.com/a77c315259e244878038f26c0b4383da_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "酸辣开胃！又下饭！",
+     "image": {
+      "local": "images/2026-11-22/steps/106927375-6.jpg",
+      "source": "https://i2.chuimg.com/5f634ae356704c0aa5043c9b1cda9134_1920w_2560h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107131848",
+   "name": "南瓜烤蛋奶🎃",
+   "url": "https://www.xiachufang.com/recipe/107131848/",
+   "author": "嗦嗦地",
+   "score": 7.4,
+   "made": 219,
+   "desc": "简单好吃，第一次做居然没翻车！就好像炖蛋一样又香又滑，实在是太好吃啦😋",
+   "ingredients": [
+    {
+     "name": "南瓜",
+     "amount": "2个"
+    },
+    {
+     "name": "糖",
+     "amount": "30克"
+    },
+    {
+     "name": "纯牛奶",
+     "amount": "150毫升"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "2只"
+    }
+   ],
+   "stepCount": 5,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 23
+   },
+   "image": {
+    "local": "images/2026-11-22/107131848.jpg",
+    "source": "https://i2.chuimg.com/6d713297619a447bae4ddfd30ca40f81_1280w_1706h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "空气炸锅预热200℃ 10分钟贝贝南瓜切去顶部，挖去籽清洗干净，放入空气炸锅中先烤180℃ 15分钟",
+     "image": {
+      "local": "images/2026-11-22/steps/107131848-1.jpg",
+      "source": "https://i2.chuimg.com/9cbb1ab59c3f4ebcafe25b894ca608e1_1280w_1706h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "鸡蛋倒入杯子中，加入白糖，纯牛奶搅拌均匀",
+     "image": {
+      "local": "images/2026-11-22/steps/107131848-2.jpg",
+      "source": "https://i2.chuimg.com/b2562bc0918941eb90464d5093116059_1280w_1706h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "过筛鸡蛋液到南瓜里",
+     "image": {
+      "local": "images/2026-11-22/steps/107131848-3.jpg",
+      "source": "https://i2.chuimg.com/07df9b1f134446d19b3c03d61e7be4c5_1280w_1706h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "放进空气炸锅，180℃烤10分钟，然后调至140℃烤10分钟",
+     "image": {
+      "local": "images/2026-11-22/steps/107131848-4.jpg",
+      "source": "https://i2.chuimg.com/0ddf484da0e94fab88a0bcdc963a84ed_1280w_1706h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "热乎乎的南瓜烤布丁出来了，简单营养又好吃！",
+     "image": {
+      "local": "images/2026-11-22/steps/107131848-5.jpg",
+      "source": "https://i2.chuimg.com/91f5fb141252416a80f58bdf495984fd_1280w_1706h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "105936829",
+   "name": "法国油酥面团",
+   "url": "https://www.xiachufang.com/recipe/105936829/",
+   "author": "飞儿67",
+   "score": 8.0,
+   "made": 11,
+   "desc": "想做苹果派，必须得先做法国油酥面团，做完油酥面团，接下来就简单啦。用油酥面团做的苹果派，非常简单：https://www.xiachufang.com/recipe/105938503/",
+   "ingredients": [
+    {
+     "name": "低粉",
+     "amount": "68克"
+    },
+    {
+     "name": "高粉",
+     "amount": "270克"
+    },
+    {
+     "name": "无盐黄油",
+     "amount": "255克"
+    },
+    {
+     "name": "蛋黄",
+     "amount": "10克"
+    },
+    {
+     "name": "盐",
+     "amount": "7克"
+    },
+    {
+     "name": "牛奶",
+     "amount": "90克"
+    }
+   ],
+   "stepCount": 5,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 1
+   },
+   "image": {
+    "local": "images/2026-11-22/105936829.jpg",
+    "source": "https://i2.chuimg.com/71972799573444b589681585dff5da83_1615w_1077h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "低粉、高粉和冷藏切小块的黄油一起切拌至粗沙砾装；",
+     "image": {
+      "local": "images/2026-11-22/steps/105936829-1.jpg",
+      "source": "https://i2.chuimg.com/6c2236e0e45f4aec853315cfec944363_3464w_3464h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "中间挖个窝，把盐、蛋黄、牛奶放入混合，然后在操作台上以压拌方式使其成团；",
+     "image": {
+      "local": "images/2026-11-22/steps/105936829-2.jpg",
+      "source": "https://i2.chuimg.com/24aa6112397a4ac3a9513e210258e616_3464w_3464h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "保鲜膜包裹后入冷藏；",
+     "image": {
+      "local": "images/2026-11-22/steps/105936829-3.jpg",
+      "source": "https://i2.chuimg.com/30e187d4b8764233bf34ded5df3f8c7d_1616w_1080h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "压拌手法。油酥面团用不了的可以做其他甜点，可以分割好冷冻保存，时间更长。",
+     "image": {
+      "local": "images/2026-11-22/steps/105936829-4.jpg",
+      "source": "https://i2.chuimg.com/318b2f56f42b43b2b4303fea04b351b5_480w_384h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "成团后包保鲜膜冷藏。",
+     "image": {
+      "local": "images/2026-11-22/steps/105936829-5.jpg",
+      "source": "https://i2.chuimg.com/87de544fc9574c3693501a3f77c71214_1616w_1080h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107065197",
+   "name": "软糯Q弹‼️小朋友最爱的钵仔糕｜终于被我复刻出来啦❗️好吃😋",
+   "url": "https://www.xiachufang.com/recipe/107065197/",
+   "author": "满屋美食记",
+   "score": 7.8,
+   "made": 10,
+   "desc": "我家小朋友三天两头买的钵仔糕，成功被我复刻出来啦😆终于在家实现钵仔糕自由，软糯Q弹，越吃越上头，和学校门口的味道一模一样‼️钵仔糕也是广州的传统小吃之一，之前去广州旅游必打卡，非常适合作为下午茶或甜点食用。",
+   "ingredients": [
+    {
+     "name": "钵仔糕粉",
+     "amount": "100克"
+    },
+    {
+     "name": "糖",
+     "amount": "30k克"
+    },
+    {
+     "name": "蜜豆",
+     "amount": "10克"
+    },
+    {
+     "name": "葡萄干",
+     "amount": "10克"
+    },
+    {
+     "name": "草莓",
+     "amount": "2颗"
+    },
+    {
+     "name": "橘子",
+     "amount": "半个"
+    },
+    {
+     "name": "脆啵啵",
+     "amount": "适量"
+    },
+    {
+     "name": "草莓粉",
+     "amount": "5克"
+    },
+    {
+     "name": "青苹果粉",
+     "amount": "5克"
+    },
+    {
+     "name": "橙子粉",
+     "amount": "5克"
+    },
+    {
+     "name": "蓝莓粉",
+     "amount": "5克"
+    },
+    {
+     "name": "香芋粉",
+     "amount": "5克"
+    },
+    {
+     "name": "百香果",
+     "amount": "1个"
+    }
+   ],
+   "stepCount": 9,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 3
+   },
+   "image": {
+    "local": "images/2026-11-22/107065197.jpg",
+    "source": "https://i2.chuimg.com/d1ef73c7df0049c6b9ab45224c83aae3_1242w_1915h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "100克钵仔糕、30克糖、150ml清水",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-1.jpg",
+      "source": "https://i2.chuimg.com/dc0c505ae4f544e0bdf309609a6c47db_1242w_1259h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "搅拌至无颗粒，像这样就可以了",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-2.jpg",
+      "source": "https://i2.chuimg.com/f3a6a9e589364fbb9af500d5d81ea383_1242w_1170h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "准备一些喜欢吃的水果和小料",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-3.jpg",
+      "source": "https://i2.chuimg.com/ac4a1bbe29e14f029101acc1ae6cccb0_1242w_1159h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "红：草莓粉+草莓 绿：青苹果+脆啵啵 黄：百香果 橙：橙子粉+橘子 蓝：蓝莓粉+葡萄干 紫：香芋粉+蜜豆",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-4.jpg",
+      "source": "https://i2.chuimg.com/1fa9842c58b4427eba9c63b8886ef6c6_1242w_1079h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "舀入钵仔糕粉浆",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-5.jpg",
+      "source": "https://i2.chuimg.com/bd2e7f2e7a9f4023be53834e7315aef5_1242w_992h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "水开上锅蒸15分钟",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-6.jpg",
+      "source": "https://i2.chuimg.com/593c467a0cb64d52bf770847f6740c90_1242w_1115h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "放凉就可以吃啦",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-7.jpg",
+      "source": "https://i2.chuimg.com/f9674c7794394e3fabfd921b2d3a736e_1242w_858h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "终于在家实现钵仔糕自由，软糯Q弹，越吃越上头，和学校门口的味道一模一样‼️",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-8.jpg",
+      "source": "https://i2.chuimg.com/c4772f0a7c6a4700965501a0145e0a50_1242w_1915h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "钵仔糕也是广州的传统小吃之一，之前去广州旅游必打卡，非常适合作为下午茶或甜点食用。",
+     "image": {
+      "local": "images/2026-11-22/steps/107065197-9.jpg",
+      "source": "https://i2.chuimg.com/0659767a146742d0b3bbb583e3b3da1c_1201w_1130h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106581560",
+   "name": "全蛋版传统老式桃酥‼️简单好做一次成功",
+   "url": "https://www.xiachufang.com/recipe/106581560/",
+   "author": "叶婉婷你是最棒的",
+   "score": 8.5,
+   "made": 10,
+   "desc": "桃酥做给家里长辈出口太合适了💡桃酥加蛋黄和全蛋的区别加蛋黄酥加全蛋酥脆",
+   "ingredients": [
+    {
+     "name": "低筋面粉",
+     "amount": "250克"
+    },
+    {
+     "name": "玉米油",
+     "amount": "105克"
+    },
+    {
+     "name": "小苏打",
+     "amount": "3克"
+    },
+    {
+     "name": "泡打粉",
+     "amount": "2克"
+    },
+    {
+     "name": "盐",
+     "amount": "2克"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "1个"
+    },
+    {
+     "name": "细砂糖",
+     "amount": "40克"
+    }
+   ],
+   "stepCount": 13,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 4
+   },
+   "image": {
+    "local": "images/2026-11-22/106581560.jpg",
+    "source": "https://i2.chuimg.com/b260c8caebc349e88fc17bebd939cf23_960w_1280h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "白糖 鸡蛋 盐倒入碗中",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-1.jpg",
+      "source": "https://i2.chuimg.com/25593cef95af471f835cc914e59efdb8_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "倒入玉米油 混合均匀",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-2.jpg",
+      "source": "https://i2.chuimg.com/283d4f50f21e412e981b7513c9791591_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "过筛 混合好的 低粉 小苏打 泡打粉",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-3.jpg",
+      "source": "https://i2.chuimg.com/a626169e1d11401aa48e108015bdb86c_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "混合均匀无干粉",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-4.jpg",
+      "source": "https://i2.chuimg.com/dcee1e47ae634605ab66eb96921297b5_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "多揉几下 就吸收了 很好成团",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-5.jpg",
+      "source": "https://i2.chuimg.com/df6f204256f044afab70d7adf0b82f06_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "取20克一个 揉圆",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-6.jpg",
+      "source": "https://i2.chuimg.com/b177c646cd1b44a798e3055d82d17ece_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "然后按扁",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-7.jpg",
+      "source": "https://i2.chuimg.com/007bf0a8ccdd4aab925cb50400ad84bd_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "表面喷水 撒黑芝麻",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-8.jpg",
+      "source": "https://i2.chuimg.com/ec7972a9975c460fae727496a5d943ed_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "烤箱提前预热150度",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-9.jpg",
+      "source": "https://i2.chuimg.com/647bdf5c415c48f7a8f6f1726e7d6024_960w_1280h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "150度烤25分钟",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-10.jpg",
+      "source": "https://i2.chuimg.com/8441fe6c2995418e8483b609c289e9c3_960w_1280h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "酥酥脆脆的",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-11.jpg",
+      "source": "https://i2.chuimg.com/7d2cafb0aa6541b8aaf2a2d232ef597a_960w_1280h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "一捏就碎哦",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-12.jpg",
+      "source": "https://i2.chuimg.com/3988c8eb4573452c8e818259c20bf25d_960w_1280h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "快来试试吧",
+     "image": {
+      "local": "images/2026-11-22/steps/106581560-13.jpg",
+      "source": "https://i2.chuimg.com/a156e3755c614786a263ed2e25afe969_960w_1280h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106933391",
+   "name": "烙柿子饼（软糯甜香）",
+   "url": "https://www.xiachufang.com/recipe/106933391/",
+   "author": "麻麻食",
+   "score": 8.0,
+   "made": 11,
+   "desc": "秋冬季节火红的柿子成熟了，用它烙柿子饼，咬一口软糯香甜，好吃的停不下来。",
+   "ingredients": [
+    {
+     "name": "柿子",
+     "amount": "若干个"
+    },
+    {
+     "name": "玉米面",
+     "amount": "适量"
+    },
+    {
+     "name": "普通面粉",
+     "amount": "适量"
+    },
+    {
+     "name": "泡打粉",
+     "amount": "适量"
+    },
+    {
+     "name": "食用油",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 9,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 5
+   },
+   "image": {
+    "local": "images/2026-11-22/106933391.jpg",
+    "source": "https://i2.chuimg.com/fcc0283c8745412684006b09b5d8a0f4_750w_803h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "柿子要用软柿子，如果买的柿子是硬的，放几天就会软。我用的是陕西火晶柿子，这种柿子甜度非常高，做的时候不需要放糖就很甜。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-1.jpg",
+      "source": "https://i2.chuimg.com/39d191e4f9ba4467855d4c16097700b4_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "忘了拍照，只能文字叙述制做过程了，下次补拍。柿子剥皮后放到盆里，我用了十个柿子，用手捏碎，（不需要用破壁机之类的）再一点一点加入面粉，把面粉和柿子揉搓均匀，柿子多就多加面粉，柿子少就少加面粉，没有具体的量，直到和成偏软的面团，就像油条面那么软，如果太硬就不好吃；我是加了三份玉米面，一份白面（我觉得玉米面柿子饼比纯白面的好吃）。和面的过程中加入一点泡打粉这样饼会蓬松不是那么死硬，（我和好的面团大约400克，加了约一克泡打粉）口感要比不加好吃，介意的可以不加。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-2.jpg",
+      "source": "https://i2.chuimg.com/962a12661a414818b6cff6650cb42eb2_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "电饼铛抹油加热，两手掌沾点油，揪一点面团掌心揉圆再按扁，放入锅中中小火烙制两面金黄就好了，大约六七分钟，火一定要小火，因为柿子含糖容易糊，饼铛温度高了可关火烙制。一定要在跟前看着点，稍不注意火大就糊了。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-3.jpg",
+      "source": "https://i2.chuimg.com/383ee8704ad04fcabbd69f5e4c17e22b_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "刚出锅外酥里软特别香甜好吃，如果有馅料可加入芝麻花生，红豆沙等烙出来的更加美味，我这次没包馅，下次做包馅的。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-4.jpg",
+      "source": "https://i2.chuimg.com/8a07b66e120e4572811e8875887a2586_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "补充图片，柿子剥皮用勺子压碎就行。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-5.jpg",
+      "source": "https://i2.chuimg.com/b03bb9ad546a4242b343b0f4412a4bbb_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "加入面粉，不喜欢玉米面的可以全部用小麦粉，这张图就是全部用小麦粉和面，一边加一边用筷子搅拌，这次做面粉加的少，和的比较软，比以前做的还软。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-6.jpg",
+      "source": "https://i2.chuimg.com/e04522513f8b465698c207d157fe6eb2_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "面软柿子含量多，烙出的饼就更甜，但是面软手就拿不起来，要用勺子挖一块放进锅里，再压扁成饼状，切记一定要小火，小火……",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-7.jpg",
+      "source": "https://i2.chuimg.com/82b308937a4443888b311b6e1f492283_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "用铲子压扁后的样子。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-8.jpg",
+      "source": "https://i2.chuimg.com/5c6983580cdd4a26a9077d98fb18eb54_780w_1040h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "加了芝麻。",
+     "image": {
+      "local": "images/2026-11-22/steps/106933391-9.jpg",
+      "source": "https://i2.chuimg.com/e0aa22b9da5c45e0b8b08bf594b545e9_780w_1040h.jpg"
+     }
+    }
+   ]
+  }
+ ]
+}
