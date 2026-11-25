@@ -1,1364 +1,1364 @@
 {
- "schemaVersion": 1,
- "date": "2026-11-15",
- "timezone": "Asia/Shanghai",
- "entries": [
-  {
-   "id": "104643213",
-   "name": "脆皮豆腐",
-   "url": "https://www.xiachufang.com/recipe/104643213/",
-   "author": "RuMei美食记",
-   "score": 7.4,
-   "made": 2234,
-   "desc": "切记：豆腐：用嫩豆腐（普通的嫩豆腐）超市里一板一板切块的那种做；【不是老豆腐、盒装豆腐、内脂豆腐】内脂豆腐太嫩了容易烂；裹粉、鸡蛋液的时候建议用手去裹轻手拿哦！选豆腐最关键",
-   "ingredients": [
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "timezone": "Asia/Shanghai",
+  "entries": [
     {
-     "name": "豆腐：用普通嫩豆腐",
-     "amount": "1块"
+      "id": "104643213",
+      "name": "脆皮豆腐",
+      "url": "https://www.xiachufang.com/recipe/104643213/",
+      "author": "RuMei美食记",
+      "score": 7.4,
+      "made": 2234,
+      "desc": "切记：豆腐：用嫩豆腐（普通的嫩豆腐）超市里一板一板切块的那种做；【不是老豆腐、盒装豆腐、内脂豆腐】内脂豆腐太嫩了容易烂；裹粉、鸡蛋液的时候建议用手去裹轻手拿哦！选豆腐最关键",
+      "ingredients": [
+        {
+          "name": "豆腐：用普通嫩豆腐",
+          "amount": "1块"
+        },
+        {
+          "name": "葱花",
+          "amount": "适量"
+        },
+        {
+          "name": "玉米淀粉",
+          "amount": "半碗"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "1个"
+        },
+        {
+          "name": "生抽",
+          "amount": "2勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "几滴"
+        },
+        {
+          "name": "白糖",
+          "amount": "半勺"
+        }
+      ],
+      "stepCount": 4,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 13
+      },
+      "image": {
+        "local": "images/2026-11-15/104643213.jpg",
+        "source": "https://i2.chuimg.com/e88fc12162e74eb38b1f4303d3205538_1078w_720h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "1先来调一碗酱汁，碗中加入生抽、老抽、蚝油、白糖，加入一勺玉米淀粉和半碗清水搅拌均匀备用",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/262f960ff8614469833cb78c409a74d1_1080w_1438h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "豆腐切成厚片，裹上玉米淀粉，再裹上蛋液,放入锅里煎至两面金黄",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/114810b256d04bdcbe76b4bec67ee834_1080w_1438h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "倒入调好的酱汁小火焖煮至汤汁浓稠即可，记得轻轻翻动哦!脆皮豆腐完成",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/363e9078be6e48aa82163a11d958766e_1078w_720h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "开吃咯！",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/afa2ecfa20774db2807851cae3af09f2_795w_722h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "葱花",
-     "amount": "适量"
+      "id": "107499508",
+      "name": "🥜花生酥饼，拜托都给我去做，好吃绝了👍",
+      "url": "https://www.xiachufang.com/recipe/107499508/",
+      "author": "Dana大拿",
+      "score": 8.0,
+      "made": 43,
+      "desc": "这款花生酥饼🥜，真的强烈建议你们去做，用料都非常朴实，但真的好吃惨了。入口的口感非常的蓬松轻盈，属于入口即化，而且做法也巨简单。甜度我做了减糖，吃起来不会太甜腻，所以不建议再减糖了。喜甜的姐妹可以在我这个基础上➕10或20克的糖。我觉得50克糖的甜度刚刚好",
+      "ingredients": [
+        {
+          "name": "黄油",
+          "amount": "100克"
+        },
+        {
+          "name": "低筋面粉",
+          "amount": "225克"
+        },
+        {
+          "name": "糖粉",
+          "amount": "50克"
+        },
+        {
+          "name": "泡打粉",
+          "amount": "5克"
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "1个"
+        },
+        {
+          "name": "熟花生碎",
+          "amount": "70克"
+        }
+      ],
+      "stepCount": 14,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 16
+      },
+      "image": {
+        "local": "images/2026-11-15/107499508.jpg",
+        "source": "https://i2.chuimg.com/f0fdcc3e62d141dd91778fad273cd517_1920w_2560h.jpg"
+      },
+      "category": "烘焙甜点",
+      "steps": [
+        {
+          "n": 1,
+          "text": "黄油室温软化",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/310c118d745542eb87cdea7cae3ca5e1_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "加入糖粉搅拌均匀",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/fbffae2e92d444848bbbd52f0eefdfd0_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "打发蓬松",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d090c0fc15fa47a8b1304c32ed0110e8_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "常温全蛋液分2次加入黄油中，打发均匀",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c6ee1bb6030244bf8c1afc492044bc12_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "筛入低筋面粉和泡打粉",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/95a4f94efc2b4818959179191232205a_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "翻拌均匀成无干粉的面团",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/ab207a3b4277470190d857aceef75f8f_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "分成21克/个大小的面团，搓成小球，一共可以做20块",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/987cf105051a4157bcf4529165340e92_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "表面沾点蛋液（这里的蛋液是另外再打一个鸡蛋）",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/647aaf690dac432e814c2dd57af51076_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "再沾上熟花生碎",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/3bb471cb519145a2a2fd618bd01cf479_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "轻轻按扁，摆入烤盘中",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4e2e13ebd9564fa6ae26f1e19fe39f1f_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "送入预热好的烤箱175°烤25分钟（根据自家烤箱的脾气自行调节温差）",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/be05f240f2d34cd88318df0597eaa78a_2560w_2560h.jpg"
+          }
+        },
+        {
+          "n": 12,
+          "text": "烤好出炉啦",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/b4702b4876934a0098730eacd4d791f5_1280w_720h.jpg"
+          }
+        },
+        {
+          "n": 13,
+          "text": "又香又酥",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/2b576830feee4cf5a15bb871ee05499b_3414w_2560h.jpg"
+          }
+        },
+        {
+          "n": 14,
+          "text": "超级好吃的花生酥饼，推荐你们都去做",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/3b3c2e2036f442f19a3bbb35c4e523b3_3414w_2560h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "玉米淀粉",
-     "amount": "半碗"
+      "id": "106803822",
+      "name": "好吃到舔手指的蒜香烤排骨",
+      "url": "https://www.xiachufang.com/recipe/106803822/",
+      "author": "土豆土豆泥0",
+      "score": 7.6,
+      "made": 89,
+      "desc": "无需油炸的蒜香烤排骨，外焦里嫩 非常入味，吃起来一点也不油腻，喜欢吃排骨的姐妹们不要错过！",
+      "ingredients": [
+        {
+          "name": "排骨",
+          "amount": "600克"
+        },
+        {
+          "name": "大蒜",
+          "amount": "2勺"
+        },
+        {
+          "name": "料酒",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "盐",
+          "amount": "适量"
+        },
+        {
+          "name": "糖",
+          "amount": "半勺"
+        },
+        {
+          "name": "黑胡椒粉",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 11,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 21
+      },
+      "image": {
+        "local": "images/2026-11-15/106803822.jpg",
+        "source": "https://i2.chuimg.com/27c36103dd684ca4a463409947dade88_1920w_2560h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "排骨洗净浸泡一小时泡出血水",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/6f28e5a8dd2542e0b69f2de30928663e_1649w_1649h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "➕两勺蒜末",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/00fc8d13d65c43048206b1045675dd58_1574w_1574h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "一勺料酒➕一勺生抽➕半勺老抽➕黑胡椒",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a892dc34b6994a218c49ee4a59e277fb_1921w_2560h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "➕半勺白糖",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/32bd96e8856343acb7fccff2f0021573_1452w_1452h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "➕适量盐",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/5721cf5b43004590a3d65177d5cde7fb_1278w_1278h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "抓拌均匀腌制一小时以上",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/665a15d5b9af49288dd2edf5f7fa5876_1639w_1639h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "码入烤盘中",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/ac9aef27ad0c41799854338892f3765c_1234w_1234h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "空气炸功能180度烤20分钟翻面再烤15分钟",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/87ce1bebb793470ca65f4f964cc668b2_1279w_1279h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "出锅撒一点辣椒面更香",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/b22e633681d34b60af0140189299d157_1587w_1587h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "太香啦",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a5d0510e07ca4055b092938bbadff134_1919w_1919h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "开吃",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/b522c78720134bc183126a4fa28efdbe_1921w_1921h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "鸡蛋",
-     "amount": "1个"
+      "id": "107415248",
+      "name": "盐葱煎猪排",
+      "url": "https://www.xiachufang.com/recipe/107415248/",
+      "author": "apple-234",
+      "score": 8.6,
+      "made": 10,
+      "desc": null,
+      "ingredients": [
+        {
+          "name": "猪排、花雕酒、生抽、玉米淀粉、黑胡椒、鸡蛋、姜片",
+          "amount": ""
+        }
+      ],
+      "stepCount": 23,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 1
+      },
+      "image": {
+        "local": "images/2026-11-15/107415248.jpg",
+        "source": "https://i2.chuimg.com/407ed345ee2e495baf6b8ead8f89c403_1170w_2532h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/276835b42fd44e99bc35bb97562ed00f_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d631334115544aa2b69e7f473a94c1f9_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/af6d2975baaf482c914ce896dc4cfcfe_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c5229648c9e3476a811838751f7586c4_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/fb9f6672b1594d17b3a4d52296441e62_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/94129b28e45d4107967a9632b8d882e5_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/f3955214de124668bf0a44cc206704c5_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/013dea0ffbbd4506b1fdce129a31af29_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/8d6a022a217f4158bda7f65932a306ae_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/df1ebfa321fd48bcbd5e28685611f772_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/00f4a901fcc5443cbc26191ddc301b86_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 12,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/85b68fd566f740198cb21db29068f6ac_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 13,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/b6f61f5b773b4bf7b37875e854cdb3ae_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 14,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/e7417502172940228aca58de69244ed6_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 15,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/2a2a70b54df64fefbd7de4b9f17279ce_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 16,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/7d11449361294bb68a784347718f1b88_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 17,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/9a58c1be033c47daa01fb53ae88f67c3_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 18,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/663f8a0268fc4a7587526d3e952299ff_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 19,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4fc7a077b71b4c8fadaeacd6e16e594d_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 20,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/6c86fab3b3974be18ec18e164a75ee18_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 21,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/cdeee1ace2674fa1a995ca058b8f2525_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 22,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/cc76e0c215f7403a8a9f0ea1f9c2487b_1170w_2532h.jpg"
+          }
+        },
+        {
+          "n": 23,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/40f096d301a44f6b84569a5ed70b2c28_1170w_2532h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "生抽",
-     "amount": "2勺"
+      "id": "104098487",
+      "name": "【减脂期】星爸爸的简易版南瓜拿铁",
+      "url": "https://www.xiachufang.com/recipe/104098487/",
+      "author": "噜噜噜仙儿",
+      "score": 8.1,
+      "made": 11,
+      "desc": "从fit4life那里学来的，没有喝过星巴克的南瓜拿铁，但是自己想试试，就做了一款简易版的，没想到意外地好喝，疯狂打call。我这样一份大概280大卡。",
+      "ingredients": [
+        {
+          "name": "牛奶",
+          "amount": "250ml"
+        },
+        {
+          "name": "板栗南瓜",
+          "amount": "125g"
+        },
+        {
+          "name": "黑咖啡",
+          "amount": "1杯"
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 3
+      },
+      "image": {
+        "local": "images/2026-11-15/104098487.jpg",
+        "source": "https://i2.chuimg.com/9a7f57856a574939829c23d2413f34bf_2048w_2048h.jpg"
+      },
+      "category": "饮品",
+      "steps": [
+        {
+          "n": 1,
+          "text": "1.关于南瓜🎃说一下，不同种类南瓜热量差很多哦！我用的是板栗南瓜，热量就比较高了，但是口感好绵糯。 2.牛奶我用的是全脂牛奶，煮出来会比较香，不是很介意那一点点儿脂肪的小伙伴还是用全脂吧，口感真的差不少呢！ 3.咖啡可以用我这种浓缩的比较方便，或者泡一杯黑咖啡都可以。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/799c512fc24a4bd8b1d953d0635505c2_1124w_1124h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "南瓜挖出来，不要绿皮",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c38f0ab3d3794ac5bd69cd6022d14551_2048w_2048h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "牛奶和南瓜放到料理机里打成糊",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/ec5352fef15f4a18b6a734c1ee4be956_2048w_2048h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "酱就可以啦，颜色很秋天",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/352dd17d887140cea207d42f8724bdbb_2048w_2048h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "倒入奶锅中加热，再加入咖啡煮热就好。煮开的话浮沫会比较多，有奶泡的感觉。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/0645db46bb5c43f3ae0faf96dabe5b3b_2048w_2048h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "用大G的话说，秋天就是吃南瓜的季节，喝上这么一大杯，幸福感爆棚。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/449dc69b4dc34d5aab3741e4f561692d_2048w_2048h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "热量表",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/95771e242bd64de6aceefd0732a6f1d7_1125w_937h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "蚝油",
-     "amount": "1勺"
+      "id": "106632341",
+      "name": "最好吃的时令菜，雪里红肉沫",
+      "url": "https://www.xiachufang.com/recipe/106632341/",
+      "author": "彭映嘉",
+      "score": null,
+      "made": 10,
+      "desc": "上桌就秒光的菜，就算不喜欢吃素菜也喜欢这个味",
+      "ingredients": [
+        {
+          "name": "肉末",
+          "amount": "108克"
+        },
+        {
+          "name": "雪里蕻",
+          "amount": "400克"
+        },
+        {
+          "name": "红辣椒",
+          "amount": "2个"
+        },
+        {
+          "name": "鸡精味精",
+          "amount": "3克"
+        },
+        {
+          "name": "盐",
+          "amount": "3克"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 3,
+      "lists": [
+        "rising"
+      ],
+      "rank": {
+        "rising": 4
+      },
+      "image": {
+        "local": "images/2026-11-15/106632341.jpg",
+        "source": "https://i2.chuimg.com/b75eb466f18b4b31aa088e645775b986_1706w_1279h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "雪里红用开水烫两分钟，用冷水泡半个小时",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/1245f14cd97246ef99af778b0a1820b1_1279w_1706h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "雪里红切成沫，抓干水分，再炒干水分备用",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/58145e0f22004f0c8979a97740fccbe4_1279w_1706h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "放猪油，放肉泥炒香，再放大蒜米，红辣椒碎或者干红辣椒粉，把炒干水分的雪里红放进去翻炒，放盐，鸡精味精，蚝油，生抽，调料炒入味出锅，最后放一把大蒜叶更香",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/36cce90ff4364c3ea1f4e4c91e507695_1706w_1279h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "老抽",
-     "amount": "几滴"
+      "id": "107777218",
+      "name": "4款家常蒸菜，简单快手又好吃",
+      "url": "https://www.xiachufang.com/recipe/107777218/",
+      "author": "珞霞小苑",
+      "score": null,
+      "made": 0,
+      "desc": "新入手了一个电蒸锅，做了几道家常蒸菜，我家经常做，简单方便又好吃😋喜欢的宝子们快学起来吧！",
+      "ingredients": [
+        {
+          "name": "第1️⃣道:肉末蒸蛋",
+          "amount": ""
+        },
+        {
+          "name": "鸡蛋",
+          "amount": "3–4个"
+        },
+        {
+          "name": "肉末",
+          "amount": "50–100克"
+        },
+        {
+          "name": "盐",
+          "amount": "半勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "香油",
+          "amount": "1勺"
+        },
+        {
+          "name": "蒸鱼豉油",
+          "amount": "1勺"
+        },
+        {
+          "name": "葱花",
+          "amount": "少许"
+        },
+        {
+          "name": "第2️⃣道:香芋蒸排骨",
+          "amount": ""
+        },
+        {
+          "name": "香芋",
+          "amount": "300克"
+        },
+        {
+          "name": "排骨",
+          "amount": "1根"
+        },
+        {
+          "name": "盐",
+          "amount": "半勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "3勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "香油",
+          "amount": "1勺"
+        },
+        {
+          "name": "玉米淀粉",
+          "amount": "3勺"
+        },
+        {
+          "name": "蒜末",
+          "amount": "少许"
+        },
+        {
+          "name": "五香粉",
+          "amount": "半勺(可不放)"
+        },
+        {
+          "name": "葱花",
+          "amount": "少许"
+        },
+        {
+          "name": "第3️⃣道:蒜蓉生蚝",
+          "amount": ""
+        },
+        {
+          "name": "生蚝",
+          "amount": "15个(4斤多)"
+        },
+        {
+          "name": "葱花",
+          "amount": "少许"
+        },
+        {
+          "name": "小米辣/剁辣椒",
+          "amount": "少许"
+        },
+        {
+          "name": "蒜蓉酱",
+          "amount": "适量"
+        },
+        {
+          "name": "第4️⃣道:蒜蓉粉丝蒸虾",
+          "amount": ""
+        },
+        {
+          "name": "粉丝",
+          "amount": "1把"
+        },
+        {
+          "name": "虾",
+          "amount": "250克(10多只)"
+        },
+        {
+          "name": "葱花",
+          "amount": "少许"
+        },
+        {
+          "name": "蒜蓉酱",
+          "amount": "适量"
+        },
+        {
+          "name": "附蒜蓉酱做法:",
+          "amount": ""
+        },
+        {
+          "name": "大蒜",
+          "amount": "4-6头"
+        },
+        {
+          "name": "盐",
+          "amount": "半勺"
+        },
+        {
+          "name": "鸡精/白糖",
+          "amount": "半勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "半勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        }
+      ],
+      "stepCount": 17,
+      "lists": [
+        "homestyle"
+      ],
+      "rank": {
+        "homestyle": 18
+      },
+      "image": {
+        "local": "images/2026-11-15/107777218.jpg",
+        "source": "https://i2.chuimg.com/01570582077c4fdcb16ca93953611202_1280w_1706h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "第一道:肉末蒸蛋",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4779c826955a4efaa45f9f83a62da1ed_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "详细做法如图，我用电蒸锅冷水上锅20分钟刚刚好，用燃气灶水开计时大火🔥蒸10-15分钟左右。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/8be1daeec4b94c2e91d52aca749bf74a_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "出锅，太香了！",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/7ef060ac64bc4f8e944a00b0e213e9d0_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "鲜香嫩滑巨好吃！",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/6bfc281dd56546a8ba5508f83b75824c_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "第二道菜:香芋蒸排骨",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/582ada5f8f0342f6a186afec86fd0ddc_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "详细做法如图，如果用电蒸锅想要软烂一点，可以再加点时间，我蒸了一个小时，又加了30分钟。用燃气灶蒸40分钟至1小时差不多就够了，1个小时很软了。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/ffa0f4c7d5304f4abc599bf42b11fb5a_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "出锅，香喷喷！",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/e4b55e024bed450e8fc66cc89a82cda8_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "第三道菜:蒜蓉生蚝",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/26c006c0691e461e93098d9bc1e2f81d_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "详细做法如图。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a1ce93ddb87f4d62a0b4f248a747b91a_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "分享开生蚝的方法，如图。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/9e084d11391444e3b9f61c265b8241a1_1080w_1440h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "不辣的。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4ce9cf11eef24a1c86e6fed4ffd2c619_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 12,
+          "text": "辣的。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/0fa6a4ef4b384e4f8f67e1524b22af9a_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 13,
+          "text": "这次买的生蚝个头很大。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/e7ac114943934bdf9ea572eeda8948e7_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 14,
+          "text": "一口下去太满足了！",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/27676fd56bf54cd0b644875eb86fbf8c_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 15,
+          "text": "第四道菜:蒜蓉粉丝蒸虾",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/5f79a7986739421588f3d007936b64f7_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 16,
+          "text": "详细做法如图。我这次生蚝和虾一起用电蒸锅蒸的，生蚝放第一和第二层，虾放在第三层，冷水上锅蒸了20分钟，虾单独又蒸了5分钟。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/39ff4844b9324e00bf781dbd882c5336_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 17,
+          "text": "这样做的虾好看又好吃😋",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d1c26f6074e54321bb0975077c28a9d6_1280w_1706h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "白糖",
-     "amount": "半勺"
+      "id": "107695625",
+      "name": "电饭煲版葱油焖鸡，年夜饭家常菜，无水无油爽嫩多汁，15分钟上桌简单快手菜",
+      "url": "https://www.xiachufang.com/recipe/107695625/",
+      "author": "美食妃英理",
+      "score": 7.0,
+      "made": 33,
+      "desc": "年夜饭是给电饭煲显示家常菜机会的最佳时间，家家户户吃饺子，电饭煲终于不用蒸米饭了，那也别想闲着！这样的日子，锅碗瓢盆谁都别想消停，用它搞定一道年夜饭大菜绝对是好选择，不然都等着炖，开饭的时候菜不就都凉了嘛",
+      "ingredients": [
+        {
+          "name": "主料：手枪腿",
+          "amount": "2只"
+        },
+        {
+          "name": "腌料：生抽",
+          "amount": "4勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "2勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "黑胡椒粉",
+          "amount": "2茶匙"
+        },
+        {
+          "name": "盐",
+          "amount": "2茶匙"
+        },
+        {
+          "name": "葱花",
+          "amount": "1把"
+        },
+        {
+          "name": "姜丝",
+          "amount": "少量"
+        },
+        {
+          "name": "铺底：葱段",
+          "amount": "1把"
+        },
+        {
+          "name": "姜片",
+          "amount": "2片"
+        }
+      ],
+      "stepCount": 6,
+      "lists": [
+        "homestyle"
+      ],
+      "rank": {
+        "homestyle": 24
+      },
+      "image": {
+        "local": "images/2026-11-15/107695625.jpg",
+        "source": "https://i2.chuimg.com/5fa45f1dc875499ca7a2384cbf2a58e7_1920w_2560h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "鸡腿用开水浇一下，皮吃起来口感更好",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/dcefbff039564b8b86aedc915436d47a_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "加入腌制的调料抓匀腌制一会儿，我一般会多腌一个，密封冷藏，过2天再烹饪更入味儿",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/1fe1fffab33343b88ac5b0b7f433b774_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "葱段，姜片铺在电饭煲底",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/cb0024d805c34858833ed53e8b2d7bff_1921w_2560h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "鸡腿搞里头，汤汁加进去，这样就不用加水啦",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/89a6674228e546a9b6e9ebf90e7e44eb_1921w_2560h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "电饭煲选择“煮饭”相关的功能就可以，鸡腿很容易熟，不需要长时间烹饪",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/65d9b45fe6c44c7bbf7b4853262ea4a3_1222w_1629h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "用厨房剪刀剔除骨头，鸡肉切成条摆盘，这样更好看，吃起来也方便，颜值更高",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4f55f79e51834035a92f0ebebb9b1ae2_1280w_1707h.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "id": "107772094",
+      "name": "蚂蚁上树｜超级下饭",
+      "url": "https://www.xiachufang.com/recipe/107772094/",
+      "author": "家常小菜6346",
+      "score": null,
+      "made": 1,
+      "desc": "最治愈的从不是山珍海味，而是守在灶台前，炒一盘热气腾腾的蚂蚁上树。软滑的粉条浸透肉香，细碎肉末丝丝缕缕粘连其上，色泽红亮，香气直钻鼻腔。做法简单零失败，新手也能轻松拿捏，少油慢炒逼出肉香，简单调味焖至收汁，不用技巧，只用耐心。端上桌冒着热气，筷子一挑根根分明，拌着米饭大口吞咽，琐碎的疲惫瞬间被抚平。三餐四季，烟火寻常，一盘家常菜，就是生活最好的模样。",
+      "ingredients": [
+        {
+          "name": "粉条",
+          "amount": "1把"
+        },
+        {
+          "name": "生抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "老抽",
+          "amount": "1勺"
+        },
+        {
+          "name": "葱",
+          "amount": "半根"
+        },
+        {
+          "name": "小米辣",
+          "amount": "2个"
+        },
+        {
+          "name": "花雕酒",
+          "amount": "1勺"
+        },
+        {
+          "name": "味精",
+          "amount": "1匙"
+        },
+        {
+          "name": "松茸鲜",
+          "amount": "1匙"
+        }
+      ],
+      "stepCount": 12,
+      "lists": [
+        "homestyle"
+      ],
+      "rank": {
+        "homestyle": 29
+      },
+      "image": {
+        "local": "images/2026-11-15/107772094.jpg",
+        "source": "https://i2.chuimg.com/5caafb47b06f4810873636aa7fae79a9_1280w_1420h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "相当好吃分一盘家常小炒",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/502cc08676ca43348387fe5994a1bd44_1280w_1612h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "猪肉末",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/7de2d85e20ac4c638361af2ea070a253_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "以前泡发粉条",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a3e4743cf898406693adb616f2dca918_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "开水大概煮六七分钟",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c99b30029a534abcb8c53af9b7b7ada5_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "装大碗中",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c047e66b9fea44a5b6b9ff6a11ad0749_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "一勺油，先搅拌均匀",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/947643ba639546ba9cb7bf10cc7e772f_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "老抽",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/771b098a73a641e397ebb6635d80bc38_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "搅拌均匀",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/36beab7dbb8a44d99e26a3fd3731076b_1280w_960h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "起锅倒油，先炒肉沫",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/19bef55ae63a402b8dee2a0caa403f1f_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "葱花、酱油、蚝油，沿锅边一勺花雕酒",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/e64ec5a734d548468a07cb7b62b02f11_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "倒入粉条，翻炒均匀，可以淋点明油，味精、松茸鲜调味",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d189a8d8315d4f90a8e3272411e6336d_1280w_1706h.jpg"
+          }
+        },
+        {
+          "n": 12,
+          "text": "两碗大米饭，开炫",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/358afe5f0b9f4f9a922747c0f6c781be_1280w_1706h.jpg"
+          }
+        }
+      ]
     }
-   ],
-   "stepCount": 4,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 13
-   },
-   "image": {
-    "local": "images/2026-11-15/104643213.jpg",
-    "source": "https://i2.chuimg.com/e88fc12162e74eb38b1f4303d3205538_1078w_720h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "1先来调一碗酱汁，碗中加入生抽、老抽、蚝油、白糖，加入一勺玉米淀粉和半碗清水搅拌均匀备用",
-     "image": {
-      "local": "images/2026-11-15/steps/104643213-1.jpg",
-      "source": "https://i2.chuimg.com/262f960ff8614469833cb78c409a74d1_1080w_1438h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "豆腐切成厚片，裹上玉米淀粉，再裹上蛋液,放入锅里煎至两面金黄",
-     "image": {
-      "local": "images/2026-11-15/steps/104643213-2.jpg",
-      "source": "https://i2.chuimg.com/114810b256d04bdcbe76b4bec67ee834_1080w_1438h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "倒入调好的酱汁小火焖煮至汤汁浓稠即可，记得轻轻翻动哦!脆皮豆腐完成",
-     "image": {
-      "local": "images/2026-11-15/steps/104643213-3.jpg",
-      "source": "https://i2.chuimg.com/363e9078be6e48aa82163a11d958766e_1078w_720h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "开吃咯！",
-     "image": {
-      "local": "images/2026-11-15/steps/104643213-4.jpg",
-      "source": "https://i2.chuimg.com/afa2ecfa20774db2807851cae3af09f2_795w_722h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107499508",
-   "name": "🥜花生酥饼，拜托都给我去做，好吃绝了👍",
-   "url": "https://www.xiachufang.com/recipe/107499508/",
-   "author": "Dana大拿",
-   "score": 8.0,
-   "made": 43,
-   "desc": "这款花生酥饼🥜，真的强烈建议你们去做，用料都非常朴实，但真的好吃惨了。入口的口感非常的蓬松轻盈，属于入口即化，而且做法也巨简单。甜度我做了减糖，吃起来不会太甜腻，所以不建议再减糖了。喜甜的姐妹可以在我这个基础上➕10或20克的糖。我觉得50克糖的甜度刚刚好",
-   "ingredients": [
-    {
-     "name": "黄油",
-     "amount": "100克"
-    },
-    {
-     "name": "低筋面粉",
-     "amount": "225克"
-    },
-    {
-     "name": "糖粉",
-     "amount": "50克"
-    },
-    {
-     "name": "泡打粉",
-     "amount": "5克"
-    },
-    {
-     "name": "鸡蛋",
-     "amount": "1个"
-    },
-    {
-     "name": "熟花生碎",
-     "amount": "70克"
-    }
-   ],
-   "stepCount": 14,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 16
-   },
-   "image": {
-    "local": "images/2026-11-15/107499508.jpg",
-    "source": "https://i2.chuimg.com/f0fdcc3e62d141dd91778fad273cd517_1920w_2560h.jpg"
-   },
-   "category": "烘焙甜点",
-   "steps": [
-    {
-     "n": 1,
-     "text": "黄油室温软化",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-1.jpg",
-      "source": "https://i2.chuimg.com/310c118d745542eb87cdea7cae3ca5e1_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "加入糖粉搅拌均匀",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-2.jpg",
-      "source": "https://i2.chuimg.com/fbffae2e92d444848bbbd52f0eefdfd0_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "打发蓬松",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-3.jpg",
-      "source": "https://i2.chuimg.com/d090c0fc15fa47a8b1304c32ed0110e8_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "常温全蛋液分2次加入黄油中，打发均匀",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-4.jpg",
-      "source": "https://i2.chuimg.com/c6ee1bb6030244bf8c1afc492044bc12_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "筛入低筋面粉和泡打粉",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-5.jpg",
-      "source": "https://i2.chuimg.com/95a4f94efc2b4818959179191232205a_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "翻拌均匀成无干粉的面团",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-6.jpg",
-      "source": "https://i2.chuimg.com/ab207a3b4277470190d857aceef75f8f_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "分成21克/个大小的面团，搓成小球，一共可以做20块",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-7.jpg",
-      "source": "https://i2.chuimg.com/987cf105051a4157bcf4529165340e92_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "表面沾点蛋液（这里的蛋液是另外再打一个鸡蛋）",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-8.jpg",
-      "source": "https://i2.chuimg.com/647aaf690dac432e814c2dd57af51076_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "再沾上熟花生碎",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-9.jpg",
-      "source": "https://i2.chuimg.com/3bb471cb519145a2a2fd618bd01cf479_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "轻轻按扁，摆入烤盘中",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-10.jpg",
-      "source": "https://i2.chuimg.com/4e2e13ebd9564fa6ae26f1e19fe39f1f_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "送入预热好的烤箱175°烤25分钟（根据自家烤箱的脾气自行调节温差）",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-11.jpg",
-      "source": "https://i2.chuimg.com/be05f240f2d34cd88318df0597eaa78a_2560w_2560h.jpg"
-     }
-    },
-    {
-     "n": 12,
-     "text": "烤好出炉啦",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-12.jpg",
-      "source": "https://i2.chuimg.com/b4702b4876934a0098730eacd4d791f5_1280w_720h.jpg"
-     }
-    },
-    {
-     "n": 13,
-     "text": "又香又酥",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-13.jpg",
-      "source": "https://i2.chuimg.com/2b576830feee4cf5a15bb871ee05499b_3414w_2560h.jpg"
-     }
-    },
-    {
-     "n": 14,
-     "text": "超级好吃的花生酥饼，推荐你们都去做",
-     "image": {
-      "local": "images/2026-11-15/steps/107499508-14.jpg",
-      "source": "https://i2.chuimg.com/3b3c2e2036f442f19a3bbb35c4e523b3_3414w_2560h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "106803822",
-   "name": "好吃到舔手指的蒜香烤排骨",
-   "url": "https://www.xiachufang.com/recipe/106803822/",
-   "author": "土豆土豆泥0",
-   "score": 7.6,
-   "made": 89,
-   "desc": "无需油炸的蒜香烤排骨，外焦里嫩 非常入味，吃起来一点也不油腻，喜欢吃排骨的姐妹们不要错过！",
-   "ingredients": [
-    {
-     "name": "排骨",
-     "amount": "600克"
-    },
-    {
-     "name": "大蒜",
-     "amount": "2勺"
-    },
-    {
-     "name": "料酒",
-     "amount": "1勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "1勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "半勺"
-    },
-    {
-     "name": "盐",
-     "amount": "适量"
-    },
-    {
-     "name": "糖",
-     "amount": "半勺"
-    },
-    {
-     "name": "黑胡椒粉",
-     "amount": "适量"
-    }
-   ],
-   "stepCount": 11,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 21
-   },
-   "image": {
-    "local": "images/2026-11-15/106803822.jpg",
-    "source": "https://i2.chuimg.com/27c36103dd684ca4a463409947dade88_1920w_2560h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "排骨洗净浸泡一小时泡出血水",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-1.jpg",
-      "source": "https://i2.chuimg.com/6f28e5a8dd2542e0b69f2de30928663e_1649w_1649h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "➕两勺蒜末",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-2.jpg",
-      "source": "https://i2.chuimg.com/00fc8d13d65c43048206b1045675dd58_1574w_1574h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "一勺料酒➕一勺生抽➕半勺老抽➕黑胡椒",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-3.jpg",
-      "source": "https://i2.chuimg.com/a892dc34b6994a218c49ee4a59e277fb_1921w_2560h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "➕半勺白糖",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-4.jpg",
-      "source": "https://i2.chuimg.com/32bd96e8856343acb7fccff2f0021573_1452w_1452h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "➕适量盐",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-5.jpg",
-      "source": "https://i2.chuimg.com/5721cf5b43004590a3d65177d5cde7fb_1278w_1278h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "抓拌均匀腌制一小时以上",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-6.jpg",
-      "source": "https://i2.chuimg.com/665a15d5b9af49288dd2edf5f7fa5876_1639w_1639h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "码入烤盘中",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-7.jpg",
-      "source": "https://i2.chuimg.com/ac9aef27ad0c41799854338892f3765c_1234w_1234h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "空气炸功能180度烤20分钟翻面再烤15分钟",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-8.jpg",
-      "source": "https://i2.chuimg.com/87ce1bebb793470ca65f4f964cc668b2_1279w_1279h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "出锅撒一点辣椒面更香",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-9.jpg",
-      "source": "https://i2.chuimg.com/b22e633681d34b60af0140189299d157_1587w_1587h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "太香啦",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-10.jpg",
-      "source": "https://i2.chuimg.com/a5d0510e07ca4055b092938bbadff134_1919w_1919h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "开吃",
-     "image": {
-      "local": "images/2026-11-15/steps/106803822-11.jpg",
-      "source": "https://i2.chuimg.com/b522c78720134bc183126a4fa28efdbe_1921w_1921h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107415248",
-   "name": "盐葱煎猪排",
-   "url": "https://www.xiachufang.com/recipe/107415248/",
-   "author": "apple-234",
-   "score": 8.6,
-   "made": 10,
-   "desc": null,
-   "ingredients": [
-    {
-     "name": "猪排、花雕酒、生抽、玉米淀粉、黑胡椒、鸡蛋、姜片",
-     "amount": ""
-    }
-   ],
-   "stepCount": 23,
-   "lists": [
-    "rising"
-   ],
-   "rank": {
-    "rising": 1
-   },
-   "image": {
-    "local": "images/2026-11-15/107415248.jpg",
-    "source": "https://i2.chuimg.com/407ed345ee2e495baf6b8ead8f89c403_1170w_2532h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-1.jpg",
-      "source": "https://i2.chuimg.com/276835b42fd44e99bc35bb97562ed00f_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-2.jpg",
-      "source": "https://i2.chuimg.com/d631334115544aa2b69e7f473a94c1f9_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-3.jpg",
-      "source": "https://i2.chuimg.com/af6d2975baaf482c914ce896dc4cfcfe_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-4.jpg",
-      "source": "https://i2.chuimg.com/c5229648c9e3476a811838751f7586c4_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-5.jpg",
-      "source": "https://i2.chuimg.com/fb9f6672b1594d17b3a4d52296441e62_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-6.jpg",
-      "source": "https://i2.chuimg.com/94129b28e45d4107967a9632b8d882e5_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-7.jpg",
-      "source": "https://i2.chuimg.com/f3955214de124668bf0a44cc206704c5_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-8.jpg",
-      "source": "https://i2.chuimg.com/013dea0ffbbd4506b1fdce129a31af29_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-9.jpg",
-      "source": "https://i2.chuimg.com/8d6a022a217f4158bda7f65932a306ae_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-10.jpg",
-      "source": "https://i2.chuimg.com/df1ebfa321fd48bcbd5e28685611f772_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-11.jpg",
-      "source": "https://i2.chuimg.com/00f4a901fcc5443cbc26191ddc301b86_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 12,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-12.jpg",
-      "source": "https://i2.chuimg.com/85b68fd566f740198cb21db29068f6ac_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 13,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-13.jpg",
-      "source": "https://i2.chuimg.com/b6f61f5b773b4bf7b37875e854cdb3ae_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 14,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-14.jpg",
-      "source": "https://i2.chuimg.com/e7417502172940228aca58de69244ed6_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 15,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-15.jpg",
-      "source": "https://i2.chuimg.com/2a2a70b54df64fefbd7de4b9f17279ce_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 16,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-16.jpg",
-      "source": "https://i2.chuimg.com/7d11449361294bb68a784347718f1b88_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 17,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-17.jpg",
-      "source": "https://i2.chuimg.com/9a58c1be033c47daa01fb53ae88f67c3_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 18,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-18.jpg",
-      "source": "https://i2.chuimg.com/663f8a0268fc4a7587526d3e952299ff_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 19,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-19.jpg",
-      "source": "https://i2.chuimg.com/4fc7a077b71b4c8fadaeacd6e16e594d_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 20,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-20.jpg",
-      "source": "https://i2.chuimg.com/6c86fab3b3974be18ec18e164a75ee18_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 21,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-21.jpg",
-      "source": "https://i2.chuimg.com/cdeee1ace2674fa1a995ca058b8f2525_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 22,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-22.jpg",
-      "source": "https://i2.chuimg.com/cc76e0c215f7403a8a9f0ea1f9c2487b_1170w_2532h.jpg"
-     }
-    },
-    {
-     "n": 23,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-15/steps/107415248-23.jpg",
-      "source": "https://i2.chuimg.com/40f096d301a44f6b84569a5ed70b2c28_1170w_2532h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "104098487",
-   "name": "【减脂期】星爸爸的简易版南瓜拿铁",
-   "url": "https://www.xiachufang.com/recipe/104098487/",
-   "author": "噜噜噜仙儿",
-   "score": 8.1,
-   "made": 11,
-   "desc": "从fit4life那里学来的，没有喝过星巴克的南瓜拿铁，但是自己想试试，就做了一款简易版的，没想到意外地好喝，疯狂打call。我这样一份大概280大卡。",
-   "ingredients": [
-    {
-     "name": "牛奶",
-     "amount": "250ml"
-    },
-    {
-     "name": "板栗南瓜",
-     "amount": "125g"
-    },
-    {
-     "name": "黑咖啡",
-     "amount": "1杯"
-    }
-   ],
-   "stepCount": 7,
-   "lists": [
-    "rising"
-   ],
-   "rank": {
-    "rising": 3
-   },
-   "image": {
-    "local": "images/2026-11-15/104098487.jpg",
-    "source": "https://i2.chuimg.com/9a7f57856a574939829c23d2413f34bf_2048w_2048h.jpg"
-   },
-   "category": "饮品",
-   "steps": [
-    {
-     "n": 1,
-     "text": "1.关于南瓜🎃说一下，不同种类南瓜热量差很多哦！我用的是板栗南瓜，热量就比较高了，但是口感好绵糯。 2.牛奶我用的是全脂牛奶，煮出来会比较香，不是很介意那一点点儿脂肪的小伙伴还是用全脂吧，口感真的差不少呢！ 3.咖啡可以用我这种浓缩的比较方便，或者泡一杯黑咖啡都可以。",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-1.jpg",
-      "source": "https://i2.chuimg.com/799c512fc24a4bd8b1d953d0635505c2_1124w_1124h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "南瓜挖出来，不要绿皮",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-2.jpg",
-      "source": "https://i2.chuimg.com/c38f0ab3d3794ac5bd69cd6022d14551_2048w_2048h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "牛奶和南瓜放到料理机里打成糊",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-3.jpg",
-      "source": "https://i2.chuimg.com/ec5352fef15f4a18b6a734c1ee4be956_2048w_2048h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "酱就可以啦，颜色很秋天",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-4.jpg",
-      "source": "https://i2.chuimg.com/352dd17d887140cea207d42f8724bdbb_2048w_2048h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "倒入奶锅中加热，再加入咖啡煮热就好。煮开的话浮沫会比较多，有奶泡的感觉。",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-5.jpg",
-      "source": "https://i2.chuimg.com/0645db46bb5c43f3ae0faf96dabe5b3b_2048w_2048h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "用大G的话说，秋天就是吃南瓜的季节，喝上这么一大杯，幸福感爆棚。",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-6.jpg",
-      "source": "https://i2.chuimg.com/449dc69b4dc34d5aab3741e4f561692d_2048w_2048h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "热量表",
-     "image": {
-      "local": "images/2026-11-15/steps/104098487-7.jpg",
-      "source": "https://i2.chuimg.com/95771e242bd64de6aceefd0732a6f1d7_1125w_937h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "106632341",
-   "name": "最好吃的时令菜，雪里红肉沫",
-   "url": "https://www.xiachufang.com/recipe/106632341/",
-   "author": "彭映嘉",
-   "score": null,
-   "made": 10,
-   "desc": "上桌就秒光的菜，就算不喜欢吃素菜也喜欢这个味",
-   "ingredients": [
-    {
-     "name": "肉末",
-     "amount": "108克"
-    },
-    {
-     "name": "雪里蕻",
-     "amount": "400克"
-    },
-    {
-     "name": "红辣椒",
-     "amount": "2个"
-    },
-    {
-     "name": "鸡精味精",
-     "amount": "3克"
-    },
-    {
-     "name": "盐",
-     "amount": "3克"
-    },
-    {
-     "name": "蚝油",
-     "amount": "1勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "1勺"
-    }
-   ],
-   "stepCount": 3,
-   "lists": [
-    "rising"
-   ],
-   "rank": {
-    "rising": 4
-   },
-   "image": {
-    "local": "images/2026-11-15/106632341.jpg",
-    "source": "https://i2.chuimg.com/b75eb466f18b4b31aa088e645775b986_1706w_1279h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "雪里红用开水烫两分钟，用冷水泡半个小时",
-     "image": {
-      "local": "images/2026-11-15/steps/106632341-1.jpg",
-      "source": "https://i2.chuimg.com/1245f14cd97246ef99af778b0a1820b1_1279w_1706h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "雪里红切成沫，抓干水分，再炒干水分备用",
-     "image": {
-      "local": "images/2026-11-15/steps/106632341-2.jpg",
-      "source": "https://i2.chuimg.com/58145e0f22004f0c8979a97740fccbe4_1279w_1706h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "放猪油，放肉泥炒香，再放大蒜米，红辣椒碎或者干红辣椒粉，把炒干水分的雪里红放进去翻炒，放盐，鸡精味精，蚝油，生抽，调料炒入味出锅，最后放一把大蒜叶更香",
-     "image": {
-      "local": "images/2026-11-15/steps/106632341-3.jpg",
-      "source": "https://i2.chuimg.com/36cce90ff4364c3ea1f4e4c91e507695_1706w_1279h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107777218",
-   "name": "4款家常蒸菜，简单快手又好吃",
-   "url": "https://www.xiachufang.com/recipe/107777218/",
-   "author": "珞霞小苑",
-   "score": null,
-   "made": 0,
-   "desc": "新入手了一个电蒸锅，做了几道家常蒸菜，我家经常做，简单方便又好吃😋喜欢的宝子们快学起来吧！",
-   "ingredients": [
-    {
-     "name": "第1️⃣道:肉末蒸蛋",
-     "amount": ""
-    },
-    {
-     "name": "鸡蛋",
-     "amount": "3–4个"
-    },
-    {
-     "name": "肉末",
-     "amount": "50–100克"
-    },
-    {
-     "name": "盐",
-     "amount": "半勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "1勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "半勺"
-    },
-    {
-     "name": "香油",
-     "amount": "1勺"
-    },
-    {
-     "name": "蒸鱼豉油",
-     "amount": "1勺"
-    },
-    {
-     "name": "葱花",
-     "amount": "少许"
-    },
-    {
-     "name": "第2️⃣道:香芋蒸排骨",
-     "amount": ""
-    },
-    {
-     "name": "香芋",
-     "amount": "300克"
-    },
-    {
-     "name": "排骨",
-     "amount": "1根"
-    },
-    {
-     "name": "盐",
-     "amount": "半勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "3勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "半勺"
-    },
-    {
-     "name": "蚝油",
-     "amount": "1勺"
-    },
-    {
-     "name": "香油",
-     "amount": "1勺"
-    },
-    {
-     "name": "玉米淀粉",
-     "amount": "3勺"
-    },
-    {
-     "name": "蒜末",
-     "amount": "少许"
-    },
-    {
-     "name": "五香粉",
-     "amount": "半勺(可不放)"
-    },
-    {
-     "name": "葱花",
-     "amount": "少许"
-    },
-    {
-     "name": "第3️⃣道:蒜蓉生蚝",
-     "amount": ""
-    },
-    {
-     "name": "生蚝",
-     "amount": "15个(4斤多)"
-    },
-    {
-     "name": "葱花",
-     "amount": "少许"
-    },
-    {
-     "name": "小米辣/剁辣椒",
-     "amount": "少许"
-    },
-    {
-     "name": "蒜蓉酱",
-     "amount": "适量"
-    },
-    {
-     "name": "第4️⃣道:蒜蓉粉丝蒸虾",
-     "amount": ""
-    },
-    {
-     "name": "粉丝",
-     "amount": "1把"
-    },
-    {
-     "name": "虾",
-     "amount": "250克(10多只)"
-    },
-    {
-     "name": "葱花",
-     "amount": "少许"
-    },
-    {
-     "name": "蒜蓉酱",
-     "amount": "适量"
-    },
-    {
-     "name": "附蒜蓉酱做法:",
-     "amount": ""
-    },
-    {
-     "name": "大蒜",
-     "amount": "4-6头"
-    },
-    {
-     "name": "盐",
-     "amount": "半勺"
-    },
-    {
-     "name": "鸡精/白糖",
-     "amount": "半勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "1勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "半勺"
-    },
-    {
-     "name": "蚝油",
-     "amount": "1勺"
-    }
-   ],
-   "stepCount": 17,
-   "lists": [
-    "homestyle"
-   ],
-   "rank": {
-    "homestyle": 18
-   },
-   "image": {
-    "local": "images/2026-11-15/107777218.jpg",
-    "source": "https://i2.chuimg.com/01570582077c4fdcb16ca93953611202_1280w_1706h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "第一道:肉末蒸蛋",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-1.jpg",
-      "source": "https://i2.chuimg.com/4779c826955a4efaa45f9f83a62da1ed_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "详细做法如图，我用电蒸锅冷水上锅20分钟刚刚好，用燃气灶水开计时大火🔥蒸10-15分钟左右。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-2.jpg",
-      "source": "https://i2.chuimg.com/8be1daeec4b94c2e91d52aca749bf74a_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "出锅，太香了！",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-3.jpg",
-      "source": "https://i2.chuimg.com/7ef060ac64bc4f8e944a00b0e213e9d0_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "鲜香嫩滑巨好吃！",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-4.jpg",
-      "source": "https://i2.chuimg.com/6bfc281dd56546a8ba5508f83b75824c_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "第二道菜:香芋蒸排骨",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-5.jpg",
-      "source": "https://i2.chuimg.com/582ada5f8f0342f6a186afec86fd0ddc_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "详细做法如图，如果用电蒸锅想要软烂一点，可以再加点时间，我蒸了一个小时，又加了30分钟。用燃气灶蒸40分钟至1小时差不多就够了，1个小时很软了。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-6.jpg",
-      "source": "https://i2.chuimg.com/ffa0f4c7d5304f4abc599bf42b11fb5a_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "出锅，香喷喷！",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-7.jpg",
-      "source": "https://i2.chuimg.com/e4b55e024bed450e8fc66cc89a82cda8_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "第三道菜:蒜蓉生蚝",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-8.jpg",
-      "source": "https://i2.chuimg.com/26c006c0691e461e93098d9bc1e2f81d_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "详细做法如图。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-9.jpg",
-      "source": "https://i2.chuimg.com/a1ce93ddb87f4d62a0b4f248a747b91a_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "分享开生蚝的方法，如图。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-10.jpg",
-      "source": "https://i2.chuimg.com/9e084d11391444e3b9f61c265b8241a1_1080w_1440h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "不辣的。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-11.jpg",
-      "source": "https://i2.chuimg.com/4ce9cf11eef24a1c86e6fed4ffd2c619_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 12,
-     "text": "辣的。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-12.jpg",
-      "source": "https://i2.chuimg.com/0fa6a4ef4b384e4f8f67e1524b22af9a_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 13,
-     "text": "这次买的生蚝个头很大。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-13.jpg",
-      "source": "https://i2.chuimg.com/e7ac114943934bdf9ea572eeda8948e7_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 14,
-     "text": "一口下去太满足了！",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-14.jpg",
-      "source": "https://i2.chuimg.com/27676fd56bf54cd0b644875eb86fbf8c_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 15,
-     "text": "第四道菜:蒜蓉粉丝蒸虾",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-15.jpg",
-      "source": "https://i2.chuimg.com/5f79a7986739421588f3d007936b64f7_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 16,
-     "text": "详细做法如图。我这次生蚝和虾一起用电蒸锅蒸的，生蚝放第一和第二层，虾放在第三层，冷水上锅蒸了20分钟，虾单独又蒸了5分钟。",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-16.jpg",
-      "source": "https://i2.chuimg.com/39ff4844b9324e00bf781dbd882c5336_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 17,
-     "text": "这样做的虾好看又好吃😋",
-     "image": {
-      "local": "images/2026-11-15/steps/107777218-17.jpg",
-      "source": "https://i2.chuimg.com/d1c26f6074e54321bb0975077c28a9d6_1280w_1706h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107695625",
-   "name": "电饭煲版葱油焖鸡，年夜饭家常菜，无水无油爽嫩多汁，15分钟上桌简单快手菜",
-   "url": "https://www.xiachufang.com/recipe/107695625/",
-   "author": "美食妃英理",
-   "score": 7.0,
-   "made": 33,
-   "desc": "年夜饭是给电饭煲显示家常菜机会的最佳时间，家家户户吃饺子，电饭煲终于不用蒸米饭了，那也别想闲着！这样的日子，锅碗瓢盆谁都别想消停，用它搞定一道年夜饭大菜绝对是好选择，不然都等着炖，开饭的时候菜不就都凉了嘛",
-   "ingredients": [
-    {
-     "name": "主料：手枪腿",
-     "amount": "2只"
-    },
-    {
-     "name": "腌料：生抽",
-     "amount": "4勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "2勺"
-    },
-    {
-     "name": "蚝油",
-     "amount": "1勺"
-    },
-    {
-     "name": "黑胡椒粉",
-     "amount": "2茶匙"
-    },
-    {
-     "name": "盐",
-     "amount": "2茶匙"
-    },
-    {
-     "name": "葱花",
-     "amount": "1把"
-    },
-    {
-     "name": "姜丝",
-     "amount": "少量"
-    },
-    {
-     "name": "铺底：葱段",
-     "amount": "1把"
-    },
-    {
-     "name": "姜片",
-     "amount": "2片"
-    }
-   ],
-   "stepCount": 6,
-   "lists": [
-    "homestyle"
-   ],
-   "rank": {
-    "homestyle": 24
-   },
-   "image": {
-    "local": "images/2026-11-15/107695625.jpg",
-    "source": "https://i2.chuimg.com/5fa45f1dc875499ca7a2384cbf2a58e7_1920w_2560h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "鸡腿用开水浇一下，皮吃起来口感更好",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-1.jpg",
-      "source": "https://i2.chuimg.com/dcefbff039564b8b86aedc915436d47a_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "加入腌制的调料抓匀腌制一会儿，我一般会多腌一个，密封冷藏，过2天再烹饪更入味儿",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-2.jpg",
-      "source": "https://i2.chuimg.com/1fe1fffab33343b88ac5b0b7f433b774_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "葱段，姜片铺在电饭煲底",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-3.jpg",
-      "source": "https://i2.chuimg.com/cb0024d805c34858833ed53e8b2d7bff_1921w_2560h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "鸡腿搞里头，汤汁加进去，这样就不用加水啦",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-4.jpg",
-      "source": "https://i2.chuimg.com/89a6674228e546a9b6e9ebf90e7e44eb_1921w_2560h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "电饭煲选择“煮饭”相关的功能就可以，鸡腿很容易熟，不需要长时间烹饪",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-5.jpg",
-      "source": "https://i2.chuimg.com/65d9b45fe6c44c7bbf7b4853262ea4a3_1222w_1629h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "用厨房剪刀剔除骨头，鸡肉切成条摆盘，这样更好看，吃起来也方便，颜值更高",
-     "image": {
-      "local": "images/2026-11-15/steps/107695625-6.jpg",
-      "source": "https://i2.chuimg.com/4f55f79e51834035a92f0ebebb9b1ae2_1280w_1707h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107772094",
-   "name": "蚂蚁上树｜超级下饭",
-   "url": "https://www.xiachufang.com/recipe/107772094/",
-   "author": "家常小菜6346",
-   "score": null,
-   "made": 1,
-   "desc": "最治愈的从不是山珍海味，而是守在灶台前，炒一盘热气腾腾的蚂蚁上树。软滑的粉条浸透肉香，细碎肉末丝丝缕缕粘连其上，色泽红亮，香气直钻鼻腔。做法简单零失败，新手也能轻松拿捏，少油慢炒逼出肉香，简单调味焖至收汁，不用技巧，只用耐心。端上桌冒着热气，筷子一挑根根分明，拌着米饭大口吞咽，琐碎的疲惫瞬间被抚平。三餐四季，烟火寻常，一盘家常菜，就是生活最好的模样。",
-   "ingredients": [
-    {
-     "name": "粉条",
-     "amount": "1把"
-    },
-    {
-     "name": "生抽",
-     "amount": "1勺"
-    },
-    {
-     "name": "老抽",
-     "amount": "1勺"
-    },
-    {
-     "name": "葱",
-     "amount": "半根"
-    },
-    {
-     "name": "小米辣",
-     "amount": "2个"
-    },
-    {
-     "name": "花雕酒",
-     "amount": "1勺"
-    },
-    {
-     "name": "味精",
-     "amount": "1匙"
-    },
-    {
-     "name": "松茸鲜",
-     "amount": "1匙"
-    }
-   ],
-   "stepCount": 12,
-   "lists": [
-    "homestyle"
-   ],
-   "rank": {
-    "homestyle": 29
-   },
-   "image": {
-    "local": "images/2026-11-15/107772094.jpg",
-    "source": "https://i2.chuimg.com/5caafb47b06f4810873636aa7fae79a9_1280w_1420h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "相当好吃分一盘家常小炒",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-1.jpg",
-      "source": "https://i2.chuimg.com/502cc08676ca43348387fe5994a1bd44_1280w_1612h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "猪肉末",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-2.jpg",
-      "source": "https://i2.chuimg.com/7de2d85e20ac4c638361af2ea070a253_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "以前泡发粉条",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-3.jpg",
-      "source": "https://i2.chuimg.com/a3e4743cf898406693adb616f2dca918_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "开水大概煮六七分钟",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-4.jpg",
-      "source": "https://i2.chuimg.com/c99b30029a534abcb8c53af9b7b7ada5_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "装大碗中",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-5.jpg",
-      "source": "https://i2.chuimg.com/c047e66b9fea44a5b6b9ff6a11ad0749_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "一勺油，先搅拌均匀",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-6.jpg",
-      "source": "https://i2.chuimg.com/947643ba639546ba9cb7bf10cc7e772f_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "老抽",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-7.jpg",
-      "source": "https://i2.chuimg.com/771b098a73a641e397ebb6635d80bc38_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "搅拌均匀",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-8.jpg",
-      "source": "https://i2.chuimg.com/36beab7dbb8a44d99e26a3fd3731076b_1280w_960h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "起锅倒油，先炒肉沫",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-9.jpg",
-      "source": "https://i2.chuimg.com/19bef55ae63a402b8dee2a0caa403f1f_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "葱花、酱油、蚝油，沿锅边一勺花雕酒",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-10.jpg",
-      "source": "https://i2.chuimg.com/e64ec5a734d548468a07cb7b62b02f11_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "倒入粉条，翻炒均匀，可以淋点明油，味精、松茸鲜调味",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-11.jpg",
-      "source": "https://i2.chuimg.com/d189a8d8315d4f90a8e3272411e6336d_1280w_1706h.jpg"
-     }
-    },
-    {
-     "n": 12,
-     "text": "两碗大米饭，开炫",
-     "image": {
-      "local": "images/2026-11-15/steps/107772094-12.jpg",
-      "source": "https://i2.chuimg.com/358afe5f0b9f4f9a922747c0f6c781be_1280w_1706h.jpg"
-     }
-    }
-   ]
-  }
- ]
+  ]
 }

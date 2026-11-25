@@ -1,0 +1,3253 @@
+{
+ "schemaVersion": 1,
+ "date": "2026-11-26",
+ "timezone": "Asia/Shanghai",
+ "entries": [
+  {
+   "id": "107686892",
+   "name": "只需要盐和花椒的清炖盐水牛肉",
+   "url": "https://www.xiachufang.com/recipe/107686892/",
+   "author": "大头小粉红",
+   "score": 7.0,
+   "made": 33,
+   "desc": "自从学了这个方子，太好吃了，所以隔三差五的就要做一次。牛肉我喜欢用三花趾或者五花趾，三花趾更嫩一些，也可以用金钱腱。用量也不必太精准，但是宁少勿多，毕竟不够咸可以蘸酱油，太咸就没办法补救了，做了几次之后有经验了就能掌握了需要在冰箱里放置两个晚上，切记",
+   "ingredients": [
+    {
+     "name": "牛腱",
+     "amount": "两条三花趾（五花趾）"
+    },
+    {
+     "name": "盐",
+     "amount": "一条三花趾两勺，一条五花趾三勺，以此类推"
+    },
+    {
+     "name": "花椒",
+     "amount": "一把"
+    }
+   ],
+   "stepCount": 12,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 3
+   },
+   "image": {
+    "local": "images/2026-11-26/107686892.jpg",
+    "source": "https://i2.chuimg.com/8fdd56f8e80148f6a475a03cc38bf219_2051w_2560h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "先用小火慢慢炒香盐和花椒，炒到香味释出，盐微微发黄即可",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-1.jpg",
+      "source": "https://i2.chuimg.com/bfec4ed4163642adb9b94ef6dcb54deb_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "把炒好的盐和花椒铺开放凉",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-2.jpg",
+      "source": "https://i2.chuimg.com/63d3eaa3d7684443b5849ba50112b0a9_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "牛腱子洗干净擦干（不用泡水），用叉子扎洞",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-3.jpg",
+      "source": "https://i2.chuimg.com/8667342df8ee49a3b11819672e230308_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "把放凉的盐和花椒均匀地抹在牛肉上，轻轻搓按一下（此时可以控制盐和花椒的用量）",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-4.jpg",
+      "source": "https://i2.chuimg.com/15091f6a206b4288a6c2f5a24208bb24_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "盖上盖子，或者封上保鲜膜，放入冰箱冷藏两个晚上！切记是两个晚上。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-5.jpg",
+      "source": "https://i2.chuimg.com/710f804b4abd4195bf7401696a2551e6_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "两个晚上过后牛肉的状态，已经熟成。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-6.jpg",
+      "source": "https://i2.chuimg.com/d5ee9f29cb33490ba82b5f712519e5a8_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "把牛肉洗干净，放入锅中，清水没过牛肉，可以多放一点水（其余什么都不用加）。然后大火煮沸改成小火，先炖一个小时，然后关火静置30分钟，根据牛肉的大小再炖30-60分钟。（三花趾大约需要一个半小时，供参考）",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-7.jpg",
+      "source": "https://i2.chuimg.com/de01c88622c14e37b3098b5da3de98c9_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "炖好之后用筷子戳一下，能感受到牛肉的熟度。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-8.jpg",
+      "source": "https://i2.chuimg.com/e034d12c60ed4ca5b94c572a63cff6a8_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "两块牛肉炖好了，我喜欢一块热的现吃，另一块冷藏一晚再吃。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-9.jpg",
+      "source": "https://i2.chuimg.com/8cc6dae3a1124b5695ae2989f9d60ed3_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "这是热的牛肉切片，会厚一点，但是口感更软嫩。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-10.jpg",
+      "source": "https://i2.chuimg.com/a71065943d1c46398473d72251946519_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "另一块包上保鲜膜放入冰箱冷藏。牛肉汤过滤后也放入冰箱，可以做牛肉面牛肉粉的汤底（煮的时候尝一下咸度再添水）。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-11.jpg",
+      "source": "https://i2.chuimg.com/17907e84bf37420e983a7406cb59127e_2173w_2560h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "冷藏一夜后的牛肉，更好切。",
+     "image": {
+      "local": "images/2026-11-26/steps/107686892-12.jpg",
+      "source": "https://i2.chuimg.com/df806b456a3a42dbb28126ed80843ef8_2051w_2560h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107819279",
+   "name": "馄饨（自己做薄如蝉翼的馄饨皮）",
+   "url": "https://www.xiachufang.com/recipe/107819279/",
+   "author": "尚雯Sunny",
+   "score": null,
+   "made": 1,
+   "desc": null,
+   "ingredients": [
+    {
+     "name": "面粉",
+     "amount": "200克"
+    },
+    {
+     "name": "蛋清+水",
+     "amount": "100克"
+    },
+    {
+     "name": "盐",
+     "amount": "2克"
+    },
+    {
+     "name": "肉馅",
+     "amount": ""
+    },
+    {
+     "name": "肉馅（9瘦1肥）",
+     "amount": "200克"
+    },
+    {
+     "name": "盐",
+     "amount": "2克"
+    },
+    {
+     "name": "白糖",
+     "amount": "2克"
+    },
+    {
+     "name": "鸡精",
+     "amount": "1克"
+    },
+    {
+     "name": "姜粉",
+     "amount": "1克"
+    },
+    {
+     "name": "白胡椒粉",
+     "amount": "1克"
+    },
+    {
+     "name": "蚝油",
+     "amount": "1克"
+    },
+    {
+     "name": "冰水",
+     "amount": "60克"
+    }
+   ],
+   "stepCount": 9,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 5
+   },
+   "image": {
+    "local": "images/2026-11-26/107819279.jpg",
+    "source": "https://i2.chuimg.com/96071a274869414dabf74af72574727b_1080w_1224h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "按照视频里面的流程，做好肉馅，馄饨皮，金元宝馄饨，- 厚度：擀到0.8–1mm，透光但不破最佳；比饺子皮薄很多，8*8大小如果是高筋面粉，500克粉配220克水，揉2次醒2次原创见www.xiachufang.com/recipe/105907804/",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-1.jpg",
+      "source": "https://i2.chuimg.com/1855c4a06c25419da8e2b9aacad52ca7_1280w_885h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "金元宝馄饨的动作视频",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-2.jpg",
+      "source": "https://i2.chuimg.com/66f034e1628243d7a8f02f7b28cf96c4_1238w_1080h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "章鱼馄饨（这种中间褶皱位置，有个硬心）",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-3.jpg",
+      "source": "https://i2.chuimg.com/e5f3520ca64341c186077859b6f8b504_1280w_1438h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "章鱼馄饨包法视频",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-4.jpg",
+      "source": "https://i2.chuimg.com/cdea824ebfbd4f89a079cba515f3d822_1364w_1080h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "汤底：可以加点牛骨高汤代替水，鲜上加鲜，见www.xiachufang.com/recipe/107814523/",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-5.jpg",
+      "source": "https://i2.chuimg.com/fa33bfc437404b6aabaf8c14b5385daf_600w_800h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "原创见：https://www.xiachufang.com/recipe/107053066/",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-6.jpg",
+      "source": "https://i2.chuimg.com/574fcc3f05fc4ea6b4d568c99d33be57_1216w_1621h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "烫一点青菜加进来馄饨皮我用的是三揉三醒，揉一分钟，醒15分钟，最后一次醒半个小时。褶皱的位置是擀对折的里面。直接用小美盖保鲜套，全程不用拿面团出来，用小美揉面，定时。见www.xiachufang.com/recipe/107810321/肉馅的部分：也是用小美，先把冰块打成冰沙，再放肉馅，调料，2分钟，反转2转3.5，搅拌上劲。见www.xiachufang.com/recipe/107805474/",
+     "image": {
+      "local": "images/2026-11-26/steps/107819279-7.jpg",
+      "source": "https://i2.chuimg.com/df0b8727883a4f8bb4090e5192136a9d_1280w_1644h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "✅ 虾仁鲜肉馄饨（小美版，鲜、爆汁） 🥣馅料（约40个） 前腿梅花肉 200g（3肥7瘦，多汁不柴）、鲜虾仁150g（一部分剁虾泥，一部分切大粒，咬得到虾）调味：生抽12g、蚝油5g、白糖3g（提鲜）、白胡椒少许、盐2g、香油8g、蛋清半个、葱姜水30g（葱+姜温水泡放凉过滤）、玉米淀粉5g 👉小美操作： 1. 肉切小块放入主锅，10秒/速度6打成肉糜​2. 加入所有调料，20秒/速度3搅匀；分次加葱姜水，1分钟/反转3，搅到肉馅上劲抱团3. 倒入切好的虾仁粒或玉米粒，一个虾仁一分二，15秒/反转2（别打碎虾仁！保留颗粒）✅拌好放冰箱冷藏20分钟，更好包、不容易出水 🥢万能汤底（一碗） 紫菜一小撮、虾皮少许、葱花、生抽半勺、一点点盐、白胡椒几滴香油，喜欢更香加一小勺猪油；舀两勺馄饨原汤冲开 🍳煮制 - 新鲜馄饨：水开下锅，轻轻推开防粘，浮起来再煮1分钟就出锅​- 冷冻馄饨：不用解冻，水开下锅，浮起后再加半碗冷水，再次沸腾就好 小美煮：1200g水，100℃烧开，下馄饨，4分钟/100℃/反转小勺 💡关键点 1. 虾仁不要全部打成泥！留大颗粒，口感才Q弹​2. 葱姜水少量多次加，顺着一个方向搅，馅料才会爆汁​3. 包好的馄饨可以直接分装冷冻，早餐随煮随吃​4. 不要放太重香料，白胡椒足够，不然盖住虾的鲜甜 两种口味可选 ▪️广式云吞：少盐、糖稍多，汤底清淡，配大地鱼粉更香▪️家常版：加少许榨菜碎到汤底，咸香开胃",
+     "image": null
+    },
+    {
+     "n": 9,
+     "text": "虾仁腌制配方（150g总量） - 盐 1g​- 白胡椒粉 一点点​- 料酒 3g（没有可以省略，换成几滴姜汁）​- 玉米淀粉 3g抓匀，放一旁腌10分钟，然后再分开处理： 1. 60g放进小美：8秒 / 速度6，打成细腻虾泥，混入肉馅一起上劲​2. 90g用刀切成0.8～1cm的虾丁（小美反转2秒也可以，别打碎！），最后再拌进肉馅，反转低速翻几下混匀就行 💡小提醒：虾仁一定要沥干水分再腌，水分太多馅料容易出水，馄饨皮容易破；不要腌太久，10分钟足够，腌久虾肉会发紧发硬。",
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "106397717",
+   "name": "❗拿肉都不换的手撕包菜，5分钟快手家常菜🔥",
+   "url": "https://www.xiachufang.com/recipe/106397717/",
+   "author": "阿欣的小食光",
+   "score": 7.4,
+   "made": 676,
+   "desc": "包菜这么做真的超级无敌下饭，脆爽可口，酸辣下饭。就算厨房小白也能做出美味加分的手撕包菜。5分钟就能搞定的，赶紧做起来吧",
+   "ingredients": [
+    {
+     "name": "包菜",
+     "amount": "适量"
+    },
+    {
+     "name": "大蒜",
+     "amount": "4瓣"
+    },
+    {
+     "name": "干辣椒",
+     "amount": "5个"
+    }
+   ],
+   "stepCount": 4,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 14
+   },
+   "image": {
+    "local": "images/2026-11-26/106397717.jpg",
+    "source": "https://i2.chuimg.com/6ea9fa0252a24845a72ad1220b0457aa_3024w_4030h.jpg"
+   },
+   "category": "快手菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "包菜撕小块，大蒜切末，干辣椒对半剪。",
+     "image": {
+      "local": "images/2026-11-26/steps/106397717-1.jpg",
+      "source": "https://i2.chuimg.com/b907230178e84d0ab3ccf53611e9b431_3024w_4030h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "调一碗调酱汁：1勺生抽、2勺醋、1勺耗油、1勺白糖、少许盐和鸡精，搅拌均匀备用。",
+     "image": {
+      "local": "images/2026-11-26/steps/106397717-2.jpg",
+      "source": "https://i2.chuimg.com/16f98d5c7fe648ed82d5520746dc0cc1_3024w_4030h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "油锅预热，调小火下蒜末和干辣椒，翻炒片刻，立刻下包菜，炒至包菜稍微变软，至半透明状时，倒入酱汁，大火快速翻炒均匀就可以啦！",
+     "image": {
+      "local": "images/2026-11-26/steps/106397717-3.jpg",
+      "source": "https://i2.chuimg.com/cf2143e2a74647ed9c902235253e74de_3024w_4030h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "是不是超级简单?",
+     "image": {
+      "local": "images/2026-11-26/steps/106397717-4.jpg",
+      "source": "https://i2.chuimg.com/5cc744cb36154a31b7dc240678ec0531_2525w_2524h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106885187",
+   "name": "好吃到舔手的酱肉丝",
+   "url": "https://www.xiachufang.com/recipe/106885187/",
+   "author": "奶油小厨房",
+   "score": 8.4,
+   "made": 346,
+   "desc": "今天和大家分享一道好吃到舔手指的京酱肉丝，酱汁浓郁，好吃下停不下来，小白也能轻松完成，一定不要错过哈~",
+   "ingredients": [
+    {
+     "name": "猪肉",
+     "amount": "300克"
+    },
+    {
+     "name": "老抽",
+     "amount": "1勺"
+    },
+    {
+     "name": "生抽",
+     "amount": "2勺"
+    },
+    {
+     "name": "胡萝卜",
+     "amount": "1根"
+    },
+    {
+     "name": "料酒",
+     "amount": "1勺"
+    },
+    {
+     "name": "黄瓜",
+     "amount": "1根"
+    },
+    {
+     "name": "糖",
+     "amount": "1勺"
+    },
+    {
+     "name": "蚝油",
+     "amount": "1勺"
+    },
+    {
+     "name": "淀粉",
+     "amount": "2勺"
+    },
+    {
+     "name": "食用油",
+     "amount": "1勺"
+    }
+   ],
+   "stepCount": 11,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 15
+   },
+   "image": {
+    "local": "images/2026-11-26/106885187.jpg",
+    "source": "https://i2.chuimg.com/c4e9800d3b124808b82101d7f65409c7_1920w_2560h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "一勺生抽",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-1.jpg",
+      "source": "https://i2.chuimg.com/7ac5720daa8e47f2ba28aa4a28174c1c_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "一勺糖",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-2.jpg",
+      "source": "https://i2.chuimg.com/6df7eee2f53b4d12a7e3201066f1194f_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "一勺淀粉",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-3.jpg",
+      "source": "https://i2.chuimg.com/6282ab91778d4c538afa9d276ddc283a_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "一勺料酒",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-4.jpg",
+      "source": "https://i2.chuimg.com/835f812f0dc7433d98875b02ac376e84_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "一勺油，所有调料拌匀，腌制十五分钟",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-5.jpg",
+      "source": "https://i2.chuimg.com/4b0fc1be54fb43b1882bce875206058b_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "勾芡用的酱汁",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-6.jpg",
+      "source": "https://i2.chuimg.com/7410ed92100246a8ac7ae441399583dc_1921w_1536h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "最后加一勺淀粉搅拌均匀备用",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-7.jpg",
+      "source": "https://i2.chuimg.com/301b7609ea8146e7b5dd905d7a338b46_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "饺子皮一面刷油，再盖上一片刷油，一次叠七八片，擀平，蒸十分钟。趁热把饺子皮分开，就是卷饼啦！",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-8.jpg",
+      "source": "https://i2.chuimg.com/d44c7c790d55495ea20db00c64c4f778_2401w_1920h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "腌制好的肉丝下锅炒熟，倒入酱汁翻炒上色，最后收汁到自己需要的程度就OK啦",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-9.jpg",
+      "source": "https://i2.chuimg.com/94ec974c244d4a7cbc34beb001d5bdde_1921w_2560h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "诱人😍",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-10.jpg",
+      "source": "https://i2.chuimg.com/c36c35a34f7a46f7911fe65afef098f9_1920w_2560h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "快来试一试吧",
+     "image": {
+      "local": "images/2026-11-26/steps/106885187-11.jpg",
+      "source": "https://i2.chuimg.com/5fc5e552b6a94a99b6c1f7864810c852_1919w_1535h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107833319",
+   "name": "鲜掉眉毛‼️奶白浓郁的白菜菌菇豆腐汤🥣低卡好喝‼️",
+   "url": "https://www.xiachufang.com/recipe/107833319/",
+   "author": "奇异果的厨房食谱",
+   "score": null,
+   "made": 0,
+   "desc": "只用简单的几样食材，就能炖出一锅奶白诱人的神仙汤！煎得焦香的荷包蛋，配上鲜嫩的菌菇和吸满汤汁的豆腐，加了一点小虾皮提鲜，汤汁熬成了迷人的奶白色。最后撒上一把清甜的大白菜，淋点香油。清淡却不寡淡，一口下去，从胃里暖到心里。秋冬季节来上一碗，有菜有蛋有豆制品，营养满满，好喝还不胖，减脂期的姐妹赶紧安排起来！",
+   "ingredients": [
+    {
+     "name": "豆腐",
+     "amount": "1块"
+    },
+    {
+     "name": "白菜叶",
+     "amount": "300克"
+    },
+    {
+     "name": "香菇",
+     "amount": "5个"
+    },
+    {
+     "name": "蟹味菇",
+     "amount": "适量"
+    },
+    {
+     "name": "姜丝",
+     "amount": "适量"
+    },
+    {
+     "name": "虾皮",
+     "amount": "适量"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "2颗～3颗"
+    },
+    {
+     "name": "盐",
+     "amount": "1小勺"
+    },
+    {
+     "name": "鸡精",
+     "amount": "1小勺"
+    },
+    {
+     "name": "胡椒粉",
+     "amount": "1小勺"
+    }
+   ],
+   "stepCount": 29,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 19
+   },
+   "image": {
+    "local": "images/2026-11-26/107833319.jpg",
+    "source": "https://i2.chuimg.com/d346ebb9ed3a4c7989d86a3d829ee7f3_1280w_1280h.jpg"
+   },
+   "category": "汤羹",
+   "steps": [
+    {
+     "n": 1,
+     "text": "香菇、蟹味菇清洗干净。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-1.jpg",
+      "source": "https://i2.chuimg.com/270eb0c708a94eb48cbc2fb95c17563f_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "白菜只取叶。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-2.jpg",
+      "source": "https://i2.chuimg.com/93664a7d6e0e424aa08f2a7106cf0195_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "豆腐切块、香菇切片，白菜叶撕成小块！",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-3.jpg",
+      "source": "https://i2.chuimg.com/608d60df2781438a8c8d0b479a1e694c_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "锅里热油，放入香菇和蟹味菇翻炒，把菌味炒出来。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-4.jpg",
+      "source": "https://i2.chuimg.com/448e0da0bb204a74854e4f564a3ce98f_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "翻炒片刻。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-5.jpg",
+      "source": "https://i2.chuimg.com/0ce2153661414db2a4fb7da7b2259244_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "炒软了闻到鲜味了。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-6.jpg",
+      "source": "https://i2.chuimg.com/0f4516d10c844c23ab1c5335f09a3b0b_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "盛入盘中备用。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-7.jpg",
+      "source": "https://i2.chuimg.com/47997a99dbdd46368433928ae7859a8b_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "锅里热油。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-8.jpg",
+      "source": "https://i2.chuimg.com/5aba3f9497fd4eca9fc6e936f24c580e_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "煎鸡蛋。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-9.jpg",
+      "source": "https://i2.chuimg.com/11e46ac6de05485797e9d73fcb52cb69_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "一面煎好煎另一面。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-10.jpg",
+      "source": "https://i2.chuimg.com/03823f308e834df286d23631cb697c9c_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "煎老一点。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-11.jpg",
+      "source": "https://i2.chuimg.com/bfbab5ef995f4e6695092c972f80776a_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "用铲子切成块。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-12.jpg",
+      "source": "https://i2.chuimg.com/3e9b2d9c0d7247d295eb31bde76638ec_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "放入姜丝虾皮。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-13.jpg",
+      "source": "https://i2.chuimg.com/6f86de93d441444c8216b05b702ee2a1_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 14,
+     "text": "炒香加入开水，刚烧开的水，汤变得又白又浓。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-14.jpg",
+      "source": "https://i2.chuimg.com/2d9f73dedce44dafb1bcbcf920b43340_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 15,
+     "text": "加入豆腐。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-15.jpg",
+      "source": "https://i2.chuimg.com/3320e690d9cb4dfeb6eb28f1a765f8a4_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 16,
+     "text": "调味加盐。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-16.jpg",
+      "source": "https://i2.chuimg.com/46bd9ba1cd5645838517400c961eca91_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 17,
+     "text": "鸡精。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-17.jpg",
+      "source": "https://i2.chuimg.com/5bff47c294b743538808db3930d834e2_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 18,
+     "text": "胡椒粉。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-18.jpg",
+      "source": "https://i2.chuimg.com/a6d46f85ebf246099c35ba9da37d3e42_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 19,
+     "text": "煮开豆腐飘起，放入菌菇。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-19.jpg",
+      "source": "https://i2.chuimg.com/efe499a355ac45e984300a56ca5766d4_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 20,
+     "text": "再次煮开，放入白菜。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-20.jpg",
+      "source": "https://i2.chuimg.com/1898f11ae6704edc81b225f06a7c22e2_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 21,
+     "text": "煮个几分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-21.jpg",
+      "source": "https://i2.chuimg.com/2f58521d2b2a494a9f1b43ccd2344c9f_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 22,
+     "text": "出锅前滴上香油。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-22.jpg",
+      "source": "https://i2.chuimg.com/8e5854356700442fa3c88750c795a573_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 23,
+     "text": "出锅装盘。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-23.jpg",
+      "source": "https://i2.chuimg.com/3a5735b2183943129a7c16e0d1ad49fd_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 24,
+     "text": "连汤带水倒入。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-24.jpg",
+      "source": "https://i2.chuimg.com/331ad88379994712a70ada3ee6911762_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 25,
+     "text": "热热乎乎的一大盆！",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-25.jpg",
+      "source": "https://i2.chuimg.com/812bdf295102421e89e013766f2a46d1_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 26,
+     "text": "看着就让人食欲大开。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-26.jpg",
+      "source": "https://i2.chuimg.com/182a0180a1084873ac1100140db865fb_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 27,
+     "text": "汤鲜味美，营养丰富，全家都爱喝！",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-27.jpg",
+      "source": "https://i2.chuimg.com/912d41bd7adf494c91eba207ff9ca5d0_960w_960h.jpg"
+     }
+    },
+    {
+     "n": 28,
+     "text": "不需要复杂的调味，食物本真的味道，就是最抚慰人心的烟火气。",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-28.jpg",
+      "source": "https://i2.chuimg.com/b4270857bb4d4c38bd449f37e6785628_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 29,
+     "text": "秋冬季节来上一碗，有菜有蛋有豆制品，营养满满，好喝还不胖，减脂期的姐妹赶紧安排起来！",
+     "image": {
+      "local": "images/2026-11-26/steps/107833319-29.jpg",
+      "source": "https://i2.chuimg.com/36dcb126f7d3411ebfe0cfc5f8ea419b_1280w_1280h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106616303",
+   "name": "土豆肥牛",
+   "url": "https://www.xiachufang.com/recipe/106616303/",
+   "author": "丫头饿了",
+   "score": 7.7,
+   "made": 440,
+   "desc": null,
+   "ingredients": [
+    {
+     "name": "肥牛",
+     "amount": "250克"
+    },
+    {
+     "name": "土豆",
+     "amount": "2个"
+    },
+    {
+     "name": "番茄",
+     "amount": "1个"
+    },
+    {
+     "name": "洋葱",
+     "amount": "1个"
+    },
+    {
+     "name": "胡萝卜",
+     "amount": "1根"
+    },
+    {
+     "name": "生抽",
+     "amount": "3勺"
+    },
+    {
+     "name": "蚝油",
+     "amount": "2勺"
+    },
+    {
+     "name": "老抽",
+     "amount": "1勺"
+    },
+    {
+     "name": "沙茶酱",
+     "amount": "1勺"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    },
+    {
+     "name": "淀粉",
+     "amount": "适量"
+    },
+    {
+     "name": "黑胡椒，熟芝麻",
+     "amount": "自愿"
+    }
+   ],
+   "stepCount": 4,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 20
+   },
+   "image": {
+    "local": "images/2026-11-26/106616303.jpg",
+    "source": "https://i2.chuimg.com/8d5da3a8d98d4b26944b37f19031a798_1080w_1349h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "调一个料汁: 3勺生抽~2勺耗油~1勺老抽~1勺沙茶酱~盐适量~玉米淀粉~半碗清水*肥牛提前焯水~备用",
+     "image": {
+      "local": "images/2026-11-26/steps/106616303-1.jpg",
+      "source": "https://i2.chuimg.com/5f93448d31cb4fb59b78f1e5a215d116_1080w_1440h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "所有食材切丁~先放胡萝卜和土豆煎至变色~放入番茄丁继续翻炒至软烂出汁~倒入洋葱丁~继续翻炒~最后倒入提前调好的料汁~",
+     "image": {
+      "local": "images/2026-11-26/steps/106616303-2.jpg",
+      "source": "https://i2.chuimg.com/d387f32842214b3fb00aa57915720ea3_1080w_1440h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "煮5分钟左右倒入肥牛~再煮2分钟出锅(喜欢可以撒些黑胡椒和芝麻)",
+     "image": {
+      "local": "images/2026-11-26/steps/106616303-3.jpg",
+      "source": "https://i2.chuimg.com/98c42846f5c64c35bf14d5c9190f68d9_1080w_1440h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "拌入米饭~开饭喽！",
+     "image": {
+      "local": "images/2026-11-26/steps/106616303-4.jpg",
+      "source": "https://i2.chuimg.com/463fc901f7484400b98b83ce4c347b8e_1080w_1358h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107832748",
+   "name": "香橙古早蛋糕(8寸)",
+   "url": "https://www.xiachufang.com/recipe/107832748/",
+   "author": "mianbao格子",
+   "score": null,
+   "made": 0,
+   "desc": "好看又好吃的香橙古早蛋糕，用鲜榨橙汁做的古早蛋糕，每一口都是浓郁的香橙味道，口感绵软，味道清新！这不仅仅是一块蛋糕，这是满满维C的幸福滋味！",
+   "ingredients": [
+    {
+     "name": "香橙古早蛋糕(8寸):",
+     "amount": "个"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "6个"
+    },
+    {
+     "name": "低筋面粉",
+     "amount": "90克"
+    },
+    {
+     "name": "细砂糖",
+     "amount": "50克"
+    },
+    {
+     "name": "橙汁",
+     "amount": "80克"
+    },
+    {
+     "name": "玉米油",
+     "amount": "40克"
+    },
+    {
+     "name": "柠檬汁",
+     "amount": "几滴"
+    },
+    {
+     "name": "糖渍橙子片:",
+     "amount": ""
+    },
+    {
+     "name": "水",
+     "amount": "100克"
+    },
+    {
+     "name": "橙子片",
+     "amount": "4片"
+    },
+    {
+     "name": "白糖",
+     "amount": "30克"
+    }
+   ],
+   "stepCount": 12,
+   "lists": [
+    "popular"
+   ],
+   "rank": {
+    "popular": 25
+   },
+   "image": {
+    "local": "images/2026-11-26/107832748.jpg",
+    "source": "https://i2.chuimg.com/c9c6f767b6f249b4b15526a624bbc3a4_1560w_1040h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "先准备两个橙子用盐搓洗干净，一个橙子切成薄片，一个橙子榨汁，切成薄片的橙片，加水加糖放入锅里煮开，再小火煮5分钟，取出放凉用纸巾吸干水份备用！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-1.jpg",
+      "source": "https://i2.chuimg.com/89904c1734ad4ba68f7ba028c14f3adb_768w_1024h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "这杯大概用了3个橙子，一个橙子大概能榨90克橙汁！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-2.jpg",
+      "source": "https://i2.chuimg.com/2cf35555e7ee4e48beac969b360a652a_960w_1280h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "图片都是两个8寸的，边上的橙片用剪刀稍稍修剪成孤型，这样会与蛋糕边缘更加贴合！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-3.jpg",
+      "source": "https://i2.chuimg.com/8824772c1eba4699bd2879ffa32924e4_768w_1024h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "蛋糕的制作:前几步忘记拍照了！首先鸡蛋蛋白与蛋黄分离备用，再取橙汁与玉米油搅拌均匀，然后过筛后的低粉放入搅拌均匀，用切拌手法，再把蛋黄加进去搅拌均匀！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-4.jpg",
+      "source": "https://i2.chuimg.com/92347ce9716b469da72c28334758e5a6_768w_1024h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "蛋白打发:蛋清里放几滴柠檬汁去腥，开始高速打发，大泡泡时加入第一次糖，细小泡泡加第二次糖，有纹路时加第三次糖，开低速打发提起成大尖勾，再取三分之一蛋白与蛋黄湖混合均匀！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-5.jpg",
+      "source": "https://i2.chuimg.com/d836e3e00a01497b8f174f7f170a553e_768w_1024h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "再倒入蛋白霜里混合均匀，倒入8寸模具，轻振几下，排出大气泡！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-6.jpg",
+      "source": "https://i2.chuimg.com/8668daa9130842c791c5b67741714f94_768w_1024h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "水浴法:底部烤盆加入1厘米高度的温水，烤箱提前预热，中下层，135°烤80分钟！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-7.jpg",
+      "source": "https://i2.chuimg.com/35fca96c6e044df99d08a16cf9434401_1024w_768h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "出炉不塌陷不回缩！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-8.jpg",
+      "source": "https://i2.chuimg.com/f1b44dac61384057bb366281b574272f_1560w_1040h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "浓郁的橙子味，香气扑鼻！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-9.jpg",
+      "source": "https://i2.chuimg.com/5a3037691e09401d9b0c883f119f3a40_1560w_1040h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "下午茶橙子蛋糕！完美！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-10.jpg",
+      "source": "https://i2.chuimg.com/d68b56d8d0584ae5998efd8ed1121961_1560w_1040h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "这是第一次做的，橙子片摆反了！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-11.jpg",
+      "source": "https://i2.chuimg.com/34c03f7f5131488c8c013490d1799bd6_1560w_1040h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "古早蛋糕就是好吃，绵软湿润，不会像戚风那么干！",
+     "image": {
+      "local": "images/2026-11-26/steps/107832748-12.jpg",
+      "source": "https://i2.chuimg.com/0ab0231df9114eb582a96f31bd297f31_1484w_990h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107730702",
+   "name": "贼适合春天的【春日佛卡夏】",
+   "url": "https://www.xiachufang.com/recipe/107730702/",
+   "author": "茶苏苏烘焙日记",
+   "score": 8.2,
+   "made": 11,
+   "desc": "春天来点花红柳绿吧，做一个春日佛卡夏，把春天的颜色揉进面包里，好看又好吃~",
+   "ingredients": [
+    {
+     "name": "干酵母",
+     "amount": "2.5g"
+    },
+    {
+     "name": "抹茶粉",
+     "amount": "5g"
+    },
+    {
+     "name": "水",
+     "amount": "270g"
+    },
+    {
+     "name": "高筋面粉",
+     "amount": "300g"
+    },
+    {
+     "name": "盐",
+     "amount": "2.5g"
+    },
+    {
+     "name": "橄榄油",
+     "amount": "10g"
+    },
+    {
+     "name": "干酵母",
+     "amount": "2.5g"
+    },
+    {
+     "name": "仙人掌果粉",
+     "amount": "5g"
+    },
+    {
+     "name": "水",
+     "amount": "265g"
+    },
+    {
+     "name": "高筋面粉",
+     "amount": "300g"
+    },
+    {
+     "name": "盐",
+     "amount": "2.5g"
+    },
+    {
+     "name": "橄榄油",
+     "amount": "10g"
+    },
+    {
+     "name": "彩色小番茄",
+     "amount": "100g"
+    },
+    {
+     "name": "彩椒",
+     "amount": "50g"
+    },
+    {
+     "name": "芝士碎",
+     "amount": "125g"
+    },
+    {
+     "name": "脆皮肠",
+     "amount": "150g"
+    },
+    {
+     "name": "黑胡椒",
+     "amount": "适量"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    },
+    {
+     "name": "芝士粉",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 12,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 2
+   },
+   "image": {
+    "local": "images/2026-11-26/107730702.jpg",
+    "source": "https://i2.chuimg.com/744012476e6b407e9425fe9d82298a4a_1080w_1440h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "先调两种颜色的水：碗里先加入2.5g干酵母、5g抹茶粉，加入清270g水搅拌均匀。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-1.jpg",
+      "source": "https://i2.chuimg.com/1dfbc522b0094549a13d66d074315e54_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 2,
+     "text": "另外一个颜色把抹茶粉换成5g仙人掌果粉。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-2.jpg",
+      "source": "https://i2.chuimg.com/9d3e9f67eed543a7a13664b8dd00efc7_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 3,
+     "text": "两个盆里分别加入300g高筋面粉和2.5g食盐，再倒入调制好的水，因为面团含水量很高，一定要用软刮板来翻拌",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-3.jpg",
+      "source": "https://i2.chuimg.com/2c8377babf3245bbb7088fc21cf0d275_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 4,
+     "text": "等到没有干粉的时候，加入10g橄榄油，大致翻拌均匀之后，盖上保鲜膜，室温静置半小时，让面筋进行水合生成。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-4.jpg",
+      "source": "https://i2.chuimg.com/f38281e3035b42568219d75cc88694d4_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 5,
+     "text": "半小时后开始第一次的拉伸，手上一点要带点水，拉起面团往中间进行折叠，折叠后翻转，继续静置半小时。静置结束后，也是同样的方式进行折叠，通过水合以及拉伸来增加面筋的强韧性。继续静置半小时。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-5.jpg",
+      "source": "https://i2.chuimg.com/ca9df0b9c4af42e1ae5d6c40c967b413_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 6,
+     "text": "最后一次进行抱叠，手上带水，从面团的底部，捞起面团有一定长度后，叠起来，盖好保鲜膜，拿去烤箱30℃发酵一小时。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-6.jpg",
+      "source": "https://i2.chuimg.com/afe096fca92843f0ac2451fed4443748_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 7,
+     "text": "发酵好的面团体积会明显的变大，摇晃的话还会有duangduang的感觉！在桌面上撒上一层高筋面粉，翻转盆，让面团通过自身的重量掉落下来。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-7.jpg",
+      "source": "https://i2.chuimg.com/7ff5570df8a44816a45fdb46c53ea1d8_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 8,
+     "text": "面团的表面也同样的撒一层高筋粉，然后大致平均的份成6份。不需要太准确到克数然后用轻柔的手法把面团团圆，翻转捏紧收口。把它们放在烤盘上，送入烤箱35℃二发30分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-8.jpg",
+      "source": "https://i2.chuimg.com/8fa19810e8944956822e3ba5c8427e34_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 9,
+     "text": "",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-9.jpg",
+      "source": "https://i2.chuimg.com/0daf76035c094a3e94f2a532ff9ff5ba_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 10,
+     "text": "发酵结束后，在面包的表面刷上一层橄榄油。手指在中间先戳个凹槽，",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-10.jpg",
+      "source": "https://i2.chuimg.com/31cdb45a248145a68d3627cffd5684af_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 11,
+     "text": "上面就可以摆放小番茄，彩椒，脆皮肠，芝士之类的食材，放的时候记得要往下压进去哦！面撒上黑胡椒和一点盐，送入预热好的烤箱",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-11.jpg",
+      "source": "https://i2.chuimg.com/425762e55a824d608116252bb11561cf_640w_1144h.gif"
+     }
+    },
+    {
+     "n": 12,
+     "text": "风炉模式190℃烘烤18-20分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/107730702-12.jpg",
+      "source": "https://i2.chuimg.com/d589aa843fa54654909ad771eb4b1969_640w_1144h.gif"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107505005",
+   "name": "山药肉丸汤",
+   "url": "https://www.xiachufang.com/recipe/107505005/",
+   "author": "厨娘-小温",
+   "score": 8.6,
+   "made": 10,
+   "desc": "孩子秋季必喝的汤秋天怎么少得了这碗养胃又鲜美的山药丸子汤。 [清单]食材：猪肉 山药 葱姜[清单]步骤：1⃣️猪肉剁馅、加一勺玉米淀粉，适量酱油和少量葱姜末拌匀2⃣️热油下山药翻炒片刻后倒入适量水，水开煮至山药软烂下入丸子3⃣️丸子煮五分钟后汤内加入适量盐即可 汤鲜味美，丸子软烂一点也不柴，孩子吃了养胃又长肉推荐给一岁以上的宝宝🍼",
+   "ingredients": [
+    {
+     "name": "山药",
+     "amount": "一根"
+    },
+    {
+     "name": "肉",
+     "amount": "200g"
+    },
+    {
+     "name": "淀粉",
+     "amount": "如图适量"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "一个"
+    },
+    {
+     "name": "葱姜",
+     "amount": "适量"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 2,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 3
+   },
+   "image": {
+    "local": "images/2026-11-26/107505005.jpg",
+    "source": "https://i2.chuimg.com/e54816ee445546c798a480df305bb353_1170w_1543h.jpg"
+   },
+   "category": "汤羹",
+   "steps": [
+    {
+     "n": 1,
+     "text": "",
+     "image": {
+      "local": "images/2026-11-26/steps/107505005-1.jpg",
+      "source": "https://i2.chuimg.com/410aea28ff51489b8be0ffee61e431de_1170w_1520h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "",
+     "image": {
+      "local": "images/2026-11-26/steps/107505005-2.jpg",
+      "source": "https://i2.chuimg.com/566a1da587794c71a420b97a171efd96_1170w_1525h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107624273",
+   "name": "奶油蘑菇汤｜黄金比例复刻萨莉亚同款",
+   "url": "https://www.xiachufang.com/recipe/107624273/",
+   "author": "楼鲲鲲",
+   "score": 8.0,
+   "made": 12,
+   "desc": "黄金比例，轻松复刻。拒绝预制又省钱～",
+   "ingredients": [
+    {
+     "name": "白蘑菇",
+     "amount": "200克"
+    },
+    {
+     "name": "培根",
+     "amount": "100克"
+    },
+    {
+     "name": "白洋葱",
+     "amount": "1/2个"
+    },
+    {
+     "name": "面粉",
+     "amount": "50克"
+    },
+    {
+     "name": "黄油",
+     "amount": "30克"
+    },
+    {
+     "name": "淡奶油",
+     "amount": "50ml"
+    },
+    {
+     "name": "牛奶",
+     "amount": "100ml"
+    },
+    {
+     "name": "清水",
+     "amount": "1000ml"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    },
+    {
+     "name": "黑胡椒",
+     "amount": "适量"
+    },
+    {
+     "name": "欧芹碎",
+     "amount": "自选"
+    }
+   ],
+   "stepCount": 7,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 4
+   },
+   "image": {
+    "local": "images/2026-11-26/107624273.jpg",
+    "source": "https://i2.chuimg.com/e0ff1f604c8b4b99aaff82491f8eb5f6_1920w_2560h.jpg"
+   },
+   "category": "汤羹",
+   "steps": [
+    {
+     "n": 1,
+     "text": "蘑菇切片，培根切小块，洋葱切小丁。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-1.jpg",
+      "source": "https://i2.chuimg.com/269c34356da04484b0184881c94b2d4c_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "锅中喷些底油，将培根翻炒出油，倒入洋葱与蘑菇炒出香味盛出。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-2.jpg",
+      "source": "https://i2.chuimg.com/6becbcdb90af4f06af7ec33e0039fa76_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "锅烧热后关火，放入黄油，待全部融化后，开中小火，倒入面粉，翻炒至面粉呈金黄色。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-3.jpg",
+      "source": "https://i2.chuimg.com/687ca00bb58f42b8a411c103f9464d58_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "倒入清水，边加热边轻轻搅拌至面粉与水混合均匀无颗粒状。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-4.jpg",
+      "source": "https://i2.chuimg.com/6bc76892e85f4699a3688f84fe3e88fe_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "水烧开后，倒入炒好的洋葱培根与蘑菇，继续搅拌至煮开。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-5.jpg",
+      "source": "https://i2.chuimg.com/11c290e087454adfbd7231f4a30c0507_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "倒入奶油与牛奶，搅拌均匀。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-6.jpg",
+      "source": "https://i2.chuimg.com/bc92c44bf65d4ab5a1c60b8e9e0ea654_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "再次煮开后，小火熬煮三分钟后关火，根据自己口味加适量盐与黑胡椒粉调味即可。",
+     "image": {
+      "local": "images/2026-11-26/steps/107624273-7.jpg",
+      "source": "https://i2.chuimg.com/e17aeda07f0c464cbdbffbb2996ece9f_1280w_960h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "103482369",
+   "name": "白菜粉条炖冻豆腐",
+   "url": "https://www.xiachufang.com/recipe/103482369/",
+   "author": "小肥子的麻麻",
+   "score": 8.4,
+   "made": 10,
+   "desc": "东北的冬天都得时不时的吃点炖菜 味鲜 美味 安排(ღ˘⌣˘ღ)",
+   "ingredients": [
+    {
+     "name": "白菜心",
+     "amount": "适量"
+    },
+    {
+     "name": "粉条",
+     "amount": "适量"
+    },
+    {
+     "name": "五花肉",
+     "amount": "适量"
+    },
+    {
+     "name": "冻豆腐",
+     "amount": "适量"
+    },
+    {
+     "name": "葱",
+     "amount": ""
+    },
+    {
+     "name": "盐",
+     "amount": ""
+    },
+    {
+     "name": "八角",
+     "amount": "2个"
+    },
+    {
+     "name": "生抽",
+     "amount": "一点点"
+    },
+    {
+     "name": "白胡椒粉",
+     "amount": ""
+    }
+   ],
+   "stepCount": 4,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 5
+   },
+   "image": {
+    "local": "images/2026-11-26/103482369.jpg",
+    "source": "https://i2.chuimg.com/012f033f66db447a9adcaa7908655f79_1080w_864h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "准备所有材料 备齐",
+     "image": null
+    },
+    {
+     "n": 2,
+     "text": "锅里放油 放葱花八角 五花肉 吵至变色 下入白菜 吵一会儿 再放水 覆盖白菜 大火煮沸 改小火",
+     "image": null
+    },
+    {
+     "n": 3,
+     "text": "放粉条 冻豆腐 小火慢炖 放一点点生抽 八角一个 放盐 白胡椒粉",
+     "image": null
+    },
+    {
+     "n": 4,
+     "text": "大概半个小时 40分钟就OK了 出锅前放一点鸡精提味",
+     "image": {
+      "local": "images/2026-11-26/steps/103482369-4.jpg",
+      "source": "https://i2.chuimg.com/45f99ee0ffac4d6fa4c68e396417cead_1080w_864h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106143301",
+   "name": "『🥬花吃白菜🥬』大虾🦐客与白菜🐦的浪漫邂逅",
+   "url": "https://www.xiachufang.com/recipe/106143301/",
+   "author": "欣然忘食",
+   "score": 9.1,
+   "made": 10,
+   "desc": "虾🦐吃白菜😆😆 这是我给这道菜起的名字🤣怎么来的呢？是因为当时家里需要消耗大白菜，做馅儿、熬豆腐、肉汤炖之类的都已经吃的够不够的了，有点愁🤨 翻看冰箱，发现了几只漏网之虾，好吧，那就用它们吧。一试之下还挺好吃😋于是就成了保留菜品😀这菜用料少，简单快手有营养，很适合平常上班忙碌的你，有时间试一试，保证你会喜欢喔😊",
+   "ingredients": [
+    {
+     "name": "白菜",
+     "amount": "6-8片（请根据白菜大小、用餐人数调整）"
+    },
+    {
+     "name": "虾",
+     "amount": "6-8只（可调整）"
+    },
+    {
+     "name": "糖（可选）",
+     "amount": "1小勺"
+    },
+    {
+     "name": "酱油",
+     "amount": "2汤勺"
+    },
+    {
+     "name": "开水",
+     "amount": "150ml左右（可调整）"
+    }
+   ],
+   "stepCount": 10,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 6
+   },
+   "image": {
+    "local": "images/2026-11-26/106143301.jpg",
+    "source": "https://i2.chuimg.com/1ad3a24ebc5342f18fa55deb7af351b3_480w_384h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "将虾剪去虾枪、去除沙包沙线，洗净、控水；大白菜洗净切块，备用",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-1.jpg",
+      "source": "https://i2.chuimg.com/45435ad1f9054ab59b6a1ab0d9a9ab6e_3264w_2448h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "锅中热油，微微冒烟，将控干水的虾倒入锅中快速翻炒⚠️距离油锅不要太高，容易溅油被烫到⚠️",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-2.jpg",
+      "source": "https://i2.chuimg.com/86eaa328c4e541119b30f7d329b307bb_480w_384h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "虾两面上色后放一小勺糖，快速炒匀⚠️对糖有禁忌的厨友可以不放。",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-3.jpg",
+      "source": "https://i2.chuimg.com/21959e77bdd74c62bea960f6fc8d770c_480w_384h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "加糖之后一定要快速炒，不然，糖炒糊了会苦我这个就因为一手在拍视频，差点把糖炒糊。赶紧离火，又稍加了点酱油把温度降了下来😛",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-4.jpg",
+      "source": "https://i2.chuimg.com/2d11b444ed3d46b2b804e6f45e17efb1_480w_384h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "锅中倒入酱油，炒出酱香味儿，先放白菜帮后放白菜叶，翻炒均匀",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-5.jpg",
+      "source": "https://i2.chuimg.com/92134ca6a19141d18f00f030897473e9_3264w_2448h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "加入开水，盖盖儿炖煮。",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-6.jpg",
+      "source": "https://i2.chuimg.com/df3fae0d2d33454e806675bc783f1be1_480w_384h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "这是煮了2, 3分钟的样子。可以看到白菜的边缘已经上色。",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-7.jpg",
+      "source": "https://i2.chuimg.com/c2474710950a446caa570342deeb7876_3024w_4032h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "到这个程度就可以出锅啦😀",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-8.jpg",
+      "source": "https://i2.chuimg.com/18036a0f1e034f01803ac28dace27ad2_3024w_4032h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "怎么样？是不是很香的样子😉",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-9.jpg",
+      "source": "https://i2.chuimg.com/40c6b1f22b5c4bfea21442126398d7c9_3264w_2448h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "开饭喽🍚",
+     "image": {
+      "local": "images/2026-11-26/steps/106143301-10.jpg",
+      "source": "https://i2.chuimg.com/26742f09392841f89b906f721de019d8_2448w_1957h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "105873295",
+   "name": "减脂/体重控制必备100%全麦T80法式乡村欧包",
+   "url": "https://www.xiachufang.com/recipe/105873295/",
+   "author": "VivianKING",
+   "score": 8.5,
+   "made": 10,
+   "desc": "一直想做一款全麦的乡村欧包，但是又怕全麦口感会不好，一直望而却步。最近发现家里T80面粉即将到期，就想赶快撸完。之前一直是用这个粉搭配T65去使用的，觉得全麦粉的口感会比较的粗犷，但是没想到做了几次之后，发现这个面粉口感非常不错，嚼在嘴里满口回甘，十分惊喜。仔细查了一下，这个面粉属于半全麦粉。也就是说，它里面含有一半的麦麸。它的麦麸是单独拿出来碾磨成跟小麦粉一样的粗细程度，再添加进去。因此口感比较细腻，不像粗颗粒全麦粉那么卡喉咙😄😄。所以我感觉她就是血糖控制人群的福音呀。配方是一个450g左右面包的量。做好一个全麦欧包最重要的两大因素是：1-面筋拓展到位2-发酵充分（欠发的全麦欧包真的灰常难吃）😪貌似所有欧包都是这样嘛😄😄好了，祝大家撸包愉快，记得来交作业哦！2021.6.28更新",
+   "ingredients": [
+    {
+     "name": "有机T80面粉",
+     "amount": "250克"
+    },
+    {
+     "name": "水",
+     "amount": "187.5克"
+    },
+    {
+     "name": "盐",
+     "amount": "5克"
+    },
+    {
+     "name": "鲁邦种",
+     "amount": "50克"
+    },
+    {
+     "name": "后加水",
+     "amount": "12.5克"
+    }
+   ],
+   "stepCount": 13,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 7
+   },
+   "image": {
+    "local": "images/2026-11-26/105873295.jpg",
+    "source": "https://i2.chuimg.com/fb2223dee99a4173901b08b9a5de6b98_1008w_756h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "建提前4-6小时激活鲁邦种取7.5克成熟原种➕水17.5克，先用蛋抽打散完全化开再加入25克面粉，搅拌均匀至无干粉（算下来水量约为70%，接近面团的水量）放入直径为5-6cm的修长透明容器中，建议种的起始高度占瓶子的1/5用橡皮筋或透明胶或马克笔标示好起始高度，等它长到最高点就可以使用了不喜欢酸的可以用能嫩种，即涨到最高点之前的酵种建议涨到最高点的80% ：*黑麦要1.8倍或以上 *白面要2.5倍或以上",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-1.jpg",
+      "source": "https://i2.chuimg.com/2ce64a11d9ee4b519ab3e8830aa1fffe_684w_912h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "将面粉和水混合均匀至无干粉，冷藏（3-5℃）水解30分钟-2小时（可以根据面团需要降温的程度来选择水解时间）。视频是冷藏水解1小时左右的拉膜状态。可以看到已经形成了一定的面筋，只是破洞还比较粗糙。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-2.jpg",
+      "source": "https://i2.chuimg.com/a3e88151c8f4424eb1e6cdbdde7747a1_1080w_864h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "将天然酵母加入到水解好的面团中低速搅拌均匀（大概2分钟左右），然后加入盐，完全吸收后（约2分钟左右），转中高速搅拌到出有韧性的厚膜。然后在中高速状态分两次加入后加水，每一个加入后加水以后需要搅拌至水被完全吸收，面团恢复筋度（佳麦厨师机5-6档需要2-3分钟左右）再加入第二次后加水。第二次后加水完全吸收以后继续搅拌2-3分钟直到面团表面光滑，扯一小团面团下来检查的时候有一定的阻力。我这次打的比较保守，（视频里是一个厚膜状态）具体请参考我欧包打面的教程来检查面筋，戳🔗https://www.xiachufang.com/recipe/106133023注意控制出缸面温在22-24℃之间。（如果中途面温升高至24℃或以上，请将面团冷冻30分钟再继续打面）",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-3.jpg",
+      "source": "https://i2.chuimg.com/962beee5c62545aa88bed12e0290471e_1080w_864h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "将揉好的面团放入发酵盒，表面整理光滑，放入发酵箱26℃静置一小时后按照视频的方法做一次卷折。然后继续发酵箱26℃静置一小时。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-4.jpg",
+      "source": "https://i2.chuimg.com/530f02401c3c453f9e4d46931b26e6e6_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "静置一小时以后面团并没有滩的很厉害，很多小伙伴此时就会纠结要不要再折叠呢？其实我们可以通过拉膜检查下面筋来决定。如果拉膜发现破洞光滑面筋到位了就可以不折叠。如视频所示，破洞还有点锯齿，那么就还需要再继续拓展面筋（折叠）。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-5.jpg",
+      "source": "https://i2.chuimg.com/10b92a84e65340a792777760eb2bcf30_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "继续做一次卷折，然后发酵箱26℃静置至发酵结束，大约2-3小时。发酵的判断方法，请戳👉🔗 https://www.xiachufang.com/recipe/106174049/",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-6.jpg",
+      "source": "https://i2.chuimg.com/82834891d7e04763bb69d3e5077234e1_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "面团表面撒一层薄粉，案板上也洒一层薄粉，将容器直接倒扣在案板上发酵适当的面团应该会慢慢自动掉落到案板上（发过或者面筋状态不好的就很难自动脱落，需要刮刀辅助）将面团稍稍的轻轻摊开一点，让形状变整齐一些左右对折，其中一边重叠在另一边上，类似信纸一折三的样子然后从上而下——如同卷蛋糕卷一般——往内拢着卷起，最后两侧收口接缝处朝上的放入撒了粉的发酵篮中。⚠️全麦面团的发酵和T65不同，如视频面团倒扣的样子对于T65来说已经发到接近充分了。但是T80还不够（后期切开的组织图片可以证明）。所以我的结论是T80全麦粉需要发酵的更充分（倒扣有轻微网状组织为宜，想要保险一点点也可以发到我视频的样子。）",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-7.jpg",
+      "source": "https://i2.chuimg.com/2ec1240371c6494eb00de5eab2af19e4_1080w_864h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "如果发酵比较过，或者面筋特别疲软，可以用视频所示的“塑身衣”大法来增强面团表面的张力，增加进炉膨胀力。发酵蓝上盖好塑料膜或浴帽，或入袋子中放入3-5℃左右冰箱，冷藏发酵10-16小时冷藏二发时长需要根据面粉的属性以及面团的状态灵活调整弹性越软的粉做出的面团，不建议冷发超过12小时同样，面团状态越疲软，甚至如果一发发过，最好是尽早进炉。软塌塌无骨的水球面团建议是面团松弛下来就马上送入烤箱面团是否松弛到位的检查方法是：食指或中指沾湿或抹粉，用指腹在蓝中面团（接缝处朝上的那一面）按压一个小坑（注意是指腹按压，不是戳！！！）观察小坑恢复原状的速度当坑以比吐司二发好快一些的速度慢慢回弹，甚至回弹只回复一半）就说明松弛到位，可以进炉了！软塌塌的面团建议先冷冻30分钟，再挪入冷藏这么做的原因是为了快速降低面团的核心温度，及时止损于此同时，开始预热烤箱关于预热，请看下一步",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-8.jpg",
+      "source": "https://i2.chuimg.com/ae6bb0f51e4644e2ad88efb9e6e35924_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "铸铁锅/铸铁板/石板放入烤箱中下层设置250℃ 或家用烤箱最高温度（230ºC）预热45分钟左右 （记得一定要放入烤箱适用温度计一起预热，是否预热到位是由它说了算！）⚠️面团不需要回温再进炉，而是要在预热完毕后才从冰箱中拿出面团，割包后马上送进烤箱。如果说烤箱温度不足，建议用铸铁锅烤，并且采用明火烧锅的方法预热。具体操作：铸铁锅放在灶台上小火空烧18分钟，再转大火2分钟。然后挪到空灶台开盖，磨蹭着拎纸将割好的面团慢悠悠地放进去，盖上盖子，拎锅放入烤箱中。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-9.jpg",
+      "source": "https://i2.chuimg.com/5809ea04db7e48319b8c7f6e9d472b13_912w_684h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "割包将二发完成后的面团倒扣在硅油纸上，撒粉割包，斜刀45º，深度4-5mm（Cocolat老师路过：“用铸铁锅的童鞋们，在面团状态好的情况下，可以割得更深一些”）割之前先深吸一口气，冷静下来再开始。胆子放大，莫要慌乱，冷静沉着去应对。此时，请想象给黄鱼破腹或片鱼肉的场景一手扶着面团，一手拿着刀，斜着吃进去，然后顺势的放大胆子往下划。Cocolat老师在此建议：「如果觉得卡刀，类似牛仔裤拉链卡住那种感觉，先停一下，再继续。或者可以在割包之前，将刀刃往粘米粉里滚一滚在开始。」",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-10.jpg",
+      "source": "https://i2.chuimg.com/c11294c087cb40f5bd8f5ecc675b5484_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "烘烤蒸汽环境250ºC或家用烤箱最高温度烘烤15-20分钟然后移除蒸汽，转成200ºC再烤15-20分钟，或直到上色满意即可。*由于各家烤箱火力不一，上述时间仅供参考，还请根据自己的实际情况进行调整。制造蒸汽的方法有很多，比方：*铸铁锅盖盖子*开水法*石子加开水*扣盆法*毛巾大法...温情提醒： 除非是商用炉子或带专业蒸汽功能的层炉，一般的家用蒸烤一体烤箱或嵌入式烤箱本身自带的蒸汽功能实则蒸汽不足。我在欧包烘烤技术贴中，也有介绍两种家常自制蒸汽的方法 请戳👉🔗：https://www.xiachufang.com/recipe/106175756/",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-11.jpg",
+      "source": "https://i2.chuimg.com/00698e697699434b9520a25b1da4a635_1350w_1080h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "出炉，非常喜欢这个金黄色和圆鼓鼓的外形。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-12.jpg",
+      "source": "https://i2.chuimg.com/029929659d7645779c3524bbbbc4e9d6_912w_684h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "放凉两小时左右切片看下内部组织，这个样子还可以继续发一发。忍不住马上吃了一块，麦香浓郁，表皮香脆内部湿软有嚼劲。不是马上吃的请放入密封袋冷冻保存。要吃的时候提前回温五十分钟然后150℃烘烤2分钟即可。",
+     "image": {
+      "local": "images/2026-11-26/steps/105873295-13.jpg",
+      "source": "https://i2.chuimg.com/070fbbb32150434c8c1f4ed08347734a_1008w_756h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "106573596",
+   "name": "🔥宁波家常菜 红烧田鸡",
+   "url": "https://www.xiachufang.com/recipe/106573596/",
+   "author": "蟹哥小厨F",
+   "score": 8.3,
+   "made": 11,
+   "desc": "蟹哥给大家推荐一道在家就能制作出餐厅的红烧田鸡味道非常好",
+   "ingredients": [
+    {
+     "name": "田鸡",
+     "amount": "500克"
+    },
+    {
+     "name": "蒜瓣",
+     "amount": "10个"
+    },
+    {
+     "name": "料酒",
+     "amount": "150克"
+    },
+    {
+     "name": "生抽",
+     "amount": "30克"
+    },
+    {
+     "name": "老抽",
+     "amount": "5克"
+    },
+    {
+     "name": "鸡精",
+     "amount": "3克"
+    },
+    {
+     "name": "白糖",
+     "amount": "15克"
+    },
+    {
+     "name": "尖椒",
+     "amount": "2个"
+    },
+    {
+     "name": "麻油",
+     "amount": "15克"
+    }
+   ],
+   "stepCount": 4,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 9
+   },
+   "image": {
+    "local": "images/2026-11-26/106573596.jpg",
+    "source": "https://i2.chuimg.com/1f4df59765034f6f9844414f02be136e_1280w_1280h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "热锅冷油放入蒜子田鸡，尖椒大火炒出香味",
+     "image": {
+      "local": "images/2026-11-26/steps/106573596-1.jpg",
+      "source": "https://i2.chuimg.com/f51ced24be0643b3bb55782af9473c77_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "加入料酒，生抽老抽，白糖大火烧开，加盖转小火焖5分钟",
+     "image": {
+      "local": "images/2026-11-26/steps/106573596-2.jpg",
+      "source": "https://i2.chuimg.com/86d6e30f43da4bc98ddd97c3a829f502_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "时间到转大火加入麻油收汁",
+     "image": {
+      "local": "images/2026-11-26/steps/106573596-3.jpg",
+      "source": "https://i2.chuimg.com/c3a403fb474d4ffc89f5ec4b75734e90_1280w_1280h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "出锅装盘",
+     "image": {
+      "local": "images/2026-11-26/steps/106573596-4.jpg",
+      "source": "https://i2.chuimg.com/03fb03d9296843fba53d7a2d3859d6f6_1280w_1280h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107114025",
+   "name": "清蒸黄鱼鲞(江浙味道)",
+   "url": "https://www.xiachufang.com/recipe/107114025/",
+   "author": "余小西的四季三餐",
+   "score": 8.5,
+   "made": 10,
+   "desc": "鲞，念作“xiang”（第三声，同音想），将新鲜的鱼去鳞去内脏，对半切开但不切断，用盐腌制，再摊开在太阳下晒成的鱼干就叫做鲞。江浙、福建沿海一带喜食黄鱼鲞，用最简单的清蒸做法，就能还原鱼肉的鲜味，相比新鲜的鱼肉，黄鱼鲞略有带有一些风干后肉质的紧实感，以及咸香，是下酒佐餐的佳物。",
+   "ingredients": [
+    {
+     "name": "黄鱼鲞",
+     "amount": "1条"
+    },
+    {
+     "name": "葱姜",
+     "amount": "5g"
+    },
+    {
+     "name": "红辣椒",
+     "amount": "1个"
+    }
+   ],
+   "stepCount": 5,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 10
+   },
+   "image": {
+    "local": "images/2026-11-26/107114025.jpg",
+    "source": "https://i2.chuimg.com/c187cb01981249d09a0923383c6797e2_2560w_2560h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "黄鱼鲞1条（网购可以买到，因为黄鱼是经过盐腌制的，本身会比较咸，可以用清水清洗两边去除多余咸味，再用料酒、姜片和白胡椒粉腌制10分钟）葱姜适量，红辣椒1个",
+     "image": {
+      "local": "images/2026-11-26/steps/107114025-1.jpg",
+      "source": "https://i2.chuimg.com/9b70d3a973504f8cbb62b99431b9bec2_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "准备好蒸盘，铺上葱姜垫底。",
+     "image": {
+      "local": "images/2026-11-26/steps/107114025-2.jpg",
+      "source": "https://i2.chuimg.com/01eed06d6c8e472fa2b4d15a1543aac9_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "将黄鱼放在葱姜上，放入蒸锅蒸，水开后蒸12分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/107114025-3.jpg",
+      "source": "https://i2.chuimg.com/393a960413a74538b34acaafe44bf7cf_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "蒸好倒出盘中的水，在鱼身上铺上葱丝、姜丝和辣椒丝，热油淋上去激发香味。（因为黄鱼鲞本身是腌制过有咸味的，可以不用再加蒸鱼豉油了）",
+     "image": {
+      "local": "images/2026-11-26/steps/107114025-4.jpg",
+      "source": "https://i2.chuimg.com/8c3bf206d3b64a0e8244fabe56312ade_3414w_2560h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "上桌，开饭啦！",
+     "image": {
+      "local": "images/2026-11-26/steps/107114025-5.jpg",
+      "source": "https://i2.chuimg.com/f3bfac6210ca4e079b205282fabfe3cb_3414w_2560h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "100376215",
+   "name": "茄子尖椒包",
+   "url": "https://www.xiachufang.com/recipe/100376215/",
+   "author": "xacyh2012",
+   "score": 8.5,
+   "made": 10,
+   "desc": "我觉着做茄子菜一定要搭配尖椒和大蒜，曾经做过茄子尖椒馅饼，虽然没有肉，感觉很好吃。晚餐后再包个茄子尖椒包，早餐吃包子，是不是很方便快捷。",
+   "ingredients": [
+    {
+     "name": "长茄子",
+     "amount": "1个"
+    },
+    {
+     "name": "尖椒",
+     "amount": "4个"
+    },
+    {
+     "name": "葱、姜、蒜",
+     "amount": ""
+    },
+    {
+     "name": "盐、糖、耗油、香油、花椒油、花生油",
+     "amount": ""
+    },
+    {
+     "name": "五香粉、熟芝麻、虾粉",
+     "amount": "适量"
+    },
+    {
+     "name": "面粉",
+     "amount": "260g"
+    },
+    {
+     "name": "发酵粉",
+     "amount": "5g"
+    },
+    {
+     "name": "泡达粉",
+     "amount": "1g"
+    }
+   ],
+   "stepCount": 7,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 11
+   },
+   "image": {
+    "local": "images/2026-11-26/100376215.jpg",
+    "source": "https://i2.chuimg.com/ddabe3c8888111e6a9a10242ac110002_650w_650h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "茄子洗净切小丁，用盐水泡一下，挤干水备用。",
+     "image": null
+    },
+    {
+     "n": 2,
+     "text": "尖椒洗净切碎，比茄子丁小点。",
+     "image": null
+    },
+    {
+     "n": 3,
+     "text": "葱、姜、大蒜切末。",
+     "image": null
+    },
+    {
+     "n": 4,
+     "text": "茄子丁、尖椒碎、葱、姜、蒜末混合，加盐、糖、耗油、生抽、五香粉、香油、花椒油、花生油拌匀。",
+     "image": null
+    },
+    {
+     "n": 5,
+     "text": "将拌好的馅料用锅小火炒至茄子变软，倒掉多余的汤汁，加入熟芝麻、虾粉拌匀。",
+     "image": {
+      "local": "images/2026-11-26/steps/100376215-5.jpg",
+      "source": "https://i2.chuimg.com/080e80b88ebc11e6b87c0242ac110003_650w_650h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "准备馅料之前，将酵母及等量面粉用温水搅拌均匀，放置15分钟发酵，再将泡打粉、奶粉、糖与面粉搅拌均匀，放入发酵好的酵母用温水活成发酵面团。馅料准备好了，面团也就发好了。将发好的面团分成14等份，包入馅料，包好的包子放人蒸锅继续饧发15分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/100376215-6.jpg",
+      "source": "https://i2.chuimg.com/085598688ebc11e6b87c0242ac110003_650w_650h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "开小火2分钟后改大火，上气后蒸15分钟即可。",
+     "image": {
+      "local": "images/2026-11-26/steps/100376215-7.jpg",
+      "source": "https://i2.chuimg.com/089e28da8ebc11e6a9a10242ac110002_650w_650h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107609008",
+   "name": "超满足！一口下去满满奶酪！奶酪碱水面包！",
+   "url": "https://www.xiachufang.com/recipe/107609008/",
+   "author": "阿南的私房烘焙",
+   "score": 7.2,
+   "made": 10,
+   "desc": "奶酪碱水面包（可做12个80克）",
+   "ingredients": [
+    {
+     "name": "面团部分：",
+     "amount": ""
+    },
+    {
+     "name": "高筋面粉",
+     "amount": "550克"
+    },
+    {
+     "name": "低筋面粉",
+     "amount": "40克"
+    },
+    {
+     "name": "奶粉",
+     "amount": "18克"
+    },
+    {
+     "name": "冰水",
+     "amount": "330克"
+    },
+    {
+     "name": "鲜酵母",
+     "amount": "6克"
+    },
+    {
+     "name": "盐",
+     "amount": "10克"
+    },
+    {
+     "name": "黄油",
+     "amount": "24克"
+    },
+    {
+     "name": "抹茶奶酪：",
+     "amount": ""
+    },
+    {
+     "name": "奶油奶酪",
+     "amount": "240克"
+    },
+    {
+     "name": "糖粉",
+     "amount": "20克"
+    },
+    {
+     "name": "抹茶粉",
+     "amount": "6克"
+    },
+    {
+     "name": "柠檬奶酪：",
+     "amount": ""
+    },
+    {
+     "name": "奶油奶酪",
+     "amount": "240克"
+    },
+    {
+     "name": "糖粉",
+     "amount": "20克"
+    },
+    {
+     "name": "柠檬皮屑",
+     "amount": "1个"
+    },
+    {
+     "name": "碱水：",
+     "amount": ""
+    },
+    {
+     "name": "烘焙专用碱",
+     "amount": "20克"
+    },
+    {
+     "name": "清水",
+     "amount": "500克"
+    }
+   ],
+   "stepCount": 18,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 12
+   },
+   "image": {
+    "local": "images/2026-11-26/107609008.jpg",
+    "source": "https://i2.chuimg.com/adb8b61604384e8c94e0c91208abc196_1701w_1361h.jpg"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "首先准备好所需食材桶中倒入面团材料（除了黄油和盐以外）慢速揉匀",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-1.jpg",
+      "source": "https://i2.chuimg.com/19a55706c66043e68dbbda0c68d2895f_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "揉至成团后转中高速揉面",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-2.jpg",
+      "source": "https://i2.chuimg.com/269690ecd96e407ead3eed11ecc11845_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "揉到可以拉出厚膜",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-3.jpg",
+      "source": "https://i2.chuimg.com/fa1ba99ac3b44ffe9a7897f4ffb19f86_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "倒入软化的黄油和盐继续慢速揉匀后转中高速揉面",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-4.jpg",
+      "source": "https://i2.chuimg.com/a1a86f1024724edca99b2713c7fe1e52_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "揉至可以拉出薄膜即可（这样制作的碱水口感更好，嫌麻烦可以揉个厚膜就行）",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-5.jpg",
+      "source": "https://i2.chuimg.com/957e98f9e82846f5bd65140cc7a8aedc_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "将面团直接分割80克一个揉圆盖保鲜膜冷藏松弛20分钟",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-6.jpg",
+      "source": "https://i2.chuimg.com/d5250c62ecaa43889dae0909773cc7ab_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "制作奶酪馅，奶油奶酪软化后加入糖粉和抹茶粉拌匀即可",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-7.jpg",
+      "source": "https://i2.chuimg.com/b46117feffa548a58ba30ae9a3ee6343_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "装入裱花袋备用",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-8.jpg",
+      "source": "https://i2.chuimg.com/662a9df615b847e5ba58378272e6a6eb_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "面团松弛完毕后擀开",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-9.jpg",
+      "source": "https://i2.chuimg.com/c0c9c0593a5649eea0f50e82839cc6bb_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "翻面，挤上奶酪馅",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-10.jpg",
+      "source": "https://i2.chuimg.com/6bee98ec58544a39b772000eabc2ad00_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "捏紧收口处",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-11.jpg",
+      "source": "https://i2.chuimg.com/a86cb4f4392d4bc9b39badbb903a206f_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "翻面稍微整理一下成橄榄型",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-12.jpg",
+      "source": "https://i2.chuimg.com/2000121305f746ba8a677c53393616da_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "全部同样操作，放入烤盘，送入冰箱冷冻30分钟",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-13.jpg",
+      "source": "https://i2.chuimg.com/867004298f794ae1bafd8bc1bcc7819c_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 14,
+     "text": "碱水（烘焙碱＋水搅匀即可）提前制作好（一定要戴手套防止手直接接触碱水）放入面团泡30秒",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-14.jpg",
+      "source": "https://i2.chuimg.com/a64e96cc094945f08a78da66d90e5da3_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 15,
+     "text": "取出沥干水份，放入烤盘中，用刀片划出花纹",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-15.jpg",
+      "source": "https://i2.chuimg.com/875920c2c0c74e9fb5dd3c808b92bdca_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 16,
+     "text": "送入提前预热好的烤箱，上火230度下火190度烘烤15分钟左右，每个人的烤箱不同，烘烤时间温度仅作为参考！",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-16.jpg",
+      "source": "https://i2.chuimg.com/d4108fcb33a0447bb7f024c820f1080a_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 17,
+     "text": "出炉后轻震烤盘，放凉即可食用！",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-17.jpg",
+      "source": "https://i2.chuimg.com/cdd8d0161c174bd8bf7ce6134a6f1450_1701w_1361h.jpg"
+     }
+    },
+    {
+     "n": 18,
+     "text": "完成！",
+     "image": {
+      "local": "images/2026-11-26/steps/107609008-18.jpg",
+      "source": "https://i2.chuimg.com/e2dc34e5a4514d4684a8deb9c85ad0a6_1701w_1361h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "101682341",
+   "name": "清炒姜柄瓜（小麦瓜）",
+   "url": "https://www.xiachufang.com/recipe/101682341/",
+   "author": "Cherrie樱",
+   "score": 8.0,
+   "made": 11,
+   "desc": "托万能的淘宝的福，不用特意跑去云南菜馆，在家也能吃到鲜甜好味的姜柄瓜啦",
+   "ingredients": [
+    {
+     "name": "姜柄瓜（小麦瓜）",
+     "amount": "1只"
+    },
+    {
+     "name": "蒜头",
+     "amount": "少许"
+    },
+    {
+     "name": "小辣椒",
+     "amount": "少许"
+    },
+    {
+     "name": "盐",
+     "amount": "少许"
+    },
+    {
+     "name": "糖",
+     "amount": "少许"
+    },
+    {
+     "name": "油",
+     "amount": "少许"
+    }
+   ],
+   "stepCount": 3,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 13
+   },
+   "image": {
+    "local": "images/2026-11-26/101682341.jpg",
+    "source": "https://i2.chuimg.com/6d63e70e8a4911e6b87c0242ac110003_1200w_900h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "姜柄瓜洗净切快，蒜头和小米辣洗净切开，用量根据自己口味调整。",
+     "image": {
+      "local": "images/2026-11-26/steps/101682341-1.jpg",
+      "source": "https://i2.chuimg.com/dedd117a9a3a11e6b2400242ac110002_1200w_900h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "热油，放入小米辣和蒜头爆出香味后，倒入姜柄瓜翻炒。加入盐和少许糖调味。",
+     "image": null
+    },
+    {
+     "n": 3,
+     "text": "喜欢口感脆嫩的，翻炒至断生，就可以出锅，喜欢软糯口感的，可以加些许水焖煮一下，两种口感都很好吃哦。",
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "103831614",
+   "name": "红烧鲅鱼",
+   "url": "https://www.xiachufang.com/recipe/103831614/",
+   "author": "减肥我是认真的a",
+   "score": 7.6,
+   "made": 11,
+   "desc": null,
+   "ingredients": [
+    {
+     "name": "鲅鱼",
+     "amount": "1条"
+    }
+   ],
+   "stepCount": 9,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 14
+   },
+   "image": {
+    "local": "images/2026-11-26/103831614.jpg",
+    "source": "https://i2.chuimg.com/847c1e2fa91f4bcebf2169fbe40afa53_650w_462h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "鲅鱼收拾好冲洗干净，料酒浸泡一会，擦干表面",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-1.jpg",
+      "source": "https://i2.chuimg.com/b2fde301204b401282a70e97015d434b_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "葱姜蒜切好备用",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-2.jpg",
+      "source": "https://i2.chuimg.com/c6a6b59b53c146db9d3c49b85d938307_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "1勺料酒，2勺醋，1勺味极鲜，1勺酱油，0.5勺老抽，1勺糖兑汁，盐根据自己口味后期尝汤后添加适量",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-3.jpg",
+      "source": "https://i2.chuimg.com/a4038e4b24b7473199a0601ea509c0d2_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "热锅凉油，将鲅鱼蘸薄薄一层淀粉后下锅煎",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-4.jpg",
+      "source": "https://i2.chuimg.com/41270ac48bc24051afa05b251d354f8d_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "煎至两面金黄",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-5.jpg",
+      "source": "https://i2.chuimg.com/e3e4a28bcc7a4b3f8c7dd256babc3032_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "放入大料，花椒，葱姜",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-6.jpg",
+      "source": "https://i2.chuimg.com/a6e09c5a7ebc4c1f9063314283de1865_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "放入料汁",
+     "image": null
+    },
+    {
+     "n": 8,
+     "text": "添加开水，炖20分钟后加入蒜继续炖，留一些汤，不要完全收干",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-8.jpg",
+      "source": "https://i2.chuimg.com/55db0b8eb7c743ddbd6a046856ccc2c4_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "出锅放点香菜，不吃可以省略",
+     "image": {
+      "local": "images/2026-11-26/steps/103831614-9.jpg",
+      "source": "https://i2.chuimg.com/c5c90df5c96e4757b9d6279f602673ca_650w_462h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "107125821",
+   "name": "巧克力派",
+   "url": "https://www.xiachufang.com/recipe/107125821/",
+   "author": "为珊妮做面包",
+   "score": 7.0,
+   "made": 11,
+   "desc": "从里香到外的巧克力派，料够足，派够大，香得一塌糊涂。",
+   "ingredients": [
+    {
+     "name": "布朗尼",
+     "amount": ""
+    },
+    {
+     "name": "黑巧克力",
+     "amount": "66克"
+    },
+    {
+     "name": "鸡蛋",
+     "amount": "1个"
+    },
+    {
+     "name": "红糖",
+     "amount": "40克"
+    },
+    {
+     "name": "黄油",
+     "amount": "40克"
+    },
+    {
+     "name": "低筋面粉",
+     "amount": "26克"
+    },
+    {
+     "name": "盐",
+     "amount": "0.5克（可不放）"
+    },
+    {
+     "name": "巧克力奶油",
+     "amount": ""
+    },
+    {
+     "name": "淡奶油",
+     "amount": "350克"
+    },
+    {
+     "name": "细砂糖",
+     "amount": "27克"
+    },
+    {
+     "name": "黑巧克力",
+     "amount": "70克"
+    },
+    {
+     "name": "盐",
+     "amount": "1克"
+    },
+    {
+     "name": "巧克力蛋糕体",
+     "amount": ""
+    },
+    {
+     "name": "全蛋",
+     "amount": "3个"
+    },
+    {
+     "name": "细砂糖",
+     "amount": "80克"
+    },
+    {
+     "name": "低筋面粉",
+     "amount": "77克"
+    },
+    {
+     "name": "牛奶",
+     "amount": "55克"
+    },
+    {
+     "name": "黄油",
+     "amount": "30克"
+    },
+    {
+     "name": "可可粉",
+     "amount": "15克"
+    },
+    {
+     "name": "巧克力脆皮",
+     "amount": ""
+    },
+    {
+     "name": "黑巧克力",
+     "amount": "300克"
+    },
+    {
+     "name": "椰子油",
+     "amount": "45克"
+    }
+   ],
+   "stepCount": 13,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 15
+   },
+   "image": {
+    "local": "images/2026-11-26/107125821.jpg",
+    "source": "https://i2.chuimg.com/366346c09fb745b69b0549524bcd02bf_1199w_675h.png"
+   },
+   "category": "烘焙甜点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "黑巧克力和黄油隔水加热到融化，搅拌顺滑，温水保温，常温鸡蛋加红糖，高速打3分钟，打到发白细腻",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-1.jpg",
+      "source": "https://i2.chuimg.com/602070f7577c4bf6aaaf973b4cb35802_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "筛入低筋面粉，拌匀后加入巧克力酱，翻拌均匀后倒入烤盘，有2厘米的厚度，150度烤30分钟就好了，晾凉后切块备用",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-2.jpg",
+      "source": "https://i2.chuimg.com/f32e2a0aba7944b482af1f2655622ada_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "淡奶油隔水加热，放入盐，糖和巧克力，搅拌顺滑，放冰箱冷藏8小时以上，第二天打发最好",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-3.jpg",
+      "source": "https://i2.chuimg.com/8dc8fbbf960c460ab5af572382bc5eb7_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "黄油和牛奶无论用什么方式加热融化，再加入可可粉拌匀，保温备用",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-4.jpg",
+      "source": "https://i2.chuimg.com/abfc13b17fc544ee8d0f1c1a1253d570_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "细砂糖分三次加入",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-5.jpg",
+      "source": "https://i2.chuimg.com/b7a815ab7e1944e68a9292927cc9e283_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "打好的蛋白霜是这样的，蛋黄也是分次加入，每加一个打均匀了，再加下一颗",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-6.jpg",
+      "source": "https://i2.chuimg.com/7203b30a49dc4cff844269f79fffbc27_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "蛋糊打得细腻，纹路清晰，分两次加入过筛的低筋面粉，从中间下刮刀，抄底翻拌，另一只手转盆，直到拌匀",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-7.jpg",
+      "source": "https://i2.chuimg.com/56fefc7004a34097a5017d67b11ef345_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "先挖一勺蛋糊和巧克力糊混合均匀，再倒回蛋白糊中，相同的手法翻拌，拌匀后马上装入裱花袋",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-8.jpg",
+      "source": "https://i2.chuimg.com/15f5d09cc9a04a9f87bff611b016dc84_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "挤入烤盘中，尽量挤得高一些，两层同烤，160度13分钟，出炉后，凉透冷藏备用，把提前准备好的巧克力奶油打发",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-9.jpg",
+      "source": "https://i2.chuimg.com/fa62067ca4f048399bebc7e5eaf5a2f1_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "奶油挤厚一点，中间放布朗尼，或者奥利奥，挤好后盖上蛋糕胚，继续冷藏",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-10.jpg",
+      "source": "https://i2.chuimg.com/940e9f8f54d24b42bd8a402bff1da793_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "巧克力和叶子油放烤箱里60度加热，不着急，加热到位一搅动就顺滑了",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-11.jpg",
+      "source": "https://i2.chuimg.com/54312fbd44bd42c3a23dcf61e570e8ab_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "把派裹满巧克力，放在油纸上，放冰箱冷藏，巧克力皮硬了，用薄锡纸包起来，打上标签区别内馅，一口下去，绝了",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-12.jpg",
+      "source": "https://i2.chuimg.com/b7b29625233143b69984574403256949_3840w_2160h.jpg"
+     }
+    },
+    {
+     "n": 13,
+     "text": "下次带你们做蛋黄派",
+     "image": {
+      "local": "images/2026-11-26/steps/107125821-13.jpg",
+      "source": "https://i2.chuimg.com/c14be6e86d5f41d8be8da867431951cb_3840w_2160h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "102828798",
+   "name": "肉炒蘑菇",
+   "url": "https://www.xiachufang.com/recipe/102828798/",
+   "author": "迪迪家的厨房",
+   "score": 7.8,
+   "made": 11,
+   "desc": null,
+   "ingredients": [
+    {
+     "name": "五花肉",
+     "amount": "适量"
+    },
+    {
+     "name": "蘑菇",
+     "amount": "适量"
+    },
+    {
+     "name": "尖椒",
+     "amount": "一根"
+    },
+    {
+     "name": "葱姜蒜",
+     "amount": "适量"
+    },
+    {
+     "name": "料酒",
+     "amount": "适量"
+    },
+    {
+     "name": "生抽，老抽",
+     "amount": "适量"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    },
+    {
+     "name": "醋",
+     "amount": "适量"
+    }
+   ],
+   "stepCount": 3,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 16
+   },
+   "image": {
+    "local": "images/2026-11-26/102828798.jpg",
+    "source": "https://i2.chuimg.com/a14fb887489546bfb8289f09742c72cc_1530w_1201h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "五花肉，蘑菇焯水过凉(稍微攥一下)要不炒时会出汤，尖椒，葱姜蒜切好备用",
+     "image": {
+      "local": "images/2026-11-26/steps/102828798-1.jpg",
+      "source": "https://i2.chuimg.com/7ece37c45c474c2a842f00fe41d5ecdd_1211w_1620h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "锅内油加热放入五花肉煸炒变色放入葱姜蒜，加入料酒生抽老抽煸炒均匀，放入焯好的蘑菇和尖椒，加盐，最后到点儿醋翻炒出锅",
+     "image": {
+      "local": "images/2026-11-26/steps/102828798-2.jpg",
+      "source": "https://i2.chuimg.com/035d997b46294d178b83a00f28a2d856_1211w_1415h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "装盘",
+     "image": {
+      "local": "images/2026-11-26/steps/102828798-3.jpg",
+      "source": "https://i2.chuimg.com/a249df0b0d3441e8a1317a5bfa2c9387_1530w_1201h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "104472401",
+   "name": "四川九大碗之🍮甜烧白～又称夹沙肉",
+   "url": "https://www.xiachufang.com/recipe/104472401/",
+   "author": "草莓消食片",
+   "score": null,
+   "made": 11,
+   "desc": "前几天特别想吃甜烧白，正好做烧麦剩了糯米，立马jd下单红豆沙馅（感谢jd的好速度，每次都能满足我的突发奇想）。虽然上面铺着看似肥硕的五花肉，但做好了一点不腻。我是不太喜欢吃五花肉的，但还是会用五花肉做这道菜，因为纯碎用红枣那些做的甜烧白是没有这种好吃的，糯米需要浸入五花肉的香才更美味。",
+   "ingredients": [
+    {
+     "name": "五花肉",
+     "amount": "克"
+    },
+    {
+     "name": "糯米",
+     "amount": "克"
+    },
+    {
+     "name": "红豆沙馅（网上买）",
+     "amount": "克"
+    },
+    {
+     "name": "红糖",
+     "amount": "克"
+    },
+    {
+     "name": "老抽",
+     "amount": "勺"
+    },
+    {
+     "name": "陈皮",
+     "amount": ""
+    },
+    {
+     "name": "枸杞",
+     "amount": ""
+    }
+   ],
+   "stepCount": 9,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 17
+   },
+   "image": {
+    "local": "images/2026-11-26/104472401.jpg",
+    "source": "https://i2.chuimg.com/5334e5cf00f440daa46835c5c39b5c52_1572w_1277h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "🔅记录这道菜之前，先把红糖汁的做法写一写。这道菜中，五花肉和糯米的处理均需要红糖。1⃣最好选择红糖块，五花肉需要红糖块熬制的红糖汁（锅里加入醪糟和红糖块煮融化），糯米中，需要切碎小的红糖块。2⃣没有红糖块，就用红糖粉，五花肉和糯米中，都放入红糖粉调制的红糖汁（少量开水加入红糖粉冲泡，或锅里放入少量水和红糖粉熬制）❗️我的这道菜用的红糖粉，如果有红糖块，可以根据上面的提示更换。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-1.jpg",
+      "source": "https://i2.chuimg.com/c33d3fd5b6604645a9e1463d14cd09f1_684w_912h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "1⃣糯米，份量基本是蒸碗的半碗。2⃣洗两遍，冷水放入锅里煮开后中火再煮5分钟。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-2.jpg",
+      "source": "https://i2.chuimg.com/d8efc4809bd04826846b5f701205e191_912w_684h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "1⃣煮好后，捞出糯米，冷水过凉，沥干水分。❗️煮的时候，用勺子搅拌一下，防止粘锅底。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-3.jpg",
+      "source": "https://i2.chuimg.com/4bdd68ff04134e4fb54d8a7b442c8e5b_912w_684h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "1⃣炒糯米。2⃣锅里加入猪油，融化后加入红糖水，枸杞，一点陈皮碎，炒半分钟，加入糯米翻炒均匀。❗️图片中的红糖份量远远不够，我后面又加了，基本需要图中三倍的量。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-4.jpg",
+      "source": "https://i2.chuimg.com/844cac0c18604b6ebbd9a577d28d710f_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "1⃣糯米炒好后就是这样的状态。❗️这个颜色看得出来，其实我的红糖是不够的，尝起来也不是很甜，这个时候，也可以趁热加入红糖汁搅拌均匀。❗️如果嫌麻烦，可以不炒糯米。糯米煮好后，直接加入猪油、红糖汁搅拌。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-5.jpg",
+      "source": "https://i2.chuimg.com/a2fec61a115a4d62b34ce430c03bb9d1_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "🔆开始处理五花肉。1⃣冷水放入，葱姜花椒，五花肉，煮开后中火煮20分钟。2⃣五花肉捞出，刷上老抽上色。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-6.jpg",
+      "source": "https://i2.chuimg.com/198f8db9e2ac49558e0802a34c8ad2fa_1125w_1125h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "1⃣五花肉切加刀片～就是第一刀不切断，第二刀切断。2⃣加入红糖水，搅拌均匀。3⃣红豆沙取出，用刀切成一块一块，方便夹肉。4⃣把豆沙夹在肉里，平铺在碗底。‼️刀功够的话，五花肉尽量切薄，我刀功不好，这个算厚的。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-7.jpg",
+      "source": "https://i2.chuimg.com/e7bdecf8a00d4f2981d46855f563be11_750w_750h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "1⃣把糯米放入碗里，稍微整理按压一下。2⃣蒸锅里蒸1.5小时到2小时，我蒸了1小时40分钟，糯米非常软糯，五花肉基本解腻。❗️蒸的过程中，可以打开尝一下糯米是不是够味，如果不甜，可以撒入一些红糖水，轻轻拌一下。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-8.jpg",
+      "source": "https://i2.chuimg.com/6c44e5b5a872411d87554b790ca266f1_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "蒸好后，拿出来倒扣在盘里，上面撒一些白糖。💯是我期望的味道，特别开心。",
+     "image": {
+      "local": "images/2026-11-26/steps/104472401-9.jpg",
+      "source": "https://i2.chuimg.com/0d368cc07d37469581cfdde5fe9af88c_799w_655h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "101861901",
+   "name": "红油抄手",
+   "url": "https://www.xiachufang.com/recipe/101861901/",
+   "author": "阿修罗老巫婆",
+   "score": 8.1,
+   "made": 11,
+   "desc": "在成都吃的抄手念念不忘，可是我们这的辣椒就是没有成都味儿！朋友推荐我买了川味大师亲手熬制的红油和红酱油，调味做抄手，我的天呐真是惊艳啊！感觉省了飞机票了！",
+   "ingredients": [
+    {
+     "name": "馄饨皮",
+     "amount": "十来张"
+    },
+    {
+     "name": "肉糜",
+     "amount": "半斤"
+    },
+    {
+     "name": "姜葱",
+     "amount": "适量"
+    },
+    {
+     "name": "料酒",
+     "amount": "50ml"
+    },
+    {
+     "name": "水",
+     "amount": "适量"
+    },
+    {
+     "name": "盐",
+     "amount": "5g"
+    },
+    {
+     "name": "白胡椒粉",
+     "amount": "3g"
+    },
+    {
+     "name": "红油",
+     "amount": "一大勺"
+    },
+    {
+     "name": "红酱油",
+     "amount": "一大勺"
+    },
+    {
+     "name": "香芹末",
+     "amount": "少许"
+    },
+    {
+     "name": "蒜泥",
+     "amount": "10g"
+    }
+   ],
+   "stepCount": 12,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 18
+   },
+   "image": {
+    "local": "images/2026-11-26/101861901.jpg",
+    "source": "https://i2.chuimg.com/0603db5e8b6c11e6a9a10242ac110002_800w_497h.jpg"
+   },
+   "category": "主食面点",
+   "steps": [
+    {
+     "n": 1,
+     "text": "肉糜加姜葱、料酒、盐、白胡椒粉打匀，分几次加水搅打上劲",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-1.jpg",
+      "source": "https://i2.chuimg.com/d0a41ce6927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "每次加水都要打到水分全部吸收，肉馅有弹性，不坍塌，但是也容易搅动的柔软度",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-2.jpg",
+      "source": "https://i2.chuimg.com/d046133a927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "馄饨皮四周抹水，包入肉馅",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-3.jpg",
+      "source": "https://i2.chuimg.com/cfd64cb2927611e6b87c0242ac110003_4512w_3008h.jpg"
+     }
+    },
+    {
+     "n": 4,
+     "text": "对折捏口",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-4.jpg",
+      "source": "https://i2.chuimg.com/cdfa1608927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 5,
+     "text": "左右下方尖角折起",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-5.jpg",
+      "source": "https://i2.chuimg.com/cdb304f2927611e6b87c0242ac110003_1200w_844h.jpg"
+     }
+    },
+    {
+     "n": 6,
+     "text": "包出大馄饨（抄手）",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-6.jpg",
+      "source": "https://i2.chuimg.com/cd4937d4927611e6a9a10242ac110002_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 7,
+     "text": "辣油和红酱油一比一",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-7.jpg",
+      "source": "https://i2.chuimg.com/ccf735d8927611e6a9a10242ac110002_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 8,
+     "text": "兑在一起搅匀，加入蒜泥搅匀待用",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-8.jpg",
+      "source": "https://i2.chuimg.com/cc957258927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 9,
+     "text": "煮一锅开水，拉歌蒂尼陶瓷锅，深度足够，特别适合煮馄饨、面条、水铺蛋",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-9.jpg",
+      "source": "https://i2.chuimg.com/cc385604927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 10,
+     "text": "下抄手，点几次冷水",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-10.jpg",
+      "source": "https://i2.chuimg.com/cbe56926927611e6b87c0242ac110003_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 11,
+     "text": "煮透后出锅",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-11.jpg",
+      "source": "https://i2.chuimg.com/cb8f59c8927611e6a9a10242ac110002_1200w_800h.jpg"
+     }
+    },
+    {
+     "n": 12,
+     "text": "舀入红辣油酱汁，撒香芹末，拌匀了来不及拍就下肚一碗",
+     "image": {
+      "local": "images/2026-11-26/steps/101861901-12.jpg",
+      "source": "https://i2.chuimg.com/cb212f84927611e6a9a10242ac110002_800w_533h.jpg"
+     }
+    }
+   ]
+  },
+  {
+   "id": "100584554",
+   "name": "东北酸菜炖肉",
+   "url": "https://www.xiachufang.com/recipe/100584554/",
+   "author": "leaf小晔",
+   "score": 7.7,
+   "made": 11,
+   "desc": "东北人最爱吃的美味，尤其大冷天的，吃着热乎乎的酸菜，就着米饭，一碗饭根本就不够的说。",
+   "ingredients": [
+    {
+     "name": "五花肉",
+     "amount": "300g"
+    },
+    {
+     "name": "酸菜",
+     "amount": "1000g"
+    },
+    {
+     "name": "油",
+     "amount": "适量"
+    },
+    {
+     "name": "鸡精",
+     "amount": "5g"
+    },
+    {
+     "name": "粉丝",
+     "amount": "一把"
+    },
+    {
+     "name": "盐",
+     "amount": "适量"
+    },
+    {
+     "name": "十三香",
+     "amount": "少许"
+    },
+    {
+     "name": "蒜",
+     "amount": "4瓣"
+    },
+    {
+     "name": "酱油",
+     "amount": "2勺"
+    },
+    {
+     "name": "香醋",
+     "amount": "可加可不加"
+    }
+   ],
+   "stepCount": 5,
+   "lists": [
+    "rising"
+   ],
+   "rank": {
+    "rising": 19
+   },
+   "image": {
+    "local": "images/2026-11-26/100584554.jpg",
+    "source": "https://i2.chuimg.com/34b85dac89b511e6b87c0242ac110003_1280w_1280h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "五花肉洗净，切薄片，备用。酸菜洗净，切丝，用热水烫一下，去除部分酸味，用手攥干。",
+     "image": null
+    },
+    {
+     "n": 2,
+     "text": "蒜用刀拍扁即可，粉丝拿开水泡软，备用。",
+     "image": null
+    },
+    {
+     "n": 3,
+     "text": "开火，热锅凉油，油热后，放入拍扁的蒜，加入十三香，煸出蒜香后，放入五花肉炒出油，这个很重要，五花肉吃着是否油腻全靠这一步。",
+     "image": null
+    },
+    {
+     "n": 4,
+     "text": "放入攥干的酸菜，大火猛炒，酸菜微干时，淋上少许酱油调色，再次翻炒，酸菜均匀着色后，倒水，要没过酸菜。水开后，加盐、鸡精调味。",
+     "image": null
+    },
+    {
+     "n": 5,
+     "text": "大火再次烧开，加入泡好的粉丝，煮成透明的颜色即可关火享受美食啦！",
+     "image": null
+    }
+   ]
+  },
+  {
+   "id": "107757892",
+   "name": "香喷喷的葱油鸡，简单美味家常菜",
+   "url": "https://www.xiachufang.com/recipe/107757892/",
+   "author": "草莓芒果菠萝冰",
+   "score": null,
+   "made": 0,
+   "desc": "步骤简单味道好",
+   "ingredients": [
+    {
+     "name": "鸡肉",
+     "amount": "半只"
+    },
+    {
+     "name": "姜",
+     "amount": "几片"
+    },
+    {
+     "name": "小葱",
+     "amount": "1把"
+    },
+    {
+     "name": "洋葱",
+     "amount": "1个"
+    },
+    {
+     "name": "香菜",
+     "amount": "1把"
+    },
+    {
+     "name": "蒜沫",
+     "amount": "几瓣"
+    },
+    {
+     "name": "生抽",
+     "amount": "几勺"
+    },
+    {
+     "name": "白糖",
+     "amount": "2勺"
+    }
+   ],
+   "stepCount": 3,
+   "lists": [
+    "homestyle"
+   ],
+   "rank": {
+    "homestyle": 37
+   },
+   "image": {
+    "local": "images/2026-11-26/107757892.jpg",
+    "source": "https://i2.chuimg.com/f18937355d2746498c9ed628a4500d6f_1280w_960h.jpg"
+   },
+   "category": "家常菜",
+   "steps": [
+    {
+     "n": 1,
+     "text": "半边鸡洗干净，擦干水分，盘子底部铺上几片姜片、切好的小葱段，放上鸡肉，在鸡肉的面上继续铺上几片姜片跟葱段。蒸锅水烧开，放入鸡肉，盖锅盖大火蒸25分钟，我喜欢吃肉熟透一点的口感所以蒸了25分钟（老鸡可以看鸡的大小适当加时间，如果是嫩鸡，喜欢嫩一点口感的话蒸20分钟也可以），时间到之后，将鸡肉取出晾凉砍块",
+     "image": {
+      "local": "images/2026-11-26/steps/107757892-1.jpg",
+      "source": "https://i2.chuimg.com/eac8014eb4344ab8bde6c55caa934ad8_1280w_960h.jpg"
+     }
+    },
+    {
+     "n": 2,
+     "text": "另起锅，锅里放足够的油，油热后放切好的洋葱、小葱、香菜，小火慢慢炸香，炸到小葱洋葱都变得焦黄焦黄的之后捞出锅里的材料，放入几勺生抽（具体生抽放多少看鸡肉的份量，我这里放了3勺），两勺白糖，跟葱油一起搅匀煮沸，这里可以试一下葱油味道咸淡根据个人口味再作调整（如果是淡了就加一点盐，咸了加一点糖），最后放蒜沫关火。",
+     "image": {
+      "local": "images/2026-11-26/steps/107757892-2.jpg",
+      "source": "https://i2.chuimg.com/595ea8c86e884c43b7e248c70476b1fc_1280w_1706h.jpg"
+     }
+    },
+    {
+     "n": 3,
+     "text": "炸好的葱油淋上砍好的鸡肉上面，一道香喷喷的葱油鸡就完成啦",
+     "image": {
+      "local": "images/2026-11-26/steps/107757892-3.jpg",
+      "source": "https://i2.chuimg.com/bc83d0fb70d34596ba2f306225ea8349_1280w_960h.jpg"
+     }
+    }
+   ]
+  }
+ ]
+}
