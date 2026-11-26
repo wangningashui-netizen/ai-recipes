@@ -1,382 +1,382 @@
 {
- "schemaVersion": 1,
- "date": "2026-11-16",
- "timezone": "Asia/Shanghai",
- "entries": [
-  {
-   "id": "104033524",
-   "name": "秒杀吉野家的照烧肥牛",
-   "url": "https://www.xiachufang.com/recipe/104033524/",
-   "author": "许慕娴",
-   "score": 8.4,
-   "made": 2824,
-   "desc": "无敌简单！秒杀吉野家的照烧肥牛饭，超级下饭！配上这个，男朋友能吃两碗饭",
-   "ingredients": [
+  "schemaVersion": 1,
+  "date": "2026-11-16",
+  "timezone": "Asia/Shanghai",
+  "entries": [
     {
-     "name": "肥牛",
-     "amount": "300g"
+      "id": "104033524",
+      "name": "秒杀吉野家的照烧肥牛",
+      "url": "https://www.xiachufang.com/recipe/104033524/",
+      "author": "许慕娴",
+      "score": 8.4,
+      "made": 2824,
+      "desc": "无敌简单！秒杀吉野家的照烧肥牛饭，超级下饭！配上这个，男朋友能吃两碗饭",
+      "ingredients": [
+        {
+          "name": "肥牛",
+          "amount": "300g"
+        },
+        {
+          "name": "洋葱",
+          "amount": "半个"
+        },
+        {
+          "name": "胡萝卜",
+          "amount": "半根"
+        },
+        {
+          "name": "蒜片",
+          "amount": "少许"
+        },
+        {
+          "name": "白糖",
+          "amount": "1勺"
+        },
+        {
+          "name": "生抽",
+          "amount": "4勺"
+        },
+        {
+          "name": "蚝油",
+          "amount": "1勺"
+        },
+        {
+          "name": "淀粉",
+          "amount": "半勺"
+        },
+        {
+          "name": "黑椒粒",
+          "amount": "半勺"
+        }
+      ],
+      "stepCount": 14,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 1
+      },
+      "image": {
+        "local": "images/2026-11-16/104033524.jpg",
+        "source": "https://i2.chuimg.com/ca4dad60fc8341299a78c8ac7a230838_1256w_1005h.jpg"
+      },
+      "category": "家常菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "烧水加入姜片",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/48fbc53c01bf4782a6dc6cbee1894f01_1656w_1242h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "冰冻的肥牛解冻，我买的是冰冻牛展，比较有嚼劲，超市就有，如果买不到买肥牛也可以的。焯水，到变色马上捞起，不能煮过头，牛肉会失去鲜味",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a9288e51a8584cc49cd95712b89a8b9e_1656w_1242h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "捞起备用",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/fd3186ba2b5c4f05a3ed2a5c9ed883c6_1412w_1242h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "调个酱汁，4勺酱油",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d82fc042ac7c48949df47437bac8705d_1242w_1242h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "1勺蚝油",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/870661ab3c444d3d8ebdbc61b8b772e7_1242w_1242h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "一勺白糖",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d0a81db4acf74a0faa0049388f19163e_1242w_1242h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "半勺淀粉，再加入几勺清水",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/aaa586c4ad4946afbc7980fd98783406_1298w_1240h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "加入半勺黑椒粒，黑椒粉也可以",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/ef9a174c0394487a9fa7bfe551e70bd6_1242w_1242h.jpg"
+          }
+        },
+        {
+          "n": 9,
+          "text": "锅下油，加入蒜蓉和切好的洋葱",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/3fbfda6e62b742c6973f7c6a6e0039b5_1242w_1242h.jpg"
+          }
+        },
+        {
+          "n": 10,
+          "text": "洋葱炒出香味后加入胡萝卜，其实可以一起下的",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/50e5bbef4acd43d594a6d7be76304b1c_1656w_1242h.jpg"
+          }
+        },
+        {
+          "n": 11,
+          "text": "洋葱胡萝卜炒至有些软加入焯过水的肥牛片",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/e1955f25d0794e2185b87627a8529c0e_1464w_1242h.jpg"
+          }
+        },
+        {
+          "n": 12,
+          "text": "炒半分钟后加入调好的酱汁，翻炒1分钟出锅",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/bec3736d1de647718c4929ea42b4d265_1240w_1250h.jpg"
+          }
+        },
+        {
+          "n": 13,
+          "text": "超级香的照烧汁肥牛就做好咯",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/4b3a3920857147059dfee91a1a2fee50_1588w_1242h.jpg"
+          }
+        },
+        {
+          "n": 14,
+          "text": "超级有嚼劲的牛展～",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/9e07d51885d94860a096e731949ea05f_1600w_1242h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "洋葱",
-     "amount": "半个"
+      "id": "107299062",
+      "name": "绝了～口蘑鸡腿真的好吃，简单快手",
+      "url": "https://www.xiachufang.com/recipe/107299062/",
+      "author": "李妈妈的食堂",
+      "score": 8.0,
+      "made": 288,
+      "desc": "煮菜的时候已经开始流口水了🤩口蘑的鲜香➕鸡腿肉质鲜嫩，嘎嘎香，嘎嘎好吃❗我家小孩太爱吃了！",
+      "ingredients": [
+        {
+          "name": "口蘑",
+          "amount": "250克"
+        },
+        {
+          "name": "手枪鸡腿",
+          "amount": "2只"
+        },
+        {
+          "name": "大葱",
+          "amount": "1根"
+        },
+        {
+          "name": "姜",
+          "amount": "适量"
+        },
+        {
+          "name": "蒜",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 7,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 5
+      },
+      "image": {
+        "local": "images/2026-11-16/107299062.jpg",
+        "source": "https://i2.chuimg.com/f603954ef70c45cdbce9a05d6550d53d_1920w_2560h.jpg"
+      },
+      "category": "快手菜",
+      "steps": [
+        {
+          "n": 1,
+          "text": "食材处理好：1️⃣口蘑去根部，切4瓣。2️⃣手枪鸡腿剔骨，把鸡肉切块3️⃣大葱斜切段4️⃣姜切粒5️⃣蒜切粒",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/46bb44a89ecc461aaafe0fb57ebff570_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "鸡肉腌制：少许胡椒粉，1茶匙盐，1茶匙鸡粉，2茶匙砂糖，1茶匙淀粉，1勺料酒，1勺蚝油，1勺生抽，搅拌均匀后，加1勺花生油锁味✔️腌制15分钟",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/97e47fc204cd45918a4203386cada0ed_1280w_1707h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "👩🏻‍🍳做法：1️⃣热油锅下鸡肉，把两面煎至金黄后放入姜蒜炒出香味2️⃣盛起鸡肉后留底油，放入口蘑炒至焦黄3️⃣倒入鸡肉和大葱，加入料汁翻炒至收汁就可出锅",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/a2afa09803aa455d9f9c540f709ea0b0_1280w_1707h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/518b548ca45f402795afbc361e119bd3_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/3840e596c6624ee5a2f02ed27455085b_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/3047ccf7a09149febf4718d6e5f743e6_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/b57a6fe10f2f44aa91795099e60e4f03_1920w_2560h.jpg"
+          }
+        }
+      ]
     },
     {
-     "name": "胡萝卜",
-     "amount": "半根"
-    },
-    {
-     "name": "蒜片",
-     "amount": "少许"
-    },
-    {
-     "name": "白糖",
-     "amount": "1勺"
-    },
-    {
-     "name": "生抽",
-     "amount": "4勺"
-    },
-    {
-     "name": "蚝油",
-     "amount": "1勺"
-    },
-    {
-     "name": "淀粉",
-     "amount": "半勺"
-    },
-    {
-     "name": "黑椒粒",
-     "amount": "半勺"
+      "id": "107831239",
+      "name": "🎃万圣节小零食，烤一盘👻🍠幽灵红薯脆片",
+      "url": "https://www.xiachufang.com/recipe/107831239/",
+      "author": "Dana大拿",
+      "score": null,
+      "made": 0,
+      "desc": "黄油和红薯也太搭了，烤的时候满屋飘香，奶香奶香的。",
+      "ingredients": [
+        {
+          "name": "红心红薯",
+          "amount": "4个"
+        },
+        {
+          "name": "软化黄油",
+          "amount": "适量"
+        },
+        {
+          "name": "白砂糖",
+          "amount": "适量"
+        }
+      ],
+      "stepCount": 8,
+      "lists": [
+        "popular"
+      ],
+      "rank": {
+        "popular": 9
+      },
+      "image": {
+        "local": "images/2026-11-16/107831239.jpg",
+        "source": "https://i2.chuimg.com/8a109e2c949f4a0395d24446b6ea5cb6_1920w_2560h.jpg"
+      },
+      "category": "凉菜小吃",
+      "steps": [
+        {
+          "n": 1,
+          "text": "红薯表皮清洗干净，最好选用红心红薯，烤出来的颜色和氛围好更强一些。",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/bbcceb976be747caa37fef72a67e6b88_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 2,
+          "text": "擦丝器擦出薄片（这一步一定要小心，不要擦伤手指）清水浸泡掉多余的淀粉",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d473e402dc16483eb3399897a0f63fa4_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 3,
+          "text": "擦干表面水分，用刀雕刻出表情，表情越搞怪看出来效果越好",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c16cf43620cd41f5a5ab53823d975619_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 4,
+          "text": "两面都刷一层软化的黄油",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/053c1ab388424abfb2a61bddf6f4ac5c_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 5,
+          "text": "撒上白砂糖，撒一面即可",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/c410f61af87c4517812d08fbdba71b17_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 6,
+          "text": "风炉160度烤25分钟，烘烤的温度和时间根据红薯切片的厚度来调整，总之不要烤糊了就好。刚出炉软软的，放凉后就会变脆",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/154999f85e574c66bdaf0c8e9e43c7f3_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 7,
+          "text": "一盘子可爱鬼👻",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/d158781fa6f940eaa660865757045f31_1920w_2560h.jpg"
+          }
+        },
+        {
+          "n": 8,
+          "text": "打个灯光，氛围感这不就有了",
+          "image": {
+            "local": null,
+            "source": "https://i2.chuimg.com/7b24f29f82f643669a5aa63ed0e4d6e3_1920w_2560h.jpg"
+          }
+        }
+      ]
     }
-   ],
-   "stepCount": 14,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 1
-   },
-   "image": {
-    "local": "images/2026-11-16/104033524.jpg",
-    "source": "https://i2.chuimg.com/ca4dad60fc8341299a78c8ac7a230838_1256w_1005h.jpg"
-   },
-   "category": "家常菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "烧水加入姜片",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-1.jpg",
-      "source": "https://i2.chuimg.com/48fbc53c01bf4782a6dc6cbee1894f01_1656w_1242h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "冰冻的肥牛解冻，我买的是冰冻牛展，比较有嚼劲，超市就有，如果买不到买肥牛也可以的。焯水，到变色马上捞起，不能煮过头，牛肉会失去鲜味",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-2.jpg",
-      "source": "https://i2.chuimg.com/a9288e51a8584cc49cd95712b89a8b9e_1656w_1242h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "捞起备用",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-3.jpg",
-      "source": "https://i2.chuimg.com/fd3186ba2b5c4f05a3ed2a5c9ed883c6_1412w_1242h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "调个酱汁，4勺酱油",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-4.jpg",
-      "source": "https://i2.chuimg.com/d82fc042ac7c48949df47437bac8705d_1242w_1242h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "1勺蚝油",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-5.jpg",
-      "source": "https://i2.chuimg.com/870661ab3c444d3d8ebdbc61b8b772e7_1242w_1242h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "一勺白糖",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-6.jpg",
-      "source": "https://i2.chuimg.com/d0a81db4acf74a0faa0049388f19163e_1242w_1242h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "半勺淀粉，再加入几勺清水",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-7.jpg",
-      "source": "https://i2.chuimg.com/aaa586c4ad4946afbc7980fd98783406_1298w_1240h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "加入半勺黑椒粒，黑椒粉也可以",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-8.jpg",
-      "source": "https://i2.chuimg.com/ef9a174c0394487a9fa7bfe551e70bd6_1242w_1242h.jpg"
-     }
-    },
-    {
-     "n": 9,
-     "text": "锅下油，加入蒜蓉和切好的洋葱",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-9.jpg",
-      "source": "https://i2.chuimg.com/3fbfda6e62b742c6973f7c6a6e0039b5_1242w_1242h.jpg"
-     }
-    },
-    {
-     "n": 10,
-     "text": "洋葱炒出香味后加入胡萝卜，其实可以一起下的",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-10.jpg",
-      "source": "https://i2.chuimg.com/50e5bbef4acd43d594a6d7be76304b1c_1656w_1242h.jpg"
-     }
-    },
-    {
-     "n": 11,
-     "text": "洋葱胡萝卜炒至有些软加入焯过水的肥牛片",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-11.jpg",
-      "source": "https://i2.chuimg.com/e1955f25d0794e2185b87627a8529c0e_1464w_1242h.jpg"
-     }
-    },
-    {
-     "n": 12,
-     "text": "炒半分钟后加入调好的酱汁，翻炒1分钟出锅",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-12.jpg",
-      "source": "https://i2.chuimg.com/bec3736d1de647718c4929ea42b4d265_1240w_1250h.jpg"
-     }
-    },
-    {
-     "n": 13,
-     "text": "超级香的照烧汁肥牛就做好咯",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-13.jpg",
-      "source": "https://i2.chuimg.com/4b3a3920857147059dfee91a1a2fee50_1588w_1242h.jpg"
-     }
-    },
-    {
-     "n": 14,
-     "text": "超级有嚼劲的牛展～",
-     "image": {
-      "local": "images/2026-11-16/steps/104033524-14.jpg",
-      "source": "https://i2.chuimg.com/9e07d51885d94860a096e731949ea05f_1600w_1242h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107299062",
-   "name": "绝了～口蘑鸡腿真的好吃，简单快手",
-   "url": "https://www.xiachufang.com/recipe/107299062/",
-   "author": "李妈妈的食堂",
-   "score": 8.0,
-   "made": 288,
-   "desc": "煮菜的时候已经开始流口水了🤩口蘑的鲜香➕鸡腿肉质鲜嫩，嘎嘎香，嘎嘎好吃❗我家小孩太爱吃了！",
-   "ingredients": [
-    {
-     "name": "口蘑",
-     "amount": "250克"
-    },
-    {
-     "name": "手枪鸡腿",
-     "amount": "2只"
-    },
-    {
-     "name": "大葱",
-     "amount": "1根"
-    },
-    {
-     "name": "姜",
-     "amount": "适量"
-    },
-    {
-     "name": "蒜",
-     "amount": "适量"
-    }
-   ],
-   "stepCount": 7,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 5
-   },
-   "image": {
-    "local": "images/2026-11-16/107299062.jpg",
-    "source": "https://i2.chuimg.com/f603954ef70c45cdbce9a05d6550d53d_1920w_2560h.jpg"
-   },
-   "category": "快手菜",
-   "steps": [
-    {
-     "n": 1,
-     "text": "食材处理好：1️⃣口蘑去根部，切4瓣。2️⃣手枪鸡腿剔骨，把鸡肉切块3️⃣大葱斜切段4️⃣姜切粒5️⃣蒜切粒",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-1.jpg",
-      "source": "https://i2.chuimg.com/46bb44a89ecc461aaafe0fb57ebff570_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "鸡肉腌制：少许胡椒粉，1茶匙盐，1茶匙鸡粉，2茶匙砂糖，1茶匙淀粉，1勺料酒，1勺蚝油，1勺生抽，搅拌均匀后，加1勺花生油锁味✔️腌制15分钟",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-2.jpg",
-      "source": "https://i2.chuimg.com/97e47fc204cd45918a4203386cada0ed_1280w_1707h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "👩🏻‍🍳做法：1️⃣热油锅下鸡肉，把两面煎至金黄后放入姜蒜炒出香味2️⃣盛起鸡肉后留底油，放入口蘑炒至焦黄3️⃣倒入鸡肉和大葱，加入料汁翻炒至收汁就可出锅",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-3.jpg",
-      "source": "https://i2.chuimg.com/a2afa09803aa455d9f9c540f709ea0b0_1280w_1707h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-4.jpg",
-      "source": "https://i2.chuimg.com/518b548ca45f402795afbc361e119bd3_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-5.jpg",
-      "source": "https://i2.chuimg.com/3840e596c6624ee5a2f02ed27455085b_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-6.jpg",
-      "source": "https://i2.chuimg.com/3047ccf7a09149febf4718d6e5f743e6_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "",
-     "image": {
-      "local": "images/2026-11-16/steps/107299062-7.jpg",
-      "source": "https://i2.chuimg.com/b57a6fe10f2f44aa91795099e60e4f03_1920w_2560h.jpg"
-     }
-    }
-   ]
-  },
-  {
-   "id": "107831239",
-   "name": "🎃万圣节小零食，烤一盘👻🍠幽灵红薯脆片",
-   "url": "https://www.xiachufang.com/recipe/107831239/",
-   "author": "Dana大拿",
-   "score": null,
-   "made": 0,
-   "desc": "黄油和红薯也太搭了，烤的时候满屋飘香，奶香奶香的。",
-   "ingredients": [
-    {
-     "name": "红心红薯",
-     "amount": "4个"
-    },
-    {
-     "name": "软化黄油",
-     "amount": "适量"
-    },
-    {
-     "name": "白砂糖",
-     "amount": "适量"
-    }
-   ],
-   "stepCount": 8,
-   "lists": [
-    "popular"
-   ],
-   "rank": {
-    "popular": 9
-   },
-   "image": {
-    "local": "images/2026-11-16/107831239.jpg",
-    "source": "https://i2.chuimg.com/8a109e2c949f4a0395d24446b6ea5cb6_1920w_2560h.jpg"
-   },
-   "category": "凉菜小吃",
-   "steps": [
-    {
-     "n": 1,
-     "text": "红薯表皮清洗干净，最好选用红心红薯，烤出来的颜色和氛围好更强一些。",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-1.jpg",
-      "source": "https://i2.chuimg.com/bbcceb976be747caa37fef72a67e6b88_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 2,
-     "text": "擦丝器擦出薄片（这一步一定要小心，不要擦伤手指）清水浸泡掉多余的淀粉",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-2.jpg",
-      "source": "https://i2.chuimg.com/d473e402dc16483eb3399897a0f63fa4_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 3,
-     "text": "擦干表面水分，用刀雕刻出表情，表情越搞怪看出来效果越好",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-3.jpg",
-      "source": "https://i2.chuimg.com/c16cf43620cd41f5a5ab53823d975619_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 4,
-     "text": "两面都刷一层软化的黄油",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-4.jpg",
-      "source": "https://i2.chuimg.com/053c1ab388424abfb2a61bddf6f4ac5c_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 5,
-     "text": "撒上白砂糖，撒一面即可",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-5.jpg",
-      "source": "https://i2.chuimg.com/c410f61af87c4517812d08fbdba71b17_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 6,
-     "text": "风炉160度烤25分钟，烘烤的温度和时间根据红薯切片的厚度来调整，总之不要烤糊了就好。刚出炉软软的，放凉后就会变脆",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-6.jpg",
-      "source": "https://i2.chuimg.com/154999f85e574c66bdaf0c8e9e43c7f3_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 7,
-     "text": "一盘子可爱鬼👻",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-7.jpg",
-      "source": "https://i2.chuimg.com/d158781fa6f940eaa660865757045f31_1920w_2560h.jpg"
-     }
-    },
-    {
-     "n": 8,
-     "text": "打个灯光，氛围感这不就有了",
-     "image": {
-      "local": "images/2026-11-16/steps/107831239-8.jpg",
-      "source": "https://i2.chuimg.com/7b24f29f82f643669a5aa63ed0e4d6e3_1920w_2560h.jpg"
-     }
-    }
-   ]
-  }
- ]
+  ]
 }
